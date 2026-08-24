@@ -6,14 +6,13 @@ image: recipe-image-1787568885835-i4nvv.jpg
 # ---
 tags:
 - asian
-- laksa
 - quick
 - seafood
 description: This quick and easy laksa recipe, developed by chef Jean-Baptiste 'JB' Alexandre, delivers 90% of the flavour
   of a traditional laksa in just 20 minutes. It relies on prawns for a rich broth, though fish can be substituted for a similarly
   delicious result.
 yield: 4 servings
-total_time: 20 minutes
+total_time: '20'
 ingredients:
 - 1 tbsp vegetable oil
 - 2/3 cup (180 g) laksa paste¹ (Por Kwan brand)
