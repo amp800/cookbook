@@ -3,7 +3,6 @@ date_added: 2026-08-24
 layout: recipe
 title: JB'S 20-MINUTE LAKSA
 image: jbs-20-minute-laksa.jpg
-original_url:
 # ---
 tags:
 - asian
@@ -14,7 +13,7 @@ description: This quick and easy laksa recipe, developed by chef Jean-Baptiste '
   of a traditional laksa in just 20 minutes. It relies on prawns for a rich broth, though fish can be substituted for a similarly
   delicious result.
 yield: 4 servings
-total_time: 20 minutes
+total_time: '20'
 ingredients:
 - 1 tbsp vegetable oil
 - 2/3 cup (180 g) laksa paste¹ (Por Kwan brand)
