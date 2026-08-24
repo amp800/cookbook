@@ -15,6 +15,7 @@ description: I never knew chickpeas could be so meltingly creamy by adding a smi
   its wonderful Middle Eastern and sub-continental food scene. I’m obsessed!
 yield: 5 servings
 prep_time: '15'
+cook_time: '45'
 total_time: '60'
 ingredients:
 - 3 tbsp ghee (substitute unsalted butter or coconut oil (for vegan)

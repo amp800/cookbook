@@ -12,6 +12,7 @@ description: Just a handful of ingredients is all that's required to make these 
   base topped with a lemon curd. This is a really easy recipe, just ensure you don't overbake!
 yield: 16 servings
 prep_time: '15'
+cook_time: '220'
 total_time: '235'
 ingredients:
 - 'SHORTBREAD BASE:'

@@ -11,6 +11,7 @@ description: One simple batter turns into a 3 layered cake with a top layer of s
   base. It's like....magic!
 yield: 9 servings
 prep_time: '20'
+cook_time: '50'
 total_time: '70'
 ingredients:
 - 4 eggs (yolks and whites separated (at room temperature))

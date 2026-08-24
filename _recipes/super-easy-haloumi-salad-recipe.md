@@ -11,6 +11,7 @@ tags:
 description: On the table in under 20 minutes, this easy vegetarian haloumi salad is perfect when time is short.
 yield: 4 servings
 prep_time: '10'
+cook_time: '10'
 total_time: '20'
 ingredients:
 - 250 gram pkt pearl couscous

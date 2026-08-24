@@ -12,6 +12,7 @@ description: A simple take on potato salad with fresh herbs, onion, and a light 
   side for cookouts, sandwiches, and more!
 yield: 14 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 'POTATOES & VEGETABLES:'

@@ -11,6 +11,7 @@ tags:
 description: Make boring greens great again with this splendid side dish.
 yield: 4 servings
 prep_time: '20'
+cook_time: '5'
 total_time: '25'
 ingredients:
 - 200 gram snow peas, ends trimmed

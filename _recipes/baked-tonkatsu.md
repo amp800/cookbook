@@ -12,6 +12,7 @@ description: Crispy on the outside and juicy on the inside, this Baked Tonkatsu 
   this popular dish at home.
 yield: 2 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 3/4 cup panko (japanese breadcrumbs)

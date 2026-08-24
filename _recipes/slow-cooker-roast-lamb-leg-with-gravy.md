@@ -11,6 +11,7 @@ description: The easiest, most succulent roast lamb you'll ever have! This is no
   the meat off using tongs.
 yield: 5 servings
 prep_time: '5'
+cook_time: '600'
 total_time: '605'
 ingredients:
 - 2.0 kilogram / 4 pound lamb leg, bone in ((note 1))

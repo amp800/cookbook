@@ -12,6 +12,7 @@ description: Learn how to make restaurant style beef shawarma at home! Start by 
   and onions for the ultimate shawarma sandwiches!
 yield: 6 servings
 prep_time: '5'
+cook_time: '70'
 total_time: '75'
 ingredients:
 - 2 1/2 pounds flank, ribeye, (or skirt steak), thinly sliced

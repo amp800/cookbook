@@ -11,6 +11,7 @@ description: This is a really authentic recipe. It is super fast to make, incred
   of spice.
 yield: 2 servings
 prep_time: '10'
+cook_time: '10'
 total_time: '20'
 ingredients:
 - 2 teaspoon cornflour / cornstarch (or 2 tablespoon uncooked rice (any rice is fine) (note 1))

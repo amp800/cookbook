@@ -9,6 +9,7 @@ tags:
 - mains
 yield: 6 servings
 prep_time: '5'
+cook_time: '360'
 total_time: '365'
 ingredients:
 - 1 kg pork shoulder

@@ -12,6 +12,7 @@ description: One of Korea's most famous food exports! The key here is the Bibimb
   repeat ingredients and it's an easy recipe - and it's MEANT to be served at room temp so don't rush!
 yield: 4 servings
 prep_time: '40'
+cook_time: '30'
 total_time: '70'
 ingredients:
 - 4 cups cooked white rice (preferably short grain (note 1))

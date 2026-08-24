@@ -12,6 +12,7 @@ description: The marinade for the chicken is so sensational that I use it even w
   is incredible - you can really smell the oregano and garlic!
 yield: 4 servings
 prep_time: '20'
+cook_time: '6'
 total_time: '26'
 ingredients:
 - 1 kilogram chicken thigh fillets (boneless skinless)

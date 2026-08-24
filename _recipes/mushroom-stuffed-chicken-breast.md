@@ -11,6 +11,7 @@ description: These juicy chicken breasts are stuffed with garlicky mushrooms, sp
   cheese. Simple to make with just a few ingredients, this is how to transform chicken breast from ho-hum into "ohhh yum!"
 yield: 2 servings
 prep_time: '15'
+cook_time: '30'
 total_time: '45'
 ingredients:
 - 2 x 220 gram / 7 ounce chicken breast (skinless boneless (note 1))

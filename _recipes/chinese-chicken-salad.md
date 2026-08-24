@@ -12,6 +12,7 @@ description: 'This one is all about the fabulous Asian Dressing and the slaw-typ
   crunchy noodles, they totally make this! Alternative Dressing: standby Asian Sesame Dressing (keeps for weeks).'
 yield: 2 servings
 prep_time: '15'
+cook_time: '0'
 total_time: '15'
 ingredients:
 - 2 tablespoon light soy sauce ((note 1))

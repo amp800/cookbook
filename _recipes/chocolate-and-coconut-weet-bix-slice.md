@@ -12,6 +12,7 @@ description: Transform Weet-Bix into this easy chocolate and coconut slice. It m
   or afternoon tea.
 yield: 24 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 3 weet-bix biscuits

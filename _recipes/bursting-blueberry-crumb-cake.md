@@ -11,6 +11,7 @@ description: With almost double the blueberries of normal recipes and extra crun
   Cake is like a blueberry crumble on a soft, warm lemon cake. Melty scoop of vanilla ice cream on top is perfection!
 yield: 12 servings
 prep_time: '15'
+cook_time: '65'
 total_time: '80'
 ingredients:
 - 'CRUNCH CRUMB (STREUSEL):'

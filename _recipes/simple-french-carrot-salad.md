@@ -14,6 +14,7 @@ description: This carrot salad will surprise you - it's so simple, yet so incred
   - this is tastier! 😂
 yield: 5 servings
 prep_time: '10'
+cook_time: '0'
 total_time: '10'
 ingredients:
 - 4 carrots (medium, peeled)

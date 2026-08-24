@@ -13,6 +13,7 @@ description: Baingan bharta is THE eggplant dish that will make you fall in love
   whole eggplants on an open flame—or the sauté method for something a little easier.
 yield: 2 servings
 prep_time: '10'
+cook_time: '30'
 total_time: '40'
 ingredients:
 - 1 medium-sized eggplant (about 1 pound, (or 450 gram))

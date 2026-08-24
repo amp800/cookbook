@@ -11,6 +11,7 @@ tags:
 description: Tender, fall apart chunks of beef with mushrooms in the most incredible gravy ever.
 yield: 6 servings
 prep_time: '15'
+cook_time: '150'
 total_time: '165'
 ingredients:
 - 1 1/4 cup boiling water

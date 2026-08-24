@@ -11,6 +11,7 @@ description: This Peri Peri Chicken recipe results in crispy, smoky chicken that
   peri peri marinade! Bake it over potatoes and serve with the Green Sauce!
 yield: 6 servings
 prep_time: '20'
+cook_time: '70'
 total_time: '90'
 ingredients:
 - 1 small whole chicken (3-4 lbs) (or sub chicken pieces (see notes))

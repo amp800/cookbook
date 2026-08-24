@@ -10,6 +10,7 @@ tags:
 description: This recipe for fried cabbage and noodles with bacon is an unlikely winner thanks to the savory flavor combination
   and fast cooking time.
 prep_time: '5'
+cook_time: '10'
 total_time: '15'
 ingredients:
 - kosher salt

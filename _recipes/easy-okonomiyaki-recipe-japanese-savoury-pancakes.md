@@ -11,6 +11,7 @@ description: Okonomiyaki are Japanese savoury pancakes packed with flavour and S
   these 'as you like it' pancakes are sure to be the new family favourite.
 yield: 4 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 4 bacon slices (sliced, fat & rind removed)

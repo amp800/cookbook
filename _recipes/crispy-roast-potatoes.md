@@ -11,6 +11,7 @@ tags:
 description: Perfect roast potatoes. Fluffy inside with a crunchy exterior.
 yield: 4 servings
 prep_time: '10'
+cook_time: '50'
 total_time: '60'
 ingredients:
 - 1 kilogram (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))

@@ -10,6 +10,7 @@ tags:
 description: An simple yet delicious recipe for nước chấm. Make sure to taste as you go and adapt to your own liking.
 yield: 3 servings
 prep_time: '5'
+cook_time: '0'
 total_time: '5'
 ingredients:
 - 6 tablespoon water

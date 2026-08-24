@@ -3,6 +3,14 @@ layout: default
 ---
 
 {% assign yield_value = page.yield | default: page.yields | default: page.servings %}
+{% assign prep_minutes = page.prep_time | plus: 0 %}
+{% assign total_minutes = page.total_time | plus: 0 %}
+{% assign display_cook_time = page.cook_time %}
+{% if display_cook_time == nil or display_cook_time == empty %}
+  {% if prep_minutes > 0 and total_minutes > 0 and total_minutes >= prep_minutes %}
+    {% assign display_cook_time = total_minutes | minus: prep_minutes %}
+  {% endif %}
+{% endif %}
 
 <div class="split-layout">
   
@@ -31,21 +39,24 @@ layout: default
       <h1 class="recipe-title">{{ page.title }}</h1>
       
       <div class="recipe-meta">
-        {% if page.total_time %}
-          <div class="meta-chip">
-            <span class="meta-chip-label">Total</span>
-            <span class="meta-chip-value">{{ page.total_time }}</span>
-          </div>
-        {% elsif page.cook_time %}
-          <div class="meta-chip">
-            <span class="meta-chip-label">Cook</span>
-            <span class="meta-chip-value">{{ page.cook_time }}</span>
-          </div>
-        {% endif %}
         {% if page.prep_time %}
           <div class="meta-chip">
             <span class="meta-chip-label">Prep</span>
-            <span class="meta-chip-value">{{ page.prep_time }}</span>
+            <span class="meta-chip-value"><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span>{{ page.prep_time }}</span>
+          </div>
+        {% endif %}
+        {% if page.prep_time and display_cook_time %}<span class="time-equation" aria-hidden="true">+</span>{% endif %}
+        {% if display_cook_time %}
+          <div class="meta-chip">
+            <span class="meta-chip-label">Cook</span>
+            <span class="meta-chip-value"><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span>{{ display_cook_time }}</span>
+          </div>
+        {% endif %}
+        {% if display_cook_time and page.total_time %}<span class="time-equation" aria-hidden="true">=</span>{% endif %}
+        {% if page.total_time %}
+          <div class="meta-chip">
+            <span class="meta-chip-label">Total</span>
+            <span class="meta-chip-value"><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span>{{ page.total_time }}</span>
           </div>
         {% endif %}
         {% if yield_value %}
@@ -130,8 +141,9 @@ layout: default
   "description": {{ page.description | jsonify }},
   "yield": {{ yield_value | jsonify }},
   "prep_time": {{ page.prep_time | jsonify }},
-  "cook_time": {{ page.cook_time | jsonify }},
+  "cook_time": {{ display_cook_time | jsonify }},
   "total_time": {{ page.total_time | jsonify }},
+  "image": {{ page.image | jsonify }},
   "tags": {{ page.tags | jsonify }},
   "ingredients": {{ page.ingredients | jsonify }},
   "directions": {{ page.directions | jsonify }},
@@ -142,6 +154,21 @@ layout: default
 
       <div id="recipe-editor" hidden>
         <h2 class="editor-heading">Edit Recipe</h2>
+
+        <div class="editor-image-section">
+          <label>Hero image</label>
+          <div class="editor-image-picker">
+            <img id="edit-image-preview" class="editor-image-preview" alt="Current hero image"{% if page.image %} src="{{ '/images/' | append: page.image | relative_url }}"{% else %} hidden{% endif %} />
+            <div class="editor-image-actions">
+              <input type="file" id="edit-image-gallery" accept="image/*" hidden />
+              <input type="file" id="edit-image-camera" accept="image/*" capture="environment" hidden />
+              <button type="button" class="editor-image-btn" id="edit-image-take">Take photo</button>
+              <button type="button" class="editor-image-btn" id="edit-image-gallery-btn">From gallery</button>
+              <span id="edit-image-name" class="editor-image-name"></span>
+            </div>
+          </div>
+          <p class="editor-image-note">Choose a new food photo; it will replace the current hero image when you save.</p>
+        </div>
 
         <div class="editor-field">
           <label for="edit-title">Title</label>
@@ -339,12 +366,26 @@ layout: default
   }
 
   .meta-chip-value {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
     font-family: 'Jost', sans-serif;
     font-size: 0.85rem;
     font-weight: 700;
     color: #000;
     line-height: 1.2;
     text-transform: uppercase;
+  }
+
+  .time-icon { font-size: 1rem; line-height: 1; }
+  .time-equation {
+    display: inline-flex;
+    align-items: center;
+    align-self: center;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #999;
   }
 
   .original-recipe-link {
@@ -512,13 +553,19 @@ layout: default
   }
 
   .cooking-ingredient {
+    display: inline;
     background: #E63946;
     color: #fff;
     padding: 1px 5px;
     font-weight: 700;
     border-radius: 2px;
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
+
+  .direction-text,
+  .ingredient-text { min-width: 0; overflow-wrap: anywhere; word-break: break-word; }
 
   .servings-control {
     display: flex;
@@ -607,6 +654,55 @@ layout: default
     color: #fff;
     transform: translateY(-2px);
   }
+
+  .editor-image-section {
+    margin-bottom: 28px;
+    border: 3px solid #000;
+    border-radius: 4px;
+    padding: 16px 20px;
+    background: #fff;
+  }
+
+  .editor-image-section > label {
+    display: block;
+    margin-bottom: 10px;
+    font-family: 'Jost', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .editor-image-picker { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .editor-image-preview {
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid #000;
+    border-radius: 4px;
+    background: #ddd;
+  }
+  .editor-image-actions { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .editor-image-btn {
+    font-family: 'Jost', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 10px 14px;
+    background: #000;
+    color: #fff;
+    border: 3px solid #000;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .editor-image-btn:hover { background: #E63946; border-color: #E63946; }
+  .editor-image-name, .editor-image-note {
+    font-family: 'Jost', sans-serif;
+    font-size: 0.75rem;
+    color: #666;
+  }
+  .editor-image-note { margin: 10px 0 0; }
 
   .editor-heading {
     margin-top: 0;
@@ -1392,6 +1488,20 @@ function enterEditMode() {
   if (cmBtn && cmBtn.classList.contains('active')) toggleCookingMode();
 
   var data = getRecipeSource();
+  _selectedImageName = '';
+  var imagePreview = document.getElementById('edit-image-preview');
+  if (imagePreview) {
+    imagePreview._sourceFile = null;
+    if (data.image) {
+      imagePreview.src = '{{ '/images/' | append: page.image | relative_url }}';
+      imagePreview.hidden = false;
+    } else {
+      imagePreview.removeAttribute('src');
+      imagePreview.hidden = true;
+    }
+  }
+  var imageName = document.getElementById('edit-image-name');
+  if (imageName) imageName.textContent = '';
 
   document.getElementById('edit-title').value = data.title || '';
   document.getElementById('edit-description').value = data.description || '';
@@ -1458,6 +1568,7 @@ function buildEditPayload() {
   return {
     title: document.getElementById('edit-title').value.trim(),
     description: document.getElementById('edit-description').value.trim(),
+    image: _selectedImageName || '',
     yield: buildYield(document.getElementById('edit-serves').value),
     prep_time: document.getElementById('edit-prep').value.trim(),
     cook_time: document.getElementById('edit-cook').value.trim(),
@@ -1471,6 +1582,96 @@ function buildEditPayload() {
 
 function encodeBase64Unicode(str) {
   return btoa(unescape(encodeURIComponent(str)));
+}
+
+var _selectedImageName = '';
+var _selectedImageUrl = '';
+
+function processEditorImage(file) {
+  return new Promise(function (resolve, reject) {
+    var url = URL.createObjectURL(file);
+    var img = new Image();
+    img.onload = function () {
+      URL.revokeObjectURL(url);
+      var max = 1600;
+      var scale = Math.min(1, max / Math.max(img.width, img.height));
+      var canvas = document.createElement('canvas');
+      canvas.width = Math.max(1, Math.round(img.width * scale));
+      canvas.height = Math.max(1, Math.round(img.height * scale));
+      var context = canvas.getContext('2d');
+      context.drawImage(img, 0, 0, canvas.width, canvas.height);
+      canvas.toBlob(function (blob) {
+        if (blob) resolve(blob);
+        else reject(new Error('Could not prepare that image'));
+      }, 'image/jpeg', 0.85);
+    };
+    img.onerror = function () {
+      URL.revokeObjectURL(url);
+      reject(new Error('Could not read that image'));
+    };
+    img.src = url;
+  });
+}
+
+function blobToBase64(blob) {
+  return new Promise(function (resolve, reject) {
+    var reader = new FileReader();
+    reader.onload = function () { resolve(String(reader.result).split(',')[1]); };
+    reader.onerror = function () { reject(new Error('Could not read the image data')); };
+    reader.readAsDataURL(blob);
+  });
+}
+
+async function uploadEditorImage(filename, blob, token) {
+  var content = await blobToBase64(blob);
+  var resp = await fetch(
+    'https://api.github.com/repos/' + EDIT_REPO + '/contents/images/' + filename,
+    {
+      method: 'PUT',
+      headers: {
+        'Authorization': 'token ' + token,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: 'Upload replacement recipe photo',
+        content: content,
+        branch: 'main'
+      })
+    }
+  );
+  if (!resp.ok) {
+    var body = {};
+    try { body = await resp.json(); } catch (e) {}
+    throw new Error(body.message || ('HTTP ' + resp.status));
+  }
+}
+
+function setupEditorImagePicker() {
+  var galleryBtn = document.getElementById('edit-image-gallery-btn');
+  var takeBtn = document.getElementById('edit-image-take');
+  var gallery = document.getElementById('edit-image-gallery');
+  var camera = document.getElementById('edit-image-camera');
+  var preview = document.getElementById('edit-image-preview');
+  var name = document.getElementById('edit-image-name');
+  if (!galleryBtn || !takeBtn || !gallery || !camera || !preview || !name) return;
+
+  function chosen(input) {
+    var file = input.files && input.files[0];
+    if (!file) return;
+    _selectedImageName = 'recipe-image-' + Date.now() + '-' + Math.random().toString(36).slice(2, 7) + '.jpg';
+    if (_selectedImageUrl) URL.revokeObjectURL(_selectedImageUrl);
+    _selectedImageUrl = URL.createObjectURL(file);
+    preview.src = _selectedImageUrl;
+    preview.hidden = false;
+    name.textContent = file.name;
+    preview._sourceFile = file;
+  }
+
+  galleryBtn.addEventListener('click', function () { gallery.click(); });
+  takeBtn.addEventListener('click', function () { camera.click(); });
+  gallery.addEventListener('change', function () { chosen(gallery); });
+  camera.addEventListener('change', function () { chosen(camera); });
 }
 
 async function saveEdit() {
@@ -1500,10 +1701,17 @@ async function saveEdit() {
   }
 
   saveBtn.disabled = true;
-  status.textContent = 'Saving…';
+  status.textContent = _selectedImageName ? 'Preparing replacement photo…' : 'Saving…';
   status.className = '';
 
   try {
+    var imagePreview = document.getElementById('edit-image-preview');
+    if (_selectedImageName && imagePreview && imagePreview._sourceFile) {
+      var imageBlob = await processEditorImage(imagePreview._sourceFile);
+      await uploadEditorImage(_selectedImageName, imageBlob, token);
+      status.textContent = 'Saving recipe…';
+    }
+
     var resp = await fetch(
       'https://api.github.com/repos/' + EDIT_REPO + '/actions/workflows/edit-recipe.yml/dispatches',
       {
@@ -1616,6 +1824,7 @@ async function deleteRecipe() {
   var patBtn = document.getElementById('edit-pat-save');
   if (patBtn) patBtn.addEventListener('click', saveEditorPAT);
   setupTagAutocomplete('edit-tags');
+  setupEditorImagePicker();
   syncEditButton();
 })();
 </script>

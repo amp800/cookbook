@@ -13,6 +13,7 @@ description: Tender honey roasted beetroot, crispy halloumi cheese, earthy butte
   party - it's the perfect winter salad for you! GF & Healthy.
 yield: 2 servings
 prep_time: '10'
+cook_time: '50'
 total_time: '60'
 ingredients:
 - 4 large raw beetroot

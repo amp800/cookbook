@@ -13,6 +13,7 @@ description: Buttery-tender eggplant cubes in a creamy and aromatic curry sauce 
   curry. Serve it with basmati rice or naan bread for a balanced Indian–inspired dinner; it takes about 30 minutes to make.
 yield: 4 servings
 prep_time: '10'
+cook_time: '30'
 total_time: '40'
 ingredients:
 - 2 eggplant cut into 2cm cubes

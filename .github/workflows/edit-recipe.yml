@@ -36,5 +36,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Edit recipe ${{ inputs.path }}"
-          file_pattern: "_recipes/*.md"
+          file_pattern: "_recipes/*.md images/*"
           skip_dirty_check: "true"

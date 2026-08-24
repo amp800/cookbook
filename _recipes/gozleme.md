@@ -12,6 +12,7 @@ description: Crispy Turkish flatbreads stuffed with juicy fillings! Choose ONE F
   Lamb OR Beef with spinach and peppers. Can stretch to 5 gozlemes.
 yield: 4 servings
 prep_time: '30'
+cook_time: '80'
 total_time: '110'
 ingredients:
 - 2.5 cups (375g) flour (plain/all purpose (GF Note 4)

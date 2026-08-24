@@ -14,6 +14,7 @@ description: Well as you might have guessed there is no chocolate in this recipe
   in less than 15 minutes. I guess we need to double the batch next time.
 yield: 12 servings
 prep_time: '20'
+cook_time: '40'
 total_time: '60'
 ingredients:
 - 2 teaspoon olive oil

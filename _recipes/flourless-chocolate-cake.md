@@ -14,6 +14,7 @@ description: Typically, flourless chocolate cakes are made by beating egg whites
   This cake is also quite forgiving - no need for measuring ingredients to the exact gram.
 yield: 10 servings
 prep_time: '10'
+cook_time: '45'
 total_time: '55'
 ingredients:
 - 1 1/2 cups dark chocolate chips ((note 1))

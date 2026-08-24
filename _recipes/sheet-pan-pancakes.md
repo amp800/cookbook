@@ -11,6 +11,7 @@ description: Breakfast just got a lot easier and faster with these Sheet Pan Pan
   no more waiting, flipping, and family members eating in shifts.
 yield: 6 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 'PANCAKE MIXTURE:'

@@ -10,6 +10,7 @@ tags:
 description: Making your own dumplings is easier than you might think, and these are so full of flavor.
 yield: 24 servings
 prep_time: '30'
+cook_time: '10'
 total_time: '40'
 ingredients:
 - 5 ounce cabbage (napa (or white (5 ounce is approx 1 1/2 cups shredded)))

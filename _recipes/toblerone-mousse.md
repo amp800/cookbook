@@ -10,6 +10,7 @@ tags:
 description: A creamy, chocolate indulgence that is quick and easy to make.
 yield: 4 servings
 prep_time: '15'
+cook_time: '135'
 total_time: '150'
 ingredients:
 - 4 egg whites

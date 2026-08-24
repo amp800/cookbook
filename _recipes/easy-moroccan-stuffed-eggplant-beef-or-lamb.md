@@ -15,6 +15,7 @@ description: A delicious, unique, EASY way to serve up eggplant and minced / gro
   Salad, roast veg, chickpea salad), or 4 as a generous starter.
 yield: 2 servings
 prep_time: '15'
+cook_time: '75'
 total_time: '90'
 ingredients:
 - 'EGGPLANT:'

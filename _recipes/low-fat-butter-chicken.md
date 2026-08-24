@@ -9,6 +9,7 @@ tags:
 - mains
 yield: 4 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 800 gram skinless chicken breasts

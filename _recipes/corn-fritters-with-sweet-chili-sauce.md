@@ -13,6 +13,7 @@ description: If you like savoury potato pancakes, latkes, etc. you'll love this 
   Bill Granger - an Aussie chef.
 yield: 24 fritters
 prep_time: '15'
+cook_time: '15'
 total_time: '30'
 ingredients:
 - 'CORN FRITTERS:'

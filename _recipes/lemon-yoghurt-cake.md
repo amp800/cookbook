@@ -9,6 +9,7 @@ tags:
 description: The use of yoghurt in this recipe makes for a fluffier baked cake. A Preshaw favourite!
 yield: 10 servings
 prep_time: '40'
+cook_time: '50'
 total_time: '90'
 ingredients:
 - 125 milliliter (1/2 cup) vegetable oil

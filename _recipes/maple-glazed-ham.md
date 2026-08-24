@@ -14,6 +14,7 @@ description: Baked ham made easy! The most incredible ham glaze ever with a subt
   honey, or make a classic Brown Sugar Mustard Glazed Ham.
 yield: 30 servings
 prep_time: '30'
+cook_time: '140'
 total_time: '170'
 ingredients:
 - 5 kilogram / 10 pound leg ham, (bone in, skin on (note 1))

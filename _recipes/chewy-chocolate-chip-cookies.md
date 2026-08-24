@@ -14,6 +14,7 @@ description: These super soft and chewy chocolate chip cookies are the most popu
   beginning.
 yield: 16 servings
 prep_time: '15'
+cook_time: '187'
 total_time: '202'
 ingredients:
 - 2 and 1/4 cups (280 gram) all-purpose flour (spooned & leveled)

@@ -13,6 +13,7 @@ description: 'Many people have tried this now and no one thinks of it as a glute
   sound like much but the lemon flavour comes through just the right amount, in my opinion. :)'
 yield: 10 servings
 prep_time: '10'
+cook_time: '100'
 total_time: '110'
 ingredients:
 - 150 gram / 10 tablespoon unsalted butter

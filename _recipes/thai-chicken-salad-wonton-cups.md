@@ -11,6 +11,7 @@ description: Wonton wrappers baked in a muffin tin to form cups, then filled wit
   little spice kick!
 yield: 12 servings
 prep_time: '20'
+cook_time: '15'
 total_time: '35'
 ingredients:
 - 12 wonton wrappers

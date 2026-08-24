@@ -13,6 +13,7 @@ description: Quite possibly the quickest, easiest, gooey-est (and so best) choco
   guests... or just scoffing at home in front on the TV!
 yield: 10 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 4 3/4 ounces salted butter ((us = just over 1/2 cup, (or just over 1 stick)))

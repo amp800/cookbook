@@ -11,6 +11,7 @@ description: Here's a Pad Thai recipe that really does taste just as good as tak
   find everything you need at the supermarket! I use chicken here but feel free to switch with any protein, even prawns/shrimp.
 yield: 2 servings
 prep_time: '20'
+cook_time: '10'
 total_time: '30'
 ingredients:
 - 125 gram / 4 ounce chang's pad thai dried rice sticks ((note 1))

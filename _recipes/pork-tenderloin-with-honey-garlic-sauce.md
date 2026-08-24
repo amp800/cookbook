@@ -11,6 +11,7 @@ description: Tender, succulent pork fillet seasoned with a rub, seared until gol
   sticky on the outside and juicy on the inside. Simply incredible! (And really, it's SIMPLE!)
 yield: 5 servings
 prep_time: '10'
+cook_time: '25'
 total_time: '35'
 ingredients:
 - 2 pork tenderloin ((pork fillet), 500 gram /1 pound each (note 1))

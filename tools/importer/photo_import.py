@@ -128,6 +128,11 @@ def as_list(value):
     return []
 
 
+def derive_times(data: dict) -> None:
+    from time_utils import derive_times as _derive_times
+    data.update(_derive_times(data))
+
+
 def unique_slug(title: str) -> str:
     """Slug the title, appending -2, -3… if the recipe file already exists."""
     slug = slugify(title) or "recipe"
@@ -170,6 +175,7 @@ def main():
         sys.exit(1)
 
     title = str(data.get("title") or "").strip() or "Untitled Recipe"
+    derive_times(data)
     print(f"Read: {title}")
 
     ingredients = as_list(data.get("ingredients"))

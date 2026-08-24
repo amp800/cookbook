@@ -11,6 +11,7 @@ description: Pork meatballs simmer in chicken broth with cabbage, topped with de
   and fresh cilantro for a deliciously healthy and easy soup.
 yield: 4 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 'FOR THE MEATBALLS:'

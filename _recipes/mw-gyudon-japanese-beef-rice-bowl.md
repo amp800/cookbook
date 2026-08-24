@@ -12,6 +12,7 @@ description: With thinly sliced beef and tender onions simmered in a savory-swee
   (Japanese Beef Rice Bowl) is synonymous with comfort. It's is a simple, satisfying meal that's ready in 20 minutes!
 yield: 4 servings
 prep_time: '5'
+cook_time: '15'
 total_time: '20'
 ingredients:
 - 600 g Asian beef rolls

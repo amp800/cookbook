@@ -10,6 +10,7 @@ tags:
 description: Get the kids to eat their vegetables in these tasty sausage rolls.
 yield: 36 servings
 prep_time: '20'
+cook_time: '30'
 total_time: '50'
 ingredients:
 - 400 gram sausage mince

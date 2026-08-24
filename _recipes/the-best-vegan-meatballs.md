@@ -12,6 +12,7 @@ description: Tender, flavorful, 10-ingredient vegan meatballs made with quinoa a
   tomato paste, and spices for big flavor. The perfect meatless meatball for pasta, sandwiches, and more!
 yield: 12 servings
 prep_time: '30'
+cook_time: '45'
 total_time: '75'
 ingredients:
 - 1 cup cooked and cooled quinoa* ((ensure it's cooked + completely cooled before using))

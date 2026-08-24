@@ -10,6 +10,7 @@ tags:
 description: Spoon into these lovely lemon pudding cakes and discover a layer of luscious lemon pudding beneath the cake!
 yield: 6 servings
 prep_time: '20'
+cook_time: '45'
 total_time: '65'
 ingredients:
 - 3 large eggs, separated

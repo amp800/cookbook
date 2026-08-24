@@ -11,6 +11,7 @@ description: Choose ONE Filling! The spice mix adds terrific flavour - great wit
   Freezer friendly!
 yield: 8 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 'QUESADILLAS:'

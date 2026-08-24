@@ -12,6 +12,7 @@ description: Looking for a flourless cake that’s bursting with sweet flavors a
   to make.
 yield: 10 servings
 prep_time: '20'
+cook_time: '60'
 total_time: '80'
 ingredients:
 - 3/4 cup granulated sugar (144 gram)

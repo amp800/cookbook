@@ -11,6 +11,7 @@ description: If you love Nando’s, you’ll love these juicy grilled chicken bu
   spicy mayo, they are the most delicious, easy dinner and a guaranteed crowd pleaser.
 yield: 4 servings
 prep_time: '15'
+cook_time: '45'
 total_time: '60'
 ingredients:
 - 4 chicken breasts

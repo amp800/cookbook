@@ -10,6 +10,7 @@ tags:
 description: Pork loin steaks with creamy shallot and mushroom sauce.
 yield: 4 servings
 prep_time: '5'
+cook_time: '15'
 total_time: '20'
 ingredients:
 - 4 pork loin steaks

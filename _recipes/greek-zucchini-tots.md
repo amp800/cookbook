@@ -14,6 +14,7 @@ description: These tasty bites are from the Greek Island of Alonnisos. They are 
   This makes around 35 to 40 tots.
 yield: 35 servings
 prep_time: '10'
+cook_time: '10'
 total_time: '20'
 ingredients:
 - 'ZUCCHINI:'

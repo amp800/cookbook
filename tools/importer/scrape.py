@@ -85,6 +85,12 @@ def clean_text(text) -> str:
     return text.strip()
 
 
+def derive_times(data: dict) -> None:
+    """Fill the missing member of prep + cook = total when possible."""
+    from time_utils import derive_times as _derive_times
+    data.update(_derive_times(data))
+
+
 def extract_first_paragraph(html: str) -> str:
     """Return the first meaningful intro paragraph of a recipe page (the
     'what/why' blurb that usually appears before the ingredients list)."""
@@ -218,6 +224,7 @@ def fetch_recipe(url: str) -> dict:
         except Exception:
             description = ""
     data["description"] = description
+    derive_times(data)
     return data
 
 

@@ -13,6 +13,7 @@ description: A Southwestern rice salad filled with bright zesty flavours and tos
   10 as a side, 4 - 6 as a main.
 yield: 8 servings
 prep_time: '20'
+cook_time: '0'
 total_time: '20'
 ingredients:
 - 4 1/2 cups cooked brown rice

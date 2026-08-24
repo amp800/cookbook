@@ -14,6 +14,7 @@ description: 'This is how to make a pork roast with tender juicy flesh, with a c
   low uncovered, keep the skin surface level using foil balls, and blast it for crispy skin!'
 yield: 10 servings
 prep_time: '15'
+cook_time: '200'
 total_time: '215'
 ingredients:
 - 'PORK:'

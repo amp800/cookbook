@@ -13,6 +13,7 @@ description: 'The ultimate potato bake, created by the French!!! Potato + cream 
   does not contain cheese. But I could never imagine making it without..... It makes it better. You know it does!'
 yield: 8 servings
 prep_time: '15'
+cook_time: '90'
 total_time: '105'
 ingredients:
 - 1 1/2 cups cream (full fat (note 1))

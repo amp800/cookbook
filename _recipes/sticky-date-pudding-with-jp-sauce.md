@@ -12,6 +12,7 @@ description: You're my favourite pudding - and always will be.... My favourite p
   sauce!
 yield: 7 servings
 prep_time: '15'
+cook_time: '35'
 total_time: '50'
 ingredients:
 - 280 gram / 9 ounce pitted dates (roughly chopped (note 1))

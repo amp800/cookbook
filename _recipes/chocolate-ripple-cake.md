@@ -11,6 +11,7 @@ description: The easiest chocolate cake ever and an Aussie classic. It’s a 4 i
   that everyone will love.
 yield: 6 servings
 prep_time: '15'
+cook_time: '480'
 total_time: '495'
 ingredients:
 - 2 cups whipping (or thickened cream (full fat)), cold

@@ -258,12 +258,14 @@ def build_times(d: dict) -> dict:
     total = parse_minutes(d.get("total_time"))
     if prep:
         fm["prep_time"] = str(prep)
+    if cook is None and prep is not None and total is not None and total >= prep:
+        cook = total - prep
+    elif total is None and prep is not None and cook is not None:
+        total = prep + cook
     if cook:
         fm["cook_time"] = str(cook)
     if total:
         fm["total_time"] = str(total)
-    elif prep and cook:
-        fm["total_time"] = str(prep + cook)
     return fm
 
 

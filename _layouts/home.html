@@ -39,6 +39,14 @@ layout: default
         {% if post.description %}{{ post.description }}{% endif %}
         {{ post.content | strip_html }}
       {% endcapture %}
+      {% assign prep_minutes = post.prep_time | plus: 0 %}
+      {% assign total_minutes = post.total_time | plus: 0 %}
+      {% assign display_cook_time = post.cook_time %}
+      {% if display_cook_time == nil or display_cook_time == empty %}
+        {% if prep_minutes > 0 and total_minutes > 0 and total_minutes >= prep_minutes %}
+          {% assign display_cook_time = total_minutes | minus: prep_minutes %}
+        {% endif %}
+      {% endif %}
       <a href="{{ post.url | relative_url }}" class="recipe-card"
          data-search="{{ search_text | strip_html | strip_newlines | downcase | escape }}"
          data-date="{{ post.date_added | date: '%s' }}"
@@ -55,12 +63,18 @@ layout: default
           <h3 class="card-title">{{ post.title }}</h3>
           <span class="card-arrow">→</span>
         </div>
-        {% if post.cook_time or post.total_time %}
+        {% if post.prep_time or display_cook_time or post.total_time %}
         <div class="card-meta">
+          {% if post.prep_time %}
+            <span class="card-badge time"><span class="time-label">Prep</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{{ post.prep_time }}</span></span>
+          {% endif %}
+          {% if post.prep_time and display_cook_time %}<span class="time-operator" aria-hidden="true">+</span>{% endif %}
+          {% if display_cook_time %}
+            <span class="card-badge time"><span class="time-label">Cook</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{{ display_cook_time }}</span></span>
+          {% endif %}
+          {% if display_cook_time and post.total_time %}<span class="time-operator" aria-hidden="true">=</span>{% endif %}
           {% if post.total_time %}
-            <span class="card-badge time">{{ post.total_time }}</span>
-          {% elsif post.cook_time %}
-            <span class="card-badge time">{{ post.cook_time }}</span>
+            <span class="card-badge time"><span class="time-label">Total</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{{ post.total_time }}</span></span>
           {% endif %}
         </div>
         {% endif %}
@@ -231,14 +245,29 @@ layout: default
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 0.07em;
-    padding: 3px 8px;
+    padding: 4px 8px;
     border: 2px solid #000;
     color: #000;
     background: #fff;
     border-radius: 3px;
   }
 
-  .card-badge.time   { border-color: #555; color: #555; }
+  .card-badge.time {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    border-color: #555;
+    color: #555;
+  }
+
+  .time-label { color: #999; font-size: 0.5rem; letter-spacing: 0.1em; }
+  .time-icon { font-size: 0.9rem; line-height: 1; }
+  .time-operator {
+    font-family: 'Jost', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 900;
+    color: #999;
+  }
 
   /* --- SEARCH BAR --- */
   .search-bar {

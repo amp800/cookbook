@@ -11,6 +11,7 @@ description: 'Six ingredients, 30 minutes and dinner for four: it''s really that
   leafy greens, spicy chorizo, bright broccoli and nutty lentils.'
 yield: 4 servings
 prep_time: '5'
+cook_time: '25'
 total_time: '30'
 ingredients:
 - 1 head broccoli

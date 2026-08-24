@@ -10,6 +10,7 @@ description: This citrus spin on a crinkle cookie is a lemon lover's delight. Ch
   you have a citrus juicer and zester.
 yield: 40 servings
 prep_time: '200'
+cook_time: '15'
 total_time: '215'
 ingredients:
 - 2 and 1/2 cups (313g) all-purpose flour (spooned & leveled)

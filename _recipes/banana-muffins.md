@@ -11,6 +11,7 @@ description: These banana muffins are deliciously moist and tender. Made with ri
   — they are easy for kids to make!
 yield: 12 servings
 prep_time: '10'
+cook_time: '25'
 total_time: '35'
 ingredients:
 - 1.5 cups all-purpose flour

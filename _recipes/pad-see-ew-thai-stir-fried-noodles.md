@@ -15,6 +15,7 @@ description: 'Recipe video above. Pad See Ew (which means Stir Fried Soy Sauce n
   If you don''t, the noodles will just stew and your dish will lack flavour!'
 yield: 2 servings
 prep_time: '8'
+cook_time: '10'
 total_time: '18'
 ingredients:
 - 200 gram / 7 ounce dried wide rice stick noodles ((or 15 ounce / 450 gram fresh wide flat rice noodles (sen yai) (note 1)))

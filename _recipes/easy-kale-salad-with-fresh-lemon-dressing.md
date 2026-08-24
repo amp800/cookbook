@@ -12,6 +12,7 @@ description: This easy kale salad features fresh veggies and a super simple home
   a healthy side dish or light lunch!
 yield: 4 servings
 prep_time: '20'
+cook_time: '0'
 total_time: '20'
 ingredients:
 - 5 cups chopped kale

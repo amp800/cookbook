@@ -12,6 +12,7 @@ description: A simple showstopper salmon recipe! Fantastic centrepiece for a spe
   it is not rich, it's quite tangy - perfect pairing with rich salmon.
 yield: 6 servings
 prep_time: '10'
+cook_time: '30'
 total_time: '40'
 ingredients:
 - 1 (1 - 1.4 kilogram / 2 - 2.8 pound) side of salmon ((note 1))

@@ -14,6 +14,8 @@ description: This is a wonderful moist cake that's bursting with orange flavour 
   nutty almond flavour is wonderful, and keeps it ultra-moist. Makes 1 x 23cm cake; 4 cm high, or 2 x 20cm cakes; 3cm high.
 yield: 12 servings
 prep_time: '5'
+cook_time: '45'
+total_time: '50'
 ingredients:
 - 2 medium oranges, fresh whole with rind on
 - 1 1/4 teaspoon baking powder

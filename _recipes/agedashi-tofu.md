@@ -13,6 +13,7 @@ description: Crispy deep-fried tofu served in a flavorful umami sauce, Agedashi 
   to make it vegan-friendly!
 yield: 2 servings
 prep_time: '15'
+cook_time: '15'
 total_time: '30'
 ingredients:
 - 1 block medium-firm tofu (momen dofu) (14 ounce, 397 gram ; (or use silken tofu) 14 397)

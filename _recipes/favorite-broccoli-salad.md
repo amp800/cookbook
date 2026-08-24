@@ -12,6 +12,7 @@ description: This broccoli salad recipe is the best! It's healthy, too, thanks t
   (no mayo). This broccoli salad packs great for lunch and potlucks.
 yield: 6 servings
 prep_time: '20'
+cook_time: '0'
 total_time: '20'
 ingredients:
 - 1 pound broccoli florets (from 1 1/2 pounds broccoli stalks), thinly sliced and then roughly chopped (see photos)

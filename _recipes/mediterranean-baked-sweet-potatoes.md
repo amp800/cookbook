@@ -12,6 +12,7 @@ description: Simple, 30-minute baked sweet potatoes topped with roasted chickpea
   salad. Delicious, fresh, healthy, and naturally vegan and gluten-free.
 yield: 4 servings
 prep_time: '5'
+cook_time: '25'
 total_time: '30'
 ingredients:
 - 4 medium (~1/3 pound each) sweet potatoes*

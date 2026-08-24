@@ -14,6 +14,7 @@ description: Mejadra is a fragrant Middle Eastern rice pilaf with crunchy fried 
   taste is remarkably similar!
 yield: 4 servings
 prep_time: '5'
+cook_time: '15'
 total_time: '20'
 ingredients:
 - 2 tablespoon olive oil

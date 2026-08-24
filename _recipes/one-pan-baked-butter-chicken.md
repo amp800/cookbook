@@ -12,6 +12,7 @@ description: The miraculous, easy way to make butter chicken in the oven! That s
   bakes. Not spicy at all, so this one for everyone!
 yield: 5 servings
 prep_time: '10'
+cook_time: '45'
 total_time: '55'
 ingredients:
 - 1.2 kilogram / 2.4 pound (6 pieces) bone-in chicken thighs (skin removed (note 1))

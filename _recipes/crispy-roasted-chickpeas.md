@@ -12,6 +12,7 @@ description: Make crispy roasted chickpeas for a protein-packed vegan snack. I a
   bowls!
 yield: 1 servings
 prep_time: '5'
+cook_time: '20'
 total_time: '25'
 ingredients:
 - 11/2 cups cooked chickpeas (drained and rinsed)

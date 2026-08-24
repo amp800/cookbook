@@ -10,6 +10,7 @@ description: This no-bake chocolate slice features layers of biscuits, Nutella c
   and a topping of Ferrero Rocher.
 yield: 24 servings
 prep_time: '385'
+cook_time: '0'
 total_time: '385'
 ingredients:
 - 250 gram plain malt biscuits

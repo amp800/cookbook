@@ -13,6 +13,7 @@ description: These delightful no-bake energy balls offer a quick and healthy boo
   together effortlessly in a food processor. Store them in the fridge for a convenient grab-and-go option.
 yield: 10 servings
 prep_time: '5'
+cook_time: '30'
 total_time: '35'
 ingredients:
 - 1 cup cashews unsalted

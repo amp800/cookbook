@@ -13,6 +13,7 @@ description: Beef brisket slow cooked until tender, then finished in the oven to
   pile it up high on sliders!
 yield: 8 servings
 prep_time: '15'
+cook_time: '600'
 total_time: '615'
 ingredients:
 - 'MEAT:'

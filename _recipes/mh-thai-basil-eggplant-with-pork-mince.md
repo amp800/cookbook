@@ -11,6 +11,7 @@ tags:
 description: A stir-fry that wakes up your taste buds with Thai flavours and tender eggplant and is so easy to make at home.
 yield: 8 servings
 prep_time: '15'
+cook_time: '15'
 total_time: '30'
 ingredients:
 - 500 g pork mince

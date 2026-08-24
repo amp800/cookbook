@@ -11,6 +11,7 @@ description: Fluffy, perfectly spiced homemade Hot Cross Buns! Watch video to se
   how I roll the balls to get nice smooth golden tops.
 yield: 12 servings
 prep_time: '25'
+cook_time: '140'
 total_time: '165'
 ingredients:
 - 3 teaspoons instant (or rapid rise yeast (9 grams) (), note 1 check still active!)

@@ -12,6 +12,7 @@ description: This authentic Raita recipe is easy and delicious! A cucumber yogur
   cool and refresh the palate.
 yield: 1 servings
 prep_time: '15'
+cook_time: '0'
 total_time: '15'
 ingredients:
 - 3/4 cup plain yogurt (whole milk is best, (or sub vegan coconut yogurt))

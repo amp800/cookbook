@@ -13,6 +13,7 @@ description: This Golden Coconut Chicken Curry blows me away every time I make i
   for max flavour and yellow colour.
 yield: 4 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 3 tablespoon coconut oil (vegetable (or canola oil (note 1)))

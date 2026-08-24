@@ -11,6 +11,7 @@ description: My mother's recipe for Miso Marinated Salmon. The flavour infused i
   recipe, make this on the barbecue or even in the oven!
 yield: 5 servings
 prep_time: '10'
+cook_time: '5'
 total_time: '15'
 ingredients:
 - 1 kilogram side of salmon (skin on (note 1))

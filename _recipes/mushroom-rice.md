@@ -12,6 +12,7 @@ description: One for mushroom lovers! Brown the mushrooms well so the base of th
   so all that flavour ends up in the rice as well as staining it a lovely earthy brown colour. Also see Baked Mushroom Rice!
 yield: 8 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 2 - 3 tablespoon olive oil (separated)

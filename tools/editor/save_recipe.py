@@ -11,9 +11,10 @@ The payload is a JSON object with the editable fields:
   title, description, yield, prep_time, cook_time, total_time,
   tags (list), ingredients (list), directions (list)
 
-Fields that are NOT user-editable (image, original_url, date_added, layout,
-the markdown body, and any unknown front matter keys) are preserved verbatim
-from the existing file on disk.
+Fields that are NOT user-editable (original_url, date_added, layout, the
+markdown body, and any unknown front matter keys) are preserved verbatim from
+the existing file on disk. The image filename may be supplied after the browser
+uploads a replacement hero image.
 """
 import argparse
 import base64
@@ -27,12 +28,13 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "tools"))
 from recipe_frontmatter import render_recipe_markdown
+from time_utils import derive_times
 
 # Front matter keys the editor manages. These are taken from the payload (or
 # dropped when empty) rather than preserved from the existing file.
 EDITABLE_KEYS = {
     "title", "description", "yield", "yields", "servings", "prep_time",
-    "cook_time", "total_time", "tags", "ingredients", "directions", "notes",
+    "cook_time", "total_time", "image", "tags", "ingredients", "directions", "notes",
 }
 
 
@@ -82,9 +84,11 @@ def build_front_matter(existing: dict, data: dict) -> dict:
         raise ValueError("title is required")
     fm["title"] = title
 
-    image = existing.get("image")
+    image = str(data.get("image") or existing.get("image") or "").strip()
     if image:
-        fm["image"] = str(image).strip()
+        if not re.fullmatch(r"[A-Za-z0-9._-]+", image):
+            raise ValueError("invalid image filename")
+        fm["image"] = image
 
     original_url = existing.get("original_url")
     if original_url:
@@ -126,10 +130,11 @@ def build_front_matter(existing: dict, data: dict) -> dict:
     if yield_value:
         fm["yield"] = yield_value
 
+    times = {key: str(data.get(key) or "").strip() for key in ("prep_time", "cook_time", "total_time")}
+    times = derive_times(times)
     for key in ("prep_time", "cook_time", "total_time"):
-        value = str(data.get(key) or "").strip()
-        if value:
-            fm[key] = value
+        if times[key]:
+            fm[key] = times[key]
 
     # Preserve any front matter keys the editor does not manage.
     for key, value in existing.items():
@@ -178,6 +183,14 @@ def main():
     except ValueError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
+
+    old_image = str(existing.get("image") or "").strip()
+    new_image = str(fm.get("image") or "").strip()
+    if old_image and new_image and old_image != new_image:
+        old_path = (REPO_ROOT / "images" / old_image).resolve()
+        image_root = (REPO_ROOT / "images").resolve()
+        if old_path.parent == image_root and old_path.is_file():
+            old_path.unlink()
 
     out_path.write_text(build_markdown(fm, body), encoding="utf-8")
     print(f"Written: {args.path}")

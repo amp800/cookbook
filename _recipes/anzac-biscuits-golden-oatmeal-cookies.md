@@ -11,6 +11,7 @@ description: The great Aussie Anzac biscuits!! Crispy and buttery, a beautiful d
   will stay crunchy for a week and though they will soften, still fresh for another week!
 yield: 16 servings
 prep_time: '15'
+cook_time: '15'
 total_time: '30'
 ingredients:
 - 1 cup plain flour ((all purpose flour))

@@ -13,6 +13,7 @@ description: 'There is no cake more Australian than the Lamington! The sponge in
   KEY TIP: Freeze the sponge before coating - read Note 2.'
 yield: 15 servings
 prep_time: '40'
+cook_time: '25'
 total_time: '65'
 ingredients:
 - 'BUTTER SPONGE:'

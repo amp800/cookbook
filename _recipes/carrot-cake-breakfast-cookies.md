@@ -11,6 +11,7 @@ description: Deliciously soft and chewy breakfast cookies that are loaded with c
   healthy cookies would make the perfect breakfast or snack!
 yield: 18 servings
 prep_time: '20'
+cook_time: '15'
 total_time: '35'
 ingredients:
 - 2 large ripe bananas, mashed

@@ -12,6 +12,7 @@ description: Start the day right with these delicious Healthy Breakfast Muffins.
   and easy to make.
 yield: 12 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 175 ml Full fat milk

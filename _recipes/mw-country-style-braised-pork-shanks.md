@@ -12,6 +12,7 @@ description: My Country-Style Beer Braised Pork Shank recipe is easy to make. Yo
   and the rich and flavourful sauce this recipe makes.
 yield: 4 servings
 prep_time: '15'
+cook_time: '165'
 total_time: '180'
 ingredients:
 - 1 kg pork shanks (~4 shanks)

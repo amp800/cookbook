@@ -11,6 +11,7 @@ description: Whip up this filling pork noodle stir-fry for a quick and easy midw
   so is great for busy evenings
 yield: 8 servings
 prep_time: '15'
+cook_time: '15'
 total_time: '30'
 ingredients:
 - 3 tablespoon sesame oil

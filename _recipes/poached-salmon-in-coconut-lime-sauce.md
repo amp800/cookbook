@@ -12,6 +12,7 @@ description: Poached Salmon in a coconut lime sauce that tastes like a Thai coco
   and in the sauce.
 yield: 4 servings
 prep_time: '10'
+cook_time: '15'
 total_time: '25'
 ingredients:
 - 4 salmon fillets (180 gram /6 ounce each preferably skinless (note 1))

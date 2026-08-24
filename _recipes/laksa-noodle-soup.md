@@ -13,6 +13,7 @@ description: This is a recipe for a real Malaysian restaurant quality laksa made
   way to go with Laksa!
 yield: 2 servings
 prep_time: '15'
+cook_time: '45'
 total_time: '60'
 ingredients:
 - 2 cups (500 milliliter) chicken stock / broth

@@ -12,6 +12,7 @@ description: Simple, fluffy pancakes made from scratch, an essential that everyo
   is easy to spread but doesn't spread too thinly so you get nice fluffy pancakes.
 yield: 13 servings
 prep_time: '5'
+cook_time: '15'
 total_time: '20'
 ingredients:
 - 2 cups / 300 gram plain / all purpose flour ((note 1))

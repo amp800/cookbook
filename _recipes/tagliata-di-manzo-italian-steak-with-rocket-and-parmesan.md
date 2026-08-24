@@ -12,6 +12,7 @@ description: This Tuscan classic is best served al fresco on a hot summer's day.
   in notes).
 yield: 4 servings
 prep_time: '10'
+cook_time: '8'
 total_time: '18'
 ingredients:
 - 2 top sirloin steaks ((about 12-16 ounces each))

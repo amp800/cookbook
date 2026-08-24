@@ -10,6 +10,7 @@ tags:
 description: Celebrate Christmas with a summery cocktail bursting with apple and orange flavours.
 yield: 8 servings
 prep_time: '5'
+cook_time: '0'
 total_time: '5'
 ingredients:
 - 525.00 gm apple juice, chilled

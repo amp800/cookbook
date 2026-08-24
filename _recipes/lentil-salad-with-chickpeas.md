@@ -13,6 +13,7 @@ description: Simple to make and delicious to eat, this vegan lentil salad is mad
   versatile side dish. Put on bed of hummus – tomatoes, cucumber and red onion... yum!
 yield: 4 servings
 prep_time: '10'
+cook_time: '20'
 total_time: '30'
 ingredients:
 - 1 cup small green whole lentils

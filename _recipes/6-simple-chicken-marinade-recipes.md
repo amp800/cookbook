@@ -11,6 +11,7 @@ description: Each of these chicken breast marinade recipes is enough marinade fo
   breast.
 yield: 3 servings
 prep_time: '10'
+cook_time: '140'
 total_time: '150'
 ingredients:
 - 1 pound boneless skinless chicken breast (2 to 3 breasts)

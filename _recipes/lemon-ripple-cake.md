@@ -10,6 +10,7 @@ tags:
 description: Yum.
 yield: 20 servings
 prep_time: '15'
+cook_time: '480'
 total_time: '495'
 ingredients:
 - 2 cups whipping (or thickened cream (full fat)), cold

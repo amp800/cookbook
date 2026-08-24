@@ -12,6 +12,7 @@ description: This vegan recipe is sure to be a hit with the whole family. A whol
   topped with a creamy spiced coconut sauce.
 yield: 6 servings
 prep_time: '10'
+cook_time: '40'
 total_time: '50'
 ingredients:
 - 1 small cauliflower

@@ -12,6 +12,7 @@ description: Cold, refrigerated dough is the secret to making delicious focaccia
   in 3 hours. This 4-ingredient recipe requires only 5 minutes of hands-on time.
 yield: 2 servings
 prep_time: '1080'
+cook_time: '30'
 total_time: '1110'
 ingredients:
 - 4 cups (512 gram) all-purpose flour (or bread flour), see notes above

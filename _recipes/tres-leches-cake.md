@@ -11,6 +11,7 @@ description: The BEST authentic Tres Leches Cake. An ultra light cake soaked in 
   whipped cream and cinnamon. This simple Mexican dessert is one of our favorites!
 yield: 12 servings
 prep_time: '90'
+cook_time: '40'
 total_time: '130'
 ingredients:
 - 1 cup all-purpose flour

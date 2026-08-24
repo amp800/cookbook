@@ -12,6 +12,7 @@ tags:
 - vegetarian
 yield: 6 servings
 prep_time: '15'
+cook_time: '8'
 total_time: '23'
 ingredients:
 - 1 cup peanut butter
