@@ -1,4 +1,5 @@
 {
+  "id": "/cookbook/",
   "name": "Cookbook",
   "short_name": "Cookbook",
   "description": "The plain text recipe database for hackers",
@@ -7,6 +8,7 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#E63946",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/cookbook/config/images/chef-hat-icon.svg",

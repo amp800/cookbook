@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <link rel="icon" type="image/svg+xml" href="{{ '/config/images/chef-hat-icon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/config/images/chef-hat-icon.svg' | relative_url }}">
-  <link rel="manifest" href="{{ '/config/manifest.webmanifest' | relative_url }}">
+  <link rel="manifest" href="{{ '/config/manifest.webmanifest?v=2' | relative_url }}">
   <meta name="mobile-web-app-capable" content="yes">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,7 +19,11 @@
   {{ content }}
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('{{ '/sw.js' | relative_url }}');
+      navigator.serviceWorker.register('{{ '/sw.js' | relative_url }}').then(function(reg) {
+        console.log('SW registered:', reg.scope);
+      }).catch(function(err) {
+        console.error('SW registration failed:', err);
+      });
     }
   </script>
 </body>
