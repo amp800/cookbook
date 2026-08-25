@@ -3,13 +3,13 @@ Standalone photo recipe importer — called by the "Import Recipe from Photo"
 GitHub Actions workflow.
 
 The browser compresses a phone photo of a printed cookbook/magazine page,
-uploads it to images/ via the GitHub Contents API, then dispatches this
+uploads it to recipe_images/ via the GitHub Contents API, then dispatches this
 workflow. This script sends the photo to the Gemini vision API (free tier,
 no credit card), asks it to read the recipe and return it as structured
 JSON, writes _recipes/<slug>.md, and renames the photo to match the slug.
 
 Usage:
-  python tools/importer/photo_import.py --image photo-import-123.jpg --tags "chicken quick"
+  python config/tools/importer/photo_import.py --image photo-import-123.jpg --tags "chicken quick"
 
 Requires the GEMINI_API_KEY env var (GitHub Actions secret).
 """
@@ -26,8 +26,8 @@ from pathlib import Path
 
 import requests
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent  # tools/importer/photo_import.py → repo root
-sys.path.insert(0, str(REPO_ROOT / "tools"))
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # config/tools/importer/photo_import.py → repo root
+sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
 from recipe_frontmatter import render_recipe_markdown  # noqa: E402
 
 # Vision-capable Gemini models, newest first. All are available on the free
@@ -146,7 +146,7 @@ def unique_slug(title: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser(description="Import a recipe from a photo via Gemini vision")
-    parser.add_argument("--image", required=True, help="photo filename inside images/")
+    parser.add_argument("--image", required=True, help="photo filename inside recipe_images/")
     parser.add_argument("--tags", default="")
     args = parser.parse_args()
 
@@ -159,15 +159,15 @@ def main():
     if not re.fullmatch(r"[A-Za-z0-9._-]+\.(jpg|jpeg|png|webp)", image_arg):
         print(f"ERROR: invalid image filename: {args.image}", file=sys.stderr)
         sys.exit(1)
-    image_path = REPO_ROOT / "images" / image_arg
+    image_path = REPO_ROOT / "recipe_images" / image_arg
     if not image_path.is_file():
-        print(f"ERROR: photo not found at images/{image_arg}", file=sys.stderr)
+        print(f"ERROR: photo not found at recipe_images/{image_arg}", file=sys.stderr)
         sys.exit(1)
     if image_path.stat().st_size > 19 * 1024 * 1024:
         print("ERROR: photo is too large (Gemini accepts up to 20 MB)", file=sys.stderr)
         sys.exit(1)
 
-    print(f"Reading photo images/{image_arg} with Gemini vision…")
+    print(f"Reading photo recipe_images/{image_arg} with Gemini vision…")
     try:
         data = call_gemini(image_path, api_key)
     except Exception as e:
@@ -193,12 +193,12 @@ def main():
     # Rename the uploaded photo to match the recipe slug (the commit step
     # picks up the rename together with the new .md file).
     final_image = f"{slug}.jpg"
-    final_image_path = REPO_ROOT / "images" / final_image
+    final_image_path = REPO_ROOT / "recipe_images" / final_image
     if final_image_path != image_path:
         if final_image_path.exists():
             final_image_path.unlink()
         image_path.rename(final_image_path)
-        print(f"Photo renamed: images/{final_image}")
+        print(f"Photo renamed: recipe_images/{final_image}")
 
     fm = {
         "date_added": date.today(),

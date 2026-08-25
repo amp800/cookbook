@@ -9,7 +9,7 @@
   "theme_color": "#E63946",
   "icons": [
     {
-      "src": "./images/chef-hat-icon.svg",
+      "src": "./config/images/chef-hat-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

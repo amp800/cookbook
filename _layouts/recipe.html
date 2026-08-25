@@ -16,7 +16,7 @@ layout: default
   
   <div class="split-image-container">
     
-<div class="image-div" style="background-image: url('{{ "/images/" | append: page.image | relative_url }}');"></div>    
+<div class="image-div" style="background-image: url('{{ "/recipe_images/" | append: page.image | relative_url }}');"></div>
     {% unless page.image %}
       <div class="no-image-msg">
         NO IMAGE FOUND<br>
@@ -158,7 +158,7 @@ layout: default
         <div class="editor-image-section">
           <label>Hero image</label>
           <div class="editor-image-picker">
-            <img id="edit-image-preview" class="editor-image-preview" alt="Current hero image"{% if page.image %} src="{{ '/images/' | append: page.image | relative_url }}"{% else %} hidden{% endif %} />
+            <img id="edit-image-preview" class="editor-image-preview" alt="Current hero image"{% if page.image %} src="{{ '/recipe_images/' | append: page.image | relative_url }}"{% else %} hidden{% endif %} />
             <div class="editor-image-actions">
               <input type="file" id="edit-image-gallery" accept="image/*" hidden />
               <input type="file" id="edit-image-camera" accept="image/*" capture="environment" hidden />
@@ -1493,7 +1493,7 @@ function enterEditMode() {
   if (imagePreview) {
     imagePreview._sourceFile = null;
     if (data.image) {
-      imagePreview.src = '{{ '/images/' | append: page.image | relative_url }}';
+      imagePreview.src = '{{ '/recipe_images/' | append: page.image | relative_url }}';
       imagePreview.hidden = false;
     } else {
       imagePreview.removeAttribute('src');
@@ -1625,7 +1625,7 @@ function blobToBase64(blob) {
 async function uploadEditorImage(filename, blob, token) {
   var content = await blobToBase64(blob);
   var resp = await fetch(
-    'https://api.github.com/repos/' + EDIT_REPO + '/contents/images/' + filename,
+    'https://api.github.com/repos/' + EDIT_REPO + '/contents/recipe_images/' + filename,
     {
       method: 'PUT',
       headers: {
@@ -1659,7 +1659,7 @@ function setupEditorImagePicker() {
   function chosen(input) {
     var file = input.files && input.files[0];
     if (!file) return;
-    _selectedImageName = 'recipe-image-' + Date.now() + '-' + Math.random().toString(36).slice(2, 7) + '.jpg';
+    _selectedImageName = data.path ? data.path.replace(/^_recipes\//, '').replace(/\.md$/, '') + '.jpg' : 'recipe-image-' + Date.now() + '.jpg';
     if (_selectedImageUrl) URL.revokeObjectURL(_selectedImageUrl);
     _selectedImageUrl = URL.createObjectURL(file);
     preview.src = _selectedImageUrl;

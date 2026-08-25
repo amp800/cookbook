@@ -1,10 +1,10 @@
 """
 Standalone recipe scraper — called by GitHub Actions import-recipe workflow.
 Usage:
-  python tools/importer/scrape.py \
+  python config/tools/importer/scrape.py \
     --url "https://..." \
     --tags "chicken quick"
-Writes _recipes/<slug>.md and images/<slug>.<ext> relative to the repo root.
+Writes _recipes/<slug>.md and recipe_images/<slug>.<ext> relative to the repo root.
 """
 import argparse
 import re
@@ -21,8 +21,8 @@ except ImportError:
     print("recipe-scrapers not installed", file=sys.stderr)
     sys.exit(1)
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent  # tools/importer/scrape.py → repo root
-sys.path.insert(0, str(REPO_ROOT / "tools"))
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # config/tools/importer/scrape.py → repo root
+sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
 from recipe_frontmatter import render_recipe_markdown
 
 
@@ -272,7 +272,7 @@ def main():
     slug = slugify(data["title"])
     filename = f"{slug}.md"
 
-    images_dir = REPO_ROOT / "images"
+    images_dir = REPO_ROOT / "recipe_images"
     image_filename = f"{slug}.jpg"
     image_save_path = images_dir / image_filename
     image_ref = image_filename

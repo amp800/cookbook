@@ -28,7 +28,7 @@ jobs:
 
       - name: Write recipe
         run: |
-          python tools/editor/save_recipe.py \
+          python config/tools/editor/save_recipe.py \
             --path "${{ inputs.path }}" \
             --payload "${{ inputs.payload }}"
 
@@ -36,5 +36,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Edit recipe ${{ inputs.path }}"
-          file_pattern: "_recipes/*.md images/*"
+          file_pattern: "_recipes/*.md recipe_images/*"
           skip_dirty_check: "true"

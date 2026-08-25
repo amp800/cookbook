@@ -3,10 +3,10 @@ Delete a recipe file and its hero image — called by the "Delete Recipe"
 GitHub Actions workflow.
 
 Usage:
-  python tools/editor/delete_recipe.py --path "_recipes/one-pot-salmon-bowl.md"
+  python config/tools/editor/delete_recipe.py --path "_recipes/one-pot-salmon-bowl.md"
 
 The recipe's `image` field (just a filename, e.g. `one-pot-salmon-bowl.webp`)
-is read from the front matter and the matching file under `images/` is removed
+is read from the front matter and the matching file under `recipe_images/` is removed
 too, so no orphaned hero images are left behind.
 """
 import argparse
@@ -16,7 +16,7 @@ from pathlib import Path
 
 import yaml
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
 
 
 def sanitize_path(rel: str) -> Path:
@@ -68,8 +68,8 @@ def main():
     print(f"Deleted: {rel_path}")
 
     if image:
-        img_root = (REPO_ROOT / "images").resolve()
-        img_path = (REPO_ROOT / "images" / image).resolve()
+        img_root = (REPO_ROOT / "recipe_images").resolve()
+        img_path = (REPO_ROOT / "recipe_images" / image).resolve()
         try:
             img_path.relative_to(img_root)
             safe = True
@@ -77,9 +77,9 @@ def main():
             safe = False
         if safe and img_path.is_file():
             img_path.unlink()
-            print(f"Deleted: images/{image}")
+            print(f"Deleted: recipe_images/{image}")
         elif safe:
-            print(f"Note: image not found: images/{image}")
+            print(f"Note: image not found: recipe_images/{image}")
         else:
             print(f"Note: skipping unsafe image reference: {image}")
     else:

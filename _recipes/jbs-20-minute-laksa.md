@@ -2,7 +2,7 @@
 date_added: 2026-08-24
 layout: recipe
 title: JB'S 20-MINUTE LAKSA
-image: recipe-image-1787568885835-i4nvv.jpg
+image: jbs-20-minute-laksa.jpg
 # ---
 tags:
 - asian

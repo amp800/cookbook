@@ -53,7 +53,7 @@ layout: default
          data-time="{{ post.total_time | default: post.cook_time | default: 9999 }}">
         
         <div class="card-image-box">
-          <div class="card-image" style="background-image: url('{{ site.baseurl }}/images/{{ post.image }}');"></div>
+          <div class="card-image" style="background-image: url('{{ site.baseurl }}/recipe_images/{{ post.image }}');"></div>
           {% unless post.image %}
             <div class="no-image-pattern">NO IMG</div>
           {% endunless %}

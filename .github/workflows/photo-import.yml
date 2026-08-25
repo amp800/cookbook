@@ -31,7 +31,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python tools/importer/photo_import.py \
+          python config/tools/importer/photo_import.py \
             --image "${{ inputs.image }}" \
             --tags "${{ inputs.tags }}"
 
@@ -39,7 +39,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Import recipe from photo"
-          file_pattern: "_recipes/*.md images/*"
+          file_pattern: "_recipes/*.md recipe_images/*"
           skip_dirty_check: "true"
 
       # If Gemini fails, the browser-uploaded photo would otherwise stay in

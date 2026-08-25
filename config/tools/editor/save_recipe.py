@@ -2,7 +2,7 @@
 Standalone recipe editor — called by the "Edit Recipe" GitHub Actions workflow.
 
 Usage:
-  python tools/editor/save_recipe.py \
+  python config/tools/editor/save_recipe.py \
     --path "_recipes/one-pot-salmon-bowl.md" \
     --payload "<base64-encoded JSON>"
 
@@ -25,8 +25,8 @@ from pathlib import Path
 
 import yaml
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-sys.path.insert(0, str(REPO_ROOT / "tools"))
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
+sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
 from recipe_frontmatter import render_recipe_markdown
 from time_utils import derive_times
 
@@ -187,8 +187,8 @@ def main():
     old_image = str(existing.get("image") or "").strip()
     new_image = str(fm.get("image") or "").strip()
     if old_image and new_image and old_image != new_image:
-        old_path = (REPO_ROOT / "images" / old_image).resolve()
-        image_root = (REPO_ROOT / "images").resolve()
+        old_path = (REPO_ROOT / "recipe_images" / old_image).resolve()
+        image_root = (REPO_ROOT / "recipe_images").resolve()
         if old_path.parent == image_root and old_path.is_file():
             old_path.unlink()
 

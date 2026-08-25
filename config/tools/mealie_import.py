@@ -1,7 +1,7 @@
 """Convert a Mealie zip export into cookbook recipe files.
 
 Usage:
-  python tools/mealie_import.py --export mealie-export/extracted/recipes [--dry-run]
+  python config/tools/mealie_import.py --export mealie-export/extracted/recipes [--dry-run]
 
 The Mealie export is a folder per recipe, each containing ``<slug>.json`` and
 an ``images/`` folder holding the hero image as ``original.<ext>`` (plus
@@ -13,11 +13,11 @@ For every recipe this script:
   * maps Mealie fields to the cookbook front matter (via
     ``recipe_frontmatter.render_recipe_markdown`` so the layout matches the
     URL importer and the in-page editor exactly),
-  * copies only the hero image to ``images/<slug>.<ext>`` (instruction images
+  * copies only the hero image to ``recipe_images/<slug>.<ext>`` (instruction images
     are skipped),
   * writes ``_recipes/<slug>.md``.
 
-The existing ``_recipes/*.md`` and ``images/*`` are removed first — the site's
+The existing ``_recipes/*.md`` and ``recipe_images/*`` are removed first — the site's
 dummy recipes are replaced by this import. Use ``--dry-run`` to preview
 without touching anything.
 """
@@ -30,8 +30,8 @@ import shutil
 import sys
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent  # tools/mealie_import.py -> repo root
-sys.path.insert(0, str(REPO_ROOT / "tools"))
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent  # config/tools/mealie_import.py -> repo root
+sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
 from recipe_frontmatter import render_recipe_markdown  # noqa: E402
 
 # Unicode fraction glyphs -> plain "n/m" (the servings scaler only understands
@@ -339,7 +339,7 @@ def main() -> None:
         sys.exit(1)
 
     recipes_dir = REPO_ROOT / "_recipes"
-    images_dir = REPO_ROOT / "images"
+    images_dir = REPO_ROOT / "recipe_images"
 
     recipes = []
     for folder in sorted(p for p in export_dir.iterdir() if p.is_dir()):

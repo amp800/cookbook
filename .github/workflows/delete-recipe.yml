@@ -25,12 +25,12 @@ jobs:
 
       - name: Delete recipe
         run: |
-          python tools/editor/delete_recipe.py \
+          python config/tools/editor/delete_recipe.py \
             --path "${{ inputs.path }}"
 
       - name: Commit deletion
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Delete recipe ${{ inputs.path }}"
-          file_pattern: "_recipes/*.md images/*"
+          file_pattern: "_recipes/*.md recipe_images/*"
           skip_dirty_check: "true"

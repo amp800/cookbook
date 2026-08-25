@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
-  <title>Cookbook chef hat</title>
-  <rect width="512" height="512" rx="96" fill="#fff"/>
-  <g transform="translate(256,256) scale(0.5)">
-    <path fill="#E63946" d="M128 246c-28-18-45-48-45-83 0-54 44-98 98-98 25 0 48 9 65 25 18-25 47-41 84-41 54 0 98 44 98 98 0 35-18 66-45 83v44H128v-28Zm-22 86h300v45H106v-45Zm20 70h260v45H126v-45Z"/>
-    <path fill="#fff" d="M163 145c-14 7-24 22-24 39 0 24 19 43 43 43h20v-46h-20c-11 0-20-9-20-20 0-7 4-13 10-16l-9-20Zm119-21c-17 8-29 26-29 47 0 28 23 51 51 51h22v-48h-22c-2 0-3-1-3-3 0-1 1-2 2-3l-21-44Z" opacity=".95"/>
-  </g>
-</svg>

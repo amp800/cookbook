@@ -15,7 +15,7 @@ collections:
   recipes:
     output: true
 
-exclude: ['Gemfile', 'Gemfile.lock', 'readme.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'config/readme.md', 'config/LICENSE', 'config/tools']
 
 # Recipe imports use GitHub Actions directly via the GitHub API.
 # No server URL needed.
