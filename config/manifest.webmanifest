@@ -9,7 +9,7 @@
   "theme_color": "#E63946",
   "icons": [
     {
-      "src": "./images/chef-hat-icon.svg",
+      "src": "/cookbook/config/images/chef-hat-icon.svg",
       "sizes": "192x192 512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
