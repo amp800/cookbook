@@ -10,7 +10,7 @@
   "icons": [
     {
       "src": "/cookbook/config/images/chef-hat-icon.svg",
-      "sizes": "192x192 512x512",
+      "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
