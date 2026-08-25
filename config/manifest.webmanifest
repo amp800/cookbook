@@ -2,15 +2,15 @@
   "name": "Cookbook",
   "short_name": "Cookbook",
   "description": "The plain text recipe database for hackers",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/cookbook/",
+  "scope": "/cookbook/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#E63946",
   "icons": [
     {
-      "src": "./config/images/chef-hat-icon.svg",
-      "sizes": "any",
+      "src": "./images/chef-hat-icon.svg",
+      "sizes": "192x192 512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
