@@ -17,15 +17,15 @@ total_time: '15'
 ingredients:
 - 3/4 cup plain yogurt (whole milk is best, (or sub vegan coconut yogurt))
 - 1/2 cup cucumber, finely diced (or grated)
-- 1 tablespoon finely chopped red onion (optional, sub chives (or green onion))
-- 2 teaspoons lemon (or lime juice), more to taste
-- 1 tablespoon olive oil
-- 1/2 teaspoon ground cumin
-- 1/2 teaspoon coriander
-- 2-3 tablespoons fresh mint leaves, chopped
-- 2-3 tablespoons fresh cilantro, chopped
-- 1/4 teaspoon salt, more to taste
-- 1/4 teaspoon pepper
+- 1 tbsp finely chopped red onion (optional, sub chives (or green onion))
+- 2 tsp lemon (or lime juice), more to taste
+- 1 tbsp olive oil
+- 1/2 tsp ground cumin
+- 1/2 tsp coriander
+- 2-3 tbsp fresh mint leaves, chopped
+- 2-3 tbsp fresh cilantro, chopped
+- 1/4 tsp salt, more to taste
+- 1/4 tsp pepper
 # ---
 directions:
 - Place all ingredients in a bowl and stir.

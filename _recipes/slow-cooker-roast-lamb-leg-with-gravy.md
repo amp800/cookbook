@@ -14,17 +14,17 @@ prep_time: '5'
 cook_time: '600'
 total_time: '605'
 ingredients:
-- 2.0 kilogram / 4 pound lamb leg, bone in ((note 1))
-- 1 teaspoon salt
+- 2.0 kg / 4 lb lamb leg, bone in ((note 1))
+- 1 tsp salt
 - black pepper
 - 2 large garlic cloves (minced)
-- 1 1/2 teaspoon dried thyme (or rosemary ((or 2.5 teaspoon finely chopped fresh)))
-- 1 tablespoon olive oil
-- 2 cups / 500 milliliter beef stock ((or chicken) (note 2))
+- 1 1/2 tsp dried thyme (or rosemary ((or 2.5 tsp finely chopped fresh)))
+- 1 tbsp olive oil
+- 2 cups / 500 mL beef stock ((or chicken) (note 2))
 - 1 sprig rosemary (optional)
-- 50 gram / 3 tablespoon butter
-- 3 tablespoon / 40 gram flour ((any white))
-- 2 cups / 500 milliliter braising liquid from slow cooker (strained)
+- 50 g / 3 tbsp butter
+- 3 tbsp / 40 g flour ((any white))
+- 2 cups / 500 mL braising liquid from slow cooker (strained)
 # ---
 directions:
 - Place lamb in slow cooker or on work surface. Sprinkle with salt, pepper, thyme or rosemary and garlic. Drizzle over oil,

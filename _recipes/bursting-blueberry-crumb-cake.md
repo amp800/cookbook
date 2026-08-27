@@ -17,26 +17,26 @@ ingredients:
 - 'CRUNCH CRUMB (STREUSEL):'
 - 2/3 cups flour (plain/all-purpose)
 - 1/2 cup caster sugar ((superfine sugar))
-- 1/2 teaspoon cinnamon powder
-- 1/8 teaspoon cooking/kosher salt
-- 60 gram / 4 tablespoon melted butter
+- 1/2 tsp cinnamon powder
+- 1/8 tsp cooking/kosher salt
+- 60 g / 4 tbsp melted butter
 - 'LEMON VANILLA CAKE:'
-- 1/4 teaspoon vanilla extract
+- 1/4 tsp vanilla extract
 - 1 1/3 cups flour (plain/all-purpose)
-- 2 teaspoon baking powder
-- 1/4 teaspoon cooking/kosher salt
+- 2 tsp baking powder
+- 1/4 tsp cooking/kosher salt
 - 3/4 cup caster sugar ((superfine sugar))
-- 1 teaspoon vanilla extract
-- 1 tablespoon lemon zest
+- 1 tsp vanilla extract
+- 1 tbsp lemon zest
 - 2 large eggs
-- 90 gram / 6 tablespoon unsalted butter (melted then cooled slightly (don’t use piping hot))
+- 90 g / 6 tbsp unsalted butter (melted then cooled slightly (don’t use piping hot))
 - 1/3 cup sour cream (at room temperature (sub plain yogurt))
 - 1/3 cup milk (at room temperature (full fat best, low fat ok))
 - 'BLUEBERRIES:'
-- 500 gram / 1 pound fresh blueberries ((note 1 for frozen))
-- 2 teaspoon lemon juice
-- 2 tablespoon caster sugar ((superfine sugar))
-- 3 tablespoon flour (plain/all-purpose)
+- 500 g / 1 lb fresh blueberries ((note 1 for frozen))
+- 2 tsp lemon juice
+- 2 tbsp caster sugar ((superfine sugar))
+- 3 tbsp flour (plain/all-purpose)
 # ---
 directions:
 - Preheat oven to 200°C (180°C fan-forced). Line a 20cm springform pan with paper.

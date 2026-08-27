@@ -18,12 +18,12 @@ cook_time: '45'
 total_time: '55'
 ingredients:
 - 1 1/2 cups dark chocolate chips ((note 1))
-- 120 gram / 1 stick unsalted butter (melted)
+- 120 g / 1 stick unsalted butter (melted)
 - 3/4 cup white sugar
-- 3 large eggs (at room temperature (60 gram /2 ounce each+) (note 2))
-- 1 teaspoon vanilla
+- 3 large eggs (at room temperature (60 g /2 oz each+) (note 2))
+- 1 tsp vanilla
 - 1/4 cup cocoa powder (sfited (preferably dutch processed ie the more expensive stuff))
-- 1/2 teaspoon baking powder
+- 1/2 tsp baking powder
 - 2 cups almond meal / almond flour ((or hazelnut flour))
 # ---
 directions:

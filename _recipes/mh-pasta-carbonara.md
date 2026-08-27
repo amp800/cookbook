@@ -15,14 +15,14 @@ description: These days, so many carbonara recipes cheat with cream which is a s
 yield: 4 servings
 prep_time: '5'
 ingredients:
-- 175 gram /6 ounce guanciale (pancetta (or block bacon)), (weight after skin removed (note 1))
+- 175 g /6 oz guanciale (pancetta (or block bacon)), (weight after skin removed (note 1))
 - 2 large eggs ((note 2))
 - 2 egg yolks ((note 2))
-- 100 gram /3.5 ounce parmigiano reggiano (finely shredded (or pecorino romano, sub parmesan, note 3)) one tightly packed
+- 100 g /3.5 oz parmigiano reggiano (finely shredded (or pecorino romano, sub parmesan, note 3)) one tightly packed
   cup
-- 1/4 teaspoon black pepper
-- 400 gram /14 ounce spaghetti
-- 1 tablespoon cooking/kosher salt ((for cooking pasta))
+- 1/4 tsp black pepper
+- 400 g /14 oz spaghetti
+- 1 tbsp cooking/kosher salt ((for cooking pasta))
 - 1 garlic clove (finely minced (optional, note 4))
 # ---
 directions:

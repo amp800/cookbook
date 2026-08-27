@@ -18,9 +18,9 @@ ingredients:
 - 1 cup rolled oats
 - 1 cup desiccated coconut (unsweetened)
 - 3/4 cup white sugar (preferably caster / superfine)
-- 150 gram / 5 ounce unsalted butter
-- 4 tablespoon golden syrup ((note 1))
-- 1 teaspoon baking soda ((bicarbonate soda))
+- 150 g / 5 oz unsalted butter
+- 4 tbsp golden syrup ((note 1))
+- 1 tsp baking soda ((bicarbonate soda))
 # ---
 directions:
 - Preheat oven to 180°C (160°C fan forced)
@@ -29,7 +29,7 @@ directions:
 - Place butter and golden syrup in a saucepan over medium high heat and stir until butter has melted.
 - Add baking soda and stir to combine - it will fizz up, this is normal. Immediately remove from heat.
 - Pour butter mixture into flour and mix until just combined.
-- Roll level 1 tablespoon mixture into balls, flatten into patties. Place balls 3cm apart on prepared trays.
+- Roll level 1 tbsp mixture into balls, flatten into patties. Place balls 3cm apart on prepared trays.
 - Bake for 15 minutes, swapping trays halfway during cooking, or until deep golden. (Bake 12 min for chewy biscuits!)
 - Stand on trays for 5 minutes. Transfer to a wire rack to cool - they harden as they cool!
 # ---

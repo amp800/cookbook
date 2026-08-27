@@ -16,7 +16,7 @@ description: 'Big, juicy, slaw-like salad with chicken, and singing with signatu
 yield: 3 servings
 prep_time: '15'
 ingredients:
-- 350 gram /12 ounce cooked chicken (cut into thin batons (2 large cooked breasts, note 1))
+- 350 g /12 oz cooked chicken (cut into thin batons (2 large cooked breasts, note 1))
 - 6 heaped cups wombok cabbage ((napa cabbage), finely shredded (note 2))
 - 1/2 red onion (very finely sliced (so it's floppy))
 - 1 red capsicum / bell pepper (finely sliced into thin batons)
@@ -25,13 +25,13 @@ ingredients:
 - 1 large chilli (deseeded then julienned, optional (note 3))
 - 1 cup (tightly packed) mint leaves (large leaves roughly torn by hand (note 4))
 - 1 cup (tightly packed) coriander/cilantro leaves ((note 4))
-- 2 tablespoon lime juice
-- 2 tablespoon rice vinegar
+- 2 tbsp lime juice
+- 2 tbsp rice vinegar
 - 1/4 cup fish sauce ((sub light (or all purpose soy sauce)))
 - 1/4 cup canola oil ((or vegetable, grapeseed, peanut))
-- 1 tablespoon white sugar
+- 1 tbsp white sugar
 - 1 large garlic clove (very finely minced)
-- 2 teaspoon red chilli (deseeded then very finely minced (birds eye (or thai red chilli best), note 3))
+- 2 tsp red chilli (deseeded then very finely minced (birds eye (or thai red chilli best), note 3))
 - 1/2 cup peanuts, roasted unsalted (finely chopped (~1/3 cup once chopped, note 5))
 # ---
 directions:

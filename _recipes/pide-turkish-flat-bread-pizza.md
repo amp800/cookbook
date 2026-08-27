@@ -14,34 +14,34 @@ description: 'It''s hard to get great pide outside of Turkey. It''s hit and miss
 yield: 2 servings
 prep_time: '30'
 ingredients:
-- 1 teaspoon rapid rise / instant yeast ((sub active dry yeast, note 1))
-- 1/2 teaspoon white sugar
-- 2 tablespoon + 2/3 cups very warm water ((~40℃ /104℉, note 2))
+- 1 tsp rapid rise / instant yeast ((sub active dry yeast, note 1))
+- 1/2 tsp white sugar
+- 2 tbsp + 2/3 cups very warm water ((~40℃ /104℉, note 2))
 - 2 cups bread flour ((sub all purpose/plain flour, note 3))
-- 3/4 teaspoon salt
-- 1 1/2 teaspoon olive oil
-- 150 gram / 5 ounce turkish kasar cheese (or mozzarella ((note 4)))
-- 1/2 teaspoon semolina (optional (note 10))
+- 3/4 tsp salt
+- 1 1/2 tsp olive oil
+- 150 g / 5 oz turkish kasar cheese (or mozzarella ((note 4)))
+- 1/2 tsp semolina (optional (note 10))
 - 1 egg ((optional, note 13))
-- 2 teaspoon olive oil
+- 2 tsp olive oil
 - 1/2 onion (finely diced)
-- 280 gram / 10 ounce baby spinach
-- 1/2 teaspoon cumin
-- 1/2 teaspoon pepper
-- 1/4 teaspoon salt ((kosher / cooking salt))
-- 125 gram / 4 ounce turkish sujuk sausage ((sub chorizo, note 5))
-- 1 tablespoon olive oil
+- 280 g / 10 oz baby spinach
+- 1/2 tsp cumin
+- 1/2 tsp pepper
+- 1/4 tsp salt ((kosher / cooking salt))
+- 125 g / 4 oz turkish sujuk sausage ((sub chorizo, note 5))
+- 1 tbsp olive oil
 - 1/2 onion (finely diced)
 - 1 garlic cloves (finely minced)
-- 250 gram / 8 ounce lamb mince ((or beef))
-- 1 teaspoon tomato paste
-- 1 teaspoon baharat spice mix ((note 6))
-- 1/2 teaspoon cumin
-- 1/8 teaspoon each salt and pepper
+- 250 g / 8 oz lamb mince ((or beef))
+- 1 tsp tomato paste
+- 1 tsp baharat spice mix ((note 6))
+- 1/2 tsp cumin
+- 1/8 tsp each salt and pepper
 - 1/2 red capsicum / bell pepper (finely diced)
 - 1/2 tomato (finely chopped)
-- 1 teaspoon lemon juice
-- 4 tablespoon turkish tulum cheese (or feta (), crumbled (note 7))
+- 1 tsp lemon juice
+- 4 tbsp turkish tulum cheese (or feta (), crumbled (note 7))
 - dried oregano
 - sesame seeds (toasted)
 - sumac

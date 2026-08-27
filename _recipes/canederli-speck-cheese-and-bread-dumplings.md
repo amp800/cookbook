@@ -12,15 +12,15 @@ description: Canederli are bread dumplings flavoured with Alpine ingredients suc
   They're best served in a warming beef broth or tossed in brown butter with crispy sage.
 total_time: '60'
 ingredients:
-- 200 gram of stale bread, diced (including crusts)
-- 200 milliliter of milk
+- 200 g of stale bread, diced (including crusts)
+- 200 mL of milk
 - 2 eggs, beaten
 - 1 pinch of nutmeg
 - 1 knob of butter
 - 1 onion, finely diced
-- 150 gram of tyrolean speck, diced into lardons (or smoked pancetta)
-- 80 gram of emmental, (or local cheeses such as venezza)
-- 150 gram of flour
+- 150 g of tyrolean speck, diced into lardons (or smoked pancetta)
+- 80 g of emmental, (or local cheeses such as venezza)
+- 150 g of flour
 - 1 handful of parsley, chopped
 - salt
 - pepper

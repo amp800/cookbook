@@ -17,20 +17,20 @@ ingredients:
 - 1 small whole chicken (3-4 lbs) (or sub chicken pieces (see notes))
 - 1 1/2 lbs potatoes (yukon (or reds)), thinly sliced (1/4 inch thick)
 - 2 dried ancho chilies-rehydrated
-- 2 tablespoons smoked paprika
+- 2 tbsp smoked paprika
 - 6 cloves garlic
-- 1 tablespoon kosher salt
-- 1 teaspoon ground coriander
-- 1/4 cup plus 1 tablespoon sherry vinegar, red wine vinegar (or lemon juice)
-- 1/4 cup plus 1 tablespoon olive oil
-- 1/2 teaspoon black pepper
+- 1 tbsp kosher salt
+- 1 tsp ground coriander
+- 1/4 cup plus 1 tbsp sherry vinegar, red wine vinegar (or lemon juice)
+- 1/4 cup plus 1 tbsp olive oil
+- 1/2 tsp black pepper
 - 1 cup plain yogurt
 - 1 bunch cilantro – finely chopped
-- 1/2 teaspoon kosher salt
-- 1/2 teaspoon ground coriander
+- 1/2 tsp kosher salt
+- 1/2 tsp ground coriander
 - cracked pepper to taste
-- 1 tablespoon lemon juice
-- 1 tablespoon olive oil
+- 1 tbsp lemon juice
+- 1 tbsp olive oil
 # ---
 directions:
 - Preheat oven to 425F
@@ -46,7 +46,7 @@ directions:
   cooking, so be sure to save the remaining.) Place chicken, skin side down on the potatoes and place in the hot oven.
 - Turn chicken over after 15 minutes, and place back in the oven. After 15 minutes, brush more marinade all over the chicken
   on the skin side, really lathering it up. Return to the oven and bake until cooked through another 15-30 minutes, or until
-  leg/ thigh reaches an internal temperature of 165 F. The bigger the chicken, the longer this will take. ( A large, 5-6 pound
+  leg/ thigh reaches an internal temperature of 165 F. The bigger the chicken, the longer this will take. ( A large, 5-6 lb
   chicken may take an additional 20 minutes!) To crisp the skin and get it deeply brown, broil for a few minutes. A little
   char is good here!!! Remove chicken when done and let rest 5-10 minutes before serving. You can continue to cook the potatoes
   or crisp them up ( with broiler) while resting the chicken and cutting it into pieces.

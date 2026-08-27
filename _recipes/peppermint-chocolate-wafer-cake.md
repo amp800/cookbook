@@ -9,24 +9,24 @@ tags:
 - desserts
 yield: 1 servings
 ingredients:
-- 1 cup (240 milliliter) butter, room temperature
-- 1 1/2 cup (360 milliliter) sugar
+- 1 cup (240 mL) butter, room temperature
+- 1 1/2 cup (360 mL) sugar
 - 2 eggs
-- 2 teaspoons (10 milliliter) vanilla extract
-- 4 tablespoons (60 milliliter) milk
-- 1 cup (240 milliliter) melted semi-sweet chocolate
-- 2 1/2 cups (600 milliliter) flour
-- 1/2 cup (120 milliliter) cocoa powder
-- 1 teaspoon (5 milliliter) baking powder
-- 1/2 teaspoon (2.5 milliliter) baking soda
-- 1 teaspoon (5 milliliter) salt
-- 3 cups (720 milliliter) chilled heavy cream
-- 3/4 cup (180 milliliter) icing sugar
-- 2 tablespoons (30 milliliter) natural peppermint extract + more if needed
+- 2 tsp (10 mL) vanilla extract
+- 4 tbsp (60 mL) milk
+- 1 cup (240 mL) melted semi-sweet chocolate
+- 2 1/2 cups (600 mL) flour
+- 1/2 cup (120 mL) cocoa powder
+- 1 tsp (5 mL) baking powder
+- 1/2 tsp (2.5 mL) baking soda
+- 1 tsp (5 mL) salt
+- 3 cups (720 mL) chilled heavy cream
+- 3/4 cup (180 mL) icing sugar
+- 2 tbsp (30 mL) natural peppermint extract + more if needed
 - green gel food colouring
-- 3/4 cup (180 milliliter) semi-sweet chocolate (chips (or chopped bar))
-- 1 1/2 tablespoons (25 milliliter) coconut oil
-- 1 teaspoon (5 milliliter) peppermint extract
+- 3/4 cup (180 mL) semi-sweet chocolate (chips (or chopped bar))
+- 1 1/2 tbsp (25 mL) coconut oil
+- 1 tsp (5 mL) peppermint extract
 # ---
 directions:
 - 'Chocolate wafers: Cream butter with sugar in a bowl. Add eggs, vanilla, and milk, and continue whipping until fully combined.
@@ -49,7 +49,7 @@ directions:
 - Repeat these layers until you have used up all the cookies.
 - Spread the top of the cake with a thick, smooth coat of peppermint whipped cream. Chill in the fridge for at least 4 hours.
 - 'Mint chocolate drizzle: Melt semi-sweet chocolate and coconut oil in a double boiler until creamy and shiny. Stir in 2
-  teaspoons of peppermint extract. Remove from heat and set aside to cool for 2-3 minutes.'
+  tsp of peppermint extract. Remove from heat and set aside to cool for 2-3 minutes.'
 - 'To finish: Remove cake from the fridge. Using a spoon, drizzle the mint chocolate over the top of the chilled cake. Serve
   cold.'
 ---

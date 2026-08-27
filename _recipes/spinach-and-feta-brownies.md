@@ -17,19 +17,19 @@ prep_time: '20'
 cook_time: '40'
 total_time: '60'
 ingredients:
-- 2 teaspoon olive oil
+- 2 tsp olive oil
 - 4 scallions, (diced)
-- 10 ounce baby spinach, (rough chop)
-- 2 tablespoon dill, (chopped)
+- 10 oz baby spinach, (rough chop)
+- 2 tbsp dill, (chopped)
 - 1 cup all purpose flour
-- 1 teaspoon baking powder
-- 1 teaspoon salt
+- 1 tsp baking powder
+- 1 tsp salt
 - 1 cup milk
 - 2 eggs, (lightly beaten)
 - 1/4 cup butter, (melted (or olive oil))
-- 4 ounce shredded mozzarella
-- 4 ounce feta cheese, (crumbled)
-- 2 tablespoon grated parmesan cheese
+- 4 oz shredded mozzarella
+- 4 oz feta cheese, (crumbled)
+- 2 tbsp grated parmesan cheese
 # ---
 directions:
 - 'PREHEAT OVEN: Preheat your oven to 190°C. Lightly spray a medium size baking dish with olive oil. Mine was 27cm x 19cm.'

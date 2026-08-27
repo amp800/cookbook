@@ -14,14 +14,14 @@ description: Whether you consider this a giant chocolate tart or chocolate custa
 yield: 10 servings
 prep_time: '30'
 ingredients:
-- 200 gram / 7 ounce oreo cookies ((1.5 standard packs, note 1))
-- 60 gram / 4 tablespoon unsalted butter (melted)
+- 200 g / 7 oz oreo cookies ((1.5 standard packs, note 1))
+- 60 g / 4 tbsp unsalted butter (melted)
 - 3 cups milk (full fat)
-- 2 teaspoon vanilla
+- 2 tsp vanilla
 - 2/3 cups caster sugar ((superfine sugar, sub regular))
-- 120 gram / 4.2 ounce egg yolks ((~6 - 7 large eggs, note 2))
-- 5 tablespoon (50 gram) cornflour / cornstarch
-- 200 gram / 7 ounce 70% cocoa chocolate (finely chopped (i use lindt, note 3))
+- 120 g / 4.2 oz egg yolks ((~6 - 7 large eggs, note 2))
+- 5 tbsp (50 g) cornflour / cornstarch
+- 200 g / 7 oz 70% cocoa chocolate (finely chopped (i use lindt, note 3))
 - chantilly cream
 - raspberry (or strawberries)
 - icing sugar / powdered sugar (for dusting)

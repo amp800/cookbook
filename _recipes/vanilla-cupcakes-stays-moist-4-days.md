@@ -14,14 +14,14 @@ yield: 12 servings
 prep_time: '20'
 ingredients:
 - 1 cup plain / all purpose flour ((cake flour ok too, note 1))
-- 1 1/4 teaspoon baking powder ((not baking soda, note 2))
-- 1/8 teaspoon salt
-- 2 large eggs ((50 - 55 gram / 2 ounce each), at room temp (note 3))
+- 1 1/4 tsp baking powder ((not baking soda, note 2))
+- 1/8 tsp salt
+- 2 large eggs ((50 - 55 g / 2 oz each), at room temp (note 3))
 - 3/4 cup caster / superfine sugar ((granulated/regular ok too, note 4))
-- 60 gram / 1/4 cup unsalted butter (cut into 1.5cm / 1/2” cubes)
+- 60 g / 1/4 cup unsalted butter (cut into 1.5cm / 1/2” cubes)
 - 1/2 cup milk (full fat (note 5))
-- 2 teaspoon vanilla extract (the best you can afford (note 6))
-- 1 1/2 teaspoon vegetable (or canola oil ((note 7)))
+- 2 tsp vanilla extract (the best you can afford (note 6))
+- 1 1/2 tsp vegetable (or canola oil ((note 7)))
 # ---
 directions:
 - 'PREPARATION:'

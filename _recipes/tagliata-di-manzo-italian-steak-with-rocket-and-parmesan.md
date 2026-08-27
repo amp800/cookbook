@@ -15,29 +15,29 @@ prep_time: '10'
 cook_time: '8'
 total_time: '18'
 ingredients:
-- 2 top sirloin steaks ((about 12-16 ounces each))
-- 2 tablespoons extra virgin olive oil
-- 1 tablespoon sea salt
-- 3 ounces rocket ((about 3 cups))
-- 2 teaspoons extra virgin olive oil
-- 2 teaspoons freshly squeezed lemon juice
-- 1 teaspoon flaky salt (or finishing salt)
-- 2 ounces parmesan cheese, (shaved (about 1/2 cup))
+- 2 top sirloin steaks ((about 12-16 oz each))
+- 2 tbsp extra virgin olive oil
+- 1 tbsp sea salt
+- 3 oz rocket ((about 3 cups))
+- 2 tsp extra virgin olive oil
+- 2 tsp freshly squeezed lemon juice
+- 1 tsp flaky salt (or finishing salt)
+- 2 oz parmesan cheese, (shaved (about 1/2 cup))
 # ---
 directions:
 - Get ready to grill. Let the steaks sit at room temperature for 30 minutes before preparing. Meanwhile, heat an outdoor grill
   to 260°C
 - Season the steak. Using a basting brush or your fingers, brush all sides of the steaks with olive oil. Then sprinkle the
-  tops and bottoms with the 1 tablespoon sea salt.
+  tops and bottoms with the 1 tbsp sea salt.
 - Place the steaks over direct flame (or heat, if using a charcoal grill) and cover. Grill until nicely charred on one side,
   3 to 4 minutes. Flip, cover, and grill the second side for 3-4 minutes more. (Or until they reach an internal temperature
   of 140 degrees. See notes for for additional doneness options.)
 - Rest. When the steaks are done, transfer to a cutting board, tent with foil, and let sit for 5 to 10 minutes before carving
   in 1cm thick slices.
 - Meanwhile, make the lemony rocket salad. While the steaks are resting, toss the rocket, extra virgin olive oil, lemon juice,
-  and ½ teaspoon flaky salt in a bowl, then transfer to a serving platter. (Or you can toss it directly on the serving platter
+  and ½ tsp flaky salt in a bowl, then transfer to a serving platter. (Or you can toss it directly on the serving platter
   if you don’t mind the platter being a bit messier.)
-- Serve. Place the steak slices on top of the rocket, then top with the remaining 1/2 teaspoon flaky salt and the parmesan
+- Serve. Place the steak slices on top of the rocket, then top with the remaining 1/2 tsp flaky salt and the parmesan
   cheese. Serve immediately.
 # ---
 notes:

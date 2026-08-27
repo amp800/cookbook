@@ -18,8 +18,8 @@ ingredients:
 - 1 small cauliflower
 - 0.66 cup tikka masala curry paste
 - 1 sheet puff pastry, partially thawed
-- 270 milliliter light coconut milk
-- 450 gram microwave long-grain rice (to serve)
+- 270 mL light coconut milk
+- 450 g microwave long-grain rice (to serve)
 - 0.5 cup coriander sprigs (to serve)
 # ---
 directions:

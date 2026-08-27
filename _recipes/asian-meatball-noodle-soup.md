@@ -26,7 +26,7 @@ ingredients:
 - white pepper
 - 'FOR THE SOUP:'
 - 150 g cabbage chopped
-- 2 litre chicken stock
+- 2 L chicken stock
 - 1 tbsp soy sauce
 - 250 g rice noodles cooked according to package directions and rinsed well.
 # ---

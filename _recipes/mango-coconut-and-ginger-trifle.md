@@ -11,16 +11,16 @@ description: Mango and coconut are the stars of this summer trifle.
 yield: 6 servings
 prep_time: '30'
 ingredients:
-- 45 gram (3 tablespoon) chia seeds
-- 400 milliliter (1 can) coconut milk
-- 2 tablespoon maple syrup (or brown sugar)
-- 1/2 teaspoon vanilla extract
+- 45 g (3 tbsp) chia seeds
+- 400 mL (1 can) coconut milk
+- 2 tbsp maple syrup (or brown sugar)
+- 1/2 tsp vanilla extract
 - 3 ripe mangoes, flesh cut into cubes
 - zest and juice of 1 lime
 - 2cm piece of ginger, peeled and grated
-- 1 tablespoon brown sugar
-- 70 gram (1 cup) coconut flakes
-- 200 gram gingernut biscuits, roughly crumbled
+- 1 tbsp brown sugar
+- 70 g (1 cup) coconut flakes
+- 200 g gingernut biscuits, roughly crumbled
 # ---
 directions:
 - Prepare the coconut chia pudding one day ahead. Combine the chia seeds, coconut milk, maple syrup and vanilla extract in

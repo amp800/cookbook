@@ -17,33 +17,33 @@ prep_time: '30'
 cook_time: '140'
 total_time: '170'
 ingredients:
-- 5 kilogram / 10 pound leg ham, (bone in, skin on (note 1))
-- 5 kilogram / 10 pound leg ham, (bone in, skin on (note 1))
-- 5 kilogram / 10 pound leg ham, (bone in, skin on (note 1))
+- 5 kg / 10 lb leg ham, (bone in, skin on (note 1))
+- 5 kg / 10 lb leg ham, (bone in, skin on (note 1))
+- 5 kg / 10 lb leg ham, (bone in, skin on (note 1))
 - 30 cloves ((for studding the ham, optional - mainly for decorative purposes))
 - 30 cloves ((for studding the ham, optional - mainly for decorative purposes))
 - 30 cloves ((for studding the ham, optional - mainly for decorative purposes))
 - 2 oranges (cut into quarters (note 2))
 - 2 oranges (cut into quarters (note 2))
 - 2 oranges (cut into quarters (note 2))
-- 1 cup (250 milliliter) water
-- 1 cup (250 milliliter) water
-- 1 cup (250 milliliter) water
-- 3/4 cup (185 milliliter) maple syrup ((sub honey))
-- 3/4 cup (185 milliliter) maple syrup ((sub honey))
-- 3/4 cup (185 milliliter) maple syrup ((sub honey))
-- 3/4 cup (165 gram) brown sugar (packed)
-- 3/4 cup (165 gram) brown sugar (packed)
-- 3/4 cup (165 gram) brown sugar (packed)
-- 3 tablespoon dijon mustard ((can sub american (or other plain mustard)))
-- 3 tablespoon dijon mustard ((can sub american (or other plain mustard)))
-- 3 tablespoon dijon mustard ((can sub american (or other plain mustard)))
-- 3/4 teaspoon ground cinnamon
-- 3/4 teaspoon ground cinnamon
-- 3/4 teaspoon ground cinnamon
-- 1/2 teaspoon all spice ((or nutmeg))
-- 1/2 teaspoon all spice ((or nutmeg))
-- 1/2 teaspoon all spice ((or nutmeg))
+- 1 cup (250 mL) water
+- 1 cup (250 mL) water
+- 1 cup (250 mL) water
+- 3/4 cup (185 mL) maple syrup ((sub honey))
+- 3/4 cup (185 mL) maple syrup ((sub honey))
+- 3/4 cup (185 mL) maple syrup ((sub honey))
+- 3/4 cup (165 g) brown sugar (packed)
+- 3/4 cup (165 g) brown sugar (packed)
+- 3/4 cup (165 g) brown sugar (packed)
+- 3 tbsp dijon mustard ((can sub american (or other plain mustard)))
+- 3 tbsp dijon mustard ((can sub american (or other plain mustard)))
+- 3 tbsp dijon mustard ((can sub american (or other plain mustard)))
+- 3/4 tsp ground cinnamon
+- 3/4 tsp ground cinnamon
+- 3/4 tsp ground cinnamon
+- 1/2 tsp all spice ((or nutmeg))
+- 1/2 tsp all spice ((or nutmeg))
+- 1/2 tsp all spice ((or nutmeg))
 # ---
 directions:
 - Take ham out of fridge 1 hour prior.

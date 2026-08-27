@@ -14,16 +14,16 @@ prep_time: '15'
 cook_time: '15'
 total_time: '30'
 ingredients:
-- 3 tablespoon sesame oil
+- 3 tbsp sesame oil
 - 1 onion diced
-- 3 garlic cloves, crushed, (or 1 tablespoon garlic purée)
-- thumb-sized piece ginger, peeled and chopped, (or 1 1/2 tablespoon ginger purée)
-- 350 gram lean pork mince
-- 320 gram stir-fry veg (we used 2 x 160 gram bags of mangetout, baby sweetcorn, beansprouts, carrots and peppers)
-- 350 gram egg noodles
-- 4 tablespoon low-salt soy sauce
-- 2 teaspoon cornflour
-- 4 tablespoon sweet chilli sauce
+- 3 garlic cloves, crushed, (or 1 tbsp garlic purée)
+- thumb-sized piece ginger, peeled and chopped, (or 1 1/2 tbsp ginger purée)
+- 350 g lean pork mince
+- 320 g stir-fry veg (we used 2 x 160 g bags of mangetout, baby sweetcorn, beansprouts, carrots and peppers)
+- 350 g egg noodles
+- 4 tbsp low-salt soy sauce
+- 2 tsp cornflour
+- 4 tbsp sweet chilli sauce
 - 1 cup water
 # ---
 directions:

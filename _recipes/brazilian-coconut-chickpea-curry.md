@@ -14,23 +14,23 @@ yield: 4 servings
 prep_time: '10'
 ingredients:
 - 'CHICKPEA CURRY:'
-- 1.5 tablespoon olive oil
+- 1.5 tbsp olive oil
 - 1 onion (finely chopped)
 - 2 garlic cloves (minced)
 - 1 red capsicum/bell peppers (cut into 3 x 0.75cm / 1.25 x 1/3"" strips)
 - 2 cans chickpeas (drained (note 1))
-- 400 milliliter /14 ounce coconut milk (full fat for best flavour (note 2))
-- 400 milliliter /14 ounce can crushed tomato
-- 1 cup (250 milliliter) chicken (or vegetable stock/broth (), low sodium)
-- 1 tablespoon paprika
-- 1 tablespoon cumin
-- 1/2 - 1 teaspoon cayenne pepper ((adjust spiciness to taste))
-- 1.5 teaspoon sugar ((any type))
-- 0.5 teaspoon salt
-- 50 gram / 2 ounce baby spinach leaves ((or kale))
+- 400 mL /14 oz coconut milk (full fat for best flavour (note 2))
+- 400 mL /14 oz can crushed tomato
+- 1 cup (250 mL) chicken (or vegetable stock/broth (), low sodium)
+- 1 tbsp paprika
+- 1 tbsp cumin
+- 1/2 - 1 tsp cayenne pepper ((adjust spiciness to taste))
+- 1.5 tsp sugar ((any type))
+- 0.5 tsp salt
+- 50 g / 2 oz baby spinach leaves ((or kale))
 - 'FINISHING & SERVING:'
-- 3 tablespoon coriander/cilantro (roughly chopped, plus more for serving (note 3))
-- 1 tablespoon lime juice (plus extra wedges for serving)
+- 3 tbsp coriander/cilantro (roughly chopped, plus more for serving (note 3))
+- 1 tbsp lime juice (plus extra wedges for serving)
 - yogurt ((optional))
 - rice - (or something to soak up the sauce ((note 4)))
 # ---

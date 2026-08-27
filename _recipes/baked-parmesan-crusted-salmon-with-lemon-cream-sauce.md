@@ -15,24 +15,24 @@ prep_time: '10'
 cook_time: '30'
 total_time: '40'
 ingredients:
-- 1 (1 - 1.4 kilogram / 2 - 2.8 pound) side of salmon ((note 1))
-- 3- 4 tablespoon dijon mustard
-- 1 cup panko breadcrumbs ((50 gram) (note 2))
+- 1 (1 - 1.4 kg / 2 - 2.8 lb) side of salmon ((note 1))
+- 3- 4 tbsp dijon mustard
+- 1 cup panko breadcrumbs ((50 g) (note 2))
 - oil spray
-- 50 gram / 3 tablespoon butter (melted)
+- 50 g / 3 tbsp butter (melted)
 - 1/3 cup grated parmesan (store bought (1/2 cup fresh grated) (note 3))
-- 2 tablespoon finely chopped fresh parsley
-- 2 tablespoon finely chopped fresh dill
+- 2 tbsp finely chopped fresh parsley
+- 2 tbsp finely chopped fresh dill
 - zest of 1 lemon
-- 1/2 teaspoon salt
+- 1/2 tsp salt
 - pepper
-- 30 gram / 2 tablespoon butter
+- 30 g / 2 tbsp butter
 - 1 eschallot / finely chopped ((note 4))
 - 1 1/4 cups dry white wine ((note 5))
 - 1 1/2 cups heavy cream / thickened cream
-- 1 tablespoon dijon mustard
-- 2 1/2 tablespoon lemon juice ((plus more to taste))
-- 1/2 teaspoon sugar
+- 1 tbsp dijon mustard
+- 2 1/2 tbsp lemon juice ((plus more to taste))
+- 1/2 tsp sugar
 - salt
 - salt and pepper
 - watercress

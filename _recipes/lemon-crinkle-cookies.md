@@ -14,16 +14,16 @@ cook_time: '15'
 total_time: '215'
 ingredients:
 - 2 and 1/2 cups (313g) all-purpose flour (spooned & leveled)
-- 1 teaspoon cornstarch*
-- 1 teaspoon baking soda
-- 1/2 teaspoon salt
+- 1 tsp cornstarch*
+- 1 tsp baking soda
+- 1/2 tsp salt
 - 3/4 cup (12 Tbsp; 170g) unsalted butter, softened to room temperature
-- 1 cup + 2 Tablespoons (225g) granulated sugar
+- 1 cup + 2 tbsp (225g) granulated sugar
 - 1 large egg, at room temperature
 - 1/4 cup (60ml) fresh or bottled lemon juice, at room temperature*
-- 1 Tablespoon lemon zest* (packed Tablespoon, it’s a lot of zest!)
-- 1 teaspoon vanilla extract
-- 3 Tablespoons (35g) granulated sugar (optional, see step 6)
+- 1 tbsp lemon zest* (packed tbsp, it’s a lot of zest!)
+- 1 tsp vanilla extract
+- 3 tbsp (35g) granulated sugar (optional, see step 6)
 - 1 cup (120g) confectioners’ sugar
 # ---
 directions:
@@ -39,7 +39,7 @@ directions:
   for about 10 minutes. This makes the chilled cookie dough easier to scoop and roll.
 - Preheat oven to 350°F (177°C). Line baking sheets with parchment paper or silicone baking mats. Set aside.
 - Roll in sugar
-- Scoop and roll balls of dough, about 1 Tablespoon of dough each, into balls. (Each dough ball should weigh about 20g.) Some
+- Scoop and roll balls of dough, about 1 tbsp of dough each, into balls. (Each dough ball should weigh about 20g.) Some
   readers have had trouble with the confectioners’ sugar melting/absorbing into the cookie dough balls, so to prevent that,
   you can roll the balls in the granulated sugar first. And then roll each ball very generously in the confectioners’ sugar.
   If you want lots of confectioners’ sugar to show on the baked cookies, roll 2-3x in sugar! Place 3 inches apart on the baking

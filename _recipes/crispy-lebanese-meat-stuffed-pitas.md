@@ -15,25 +15,25 @@ description: Lebanese street food - pita bread stuffed with spiced kofta meat, p
 yield: 10 servings
 prep_time: '15'
 ingredients:
-- 5 pita bread (the thin pocket type, ~15cm/6" diameter (250 gram /8 ounce pack), cut in half (note 1))
+- 5 pita bread (the thin pocket type, ~15cm/6" diameter (250 g /8 oz pack), cut in half (note 1))
 - olive oil spray ((or brush with olive oil))
 - 'SPICED MEAT FILLING:'
 - 1/2 brown onion
-- 500 gram / 1 pound lamb (or beef mince ((ground meat) (note 2)))
+- 500 g / 1 lb lamb (or beef mince ((ground meat) (note 2)))
 - 2 garlic cloves (finely grated)
-- 1 tablespoon finely chopped parsley (optional)
-- 3 teaspoon ground coriander
-- 3 teaspoon ground cumin
-- 1 1/2 teaspoon smoked paprika ((sub plain paprika))
-- 3/4 teaspoon ground allspice ((sub mixed spice))
-- 1/2 teaspoon cayenne pepper ((reduce/omit for less spicy - note 4))
-- 1 1/4 teaspoon cooking/kosher salt
+- 1 tbsp finely chopped parsley (optional)
+- 3 tsp ground coriander
+- 3 tsp ground cumin
+- 1 1/2 tsp smoked paprika ((sub plain paprika))
+- 3/4 tsp ground allspice ((sub mixed spice))
+- 1/2 tsp cayenne pepper ((reduce/omit for less spicy - note 4))
+- 1 1/4 tsp cooking/kosher salt
 - 'WHIPPED TAHINI YOGURT SAUCE:'
 - 1 cup plain yogurt
-- 2 tablespoon tahini ((or chinese sesame paste - note 5))
-- 1 tablespoon lemon juice
+- 2 tbsp tahini ((or chinese sesame paste - note 5))
+- 1 tbsp lemon juice
 - 1 garlic clove (finely grated)
-- 1/2 teaspoon cooking/kosher salt
+- 1/2 tsp cooking/kosher salt
 # ---
 directions:
 - 'Spiced meat filling: Grate the onion in a bowl using a standard box grater. We want the juices and all! (Note 4)'

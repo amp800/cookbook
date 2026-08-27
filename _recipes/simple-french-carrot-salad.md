@@ -21,12 +21,12 @@ ingredients:
 - 2 green onion stems (finely sliced on the diagonal)
 - 1/4 cup parsley (finely chopped (optional))
 - 'HONEY DIJON MUSTARD DRESSING:'
-- 1 1/2 teaspoon dijon mustard
-- 1 tablespoon honey
-- 2 tablespoon lemon juice (fresh)
-- 4 tablespoon extra virgin olive oil
-- 1/2 teaspoon salt
-- 1/4 teaspoon black pepper
+- 1 1/2 tsp dijon mustard
+- 1 tbsp honey
+- 2 tbsp lemon juice (fresh)
+- 4 tbsp extra virgin olive oil
+- 1/2 tsp salt
+- 1/4 tsp black pepper
 # ---
 directions:
 - Grate the carrot use a standard box grater (or the shredder attachment of food processor). Aim for strands about 4cm long.

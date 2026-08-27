@@ -16,18 +16,18 @@ cook_time: '45'
 total_time: '75'
 ingredients:
 - 1 cup cooked and cooled quinoa* ((ensure it's cooked + completely cooled before using))
-- 1 15-ounce can black beans* ((rinsed, drained, dried))
-- 2 tablespoon water ((or sub olive (or avocado oil)))
+- 1 15-oz can black beans* ((rinsed, drained, dried))
+- 2 tbsp water ((or sub olive (or avocado oil)))
 - 3 cloves garlic ((minced))
 - 1/2 cup diced shallot
-- 1/4 teaspoon sea salt ((plus more to taste))
-- 2 1/2 teaspoon fresh oregano ((or sub half the amount in dried))
-- 1/2 teaspoon red pepper flake ((reduce for less heat))
-- 1/2 teaspoon fennel seeds ((optional))
+- 1/4 tsp sea salt ((plus more to taste))
+- 2 1/2 tsp fresh oregano ((or sub half the amount in dried))
+- 1/2 tsp red pepper flake ((reduce for less heat))
+- 1/2 tsp fennel seeds ((optional))
 - 1/2 cup vegan parmesan cheese ((plus more for serving))
-- 2 tablespoon tomato paste
-- 3 tablespoon chopped fresh basil (or parsley ((we mixed both // plus more for serving)))
-- 1-2 tablespoon vegan worcestershire sauce ((optional // adds depth of flavor // ensure gluten-free for gf eaters))
+- 2 tbsp tomato paste
+- 3 tbsp chopped fresh basil (or parsley ((we mixed both // plus more for serving)))
+- 1-2 tbsp vegan worcestershire sauce ((optional // adds depth of flavor // ensure gluten-free for gf eaters))
 # ---
 directions:
 - If you haven’t prepared your quinoa yet, do so now (make sure it’s cooked and cooled completely before use). 1/3 cup uncooked

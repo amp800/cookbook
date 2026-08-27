@@ -17,19 +17,19 @@ prep_time: '5'
 cook_time: '15'
 total_time: '20'
 ingredients:
-- 2 tablespoon olive oil
-- 2 teaspoon cumin seeds (or 1 teaspoon ground cumin)
-- 1 1/2 tablespoon coriander seeds (or 1 1/2 teaspoon ground coriander)
+- 2 tbsp olive oil
+- 2 tsp cumin seeds (or 1 tsp ground cumin)
+- 1 1/2 tbsp coriander seeds (or 1 1/2 tsp ground coriander)
 - 1 cup basmati (or long grain rice (), uncooked)
-- 1 1/4 cup / 315 milliliter water (see notes)
-- 400 gram / 14 ounce canned brown lentils, drained (1 can) (drained)
-- 1/2 teaspoon ground turmeric
-- 1 1/2 teaspoon ground cinnamon
-- 1 teaspoon sugar
-- 1 teaspoon salt
+- 1 1/4 cup / 315 mL water (see notes)
+- 400 g / 14 oz canned brown lentils, drained (1 can) (drained)
+- 1/2 tsp ground turmeric
+- 1 1/2 tsp ground cinnamon
+- 1 tsp sugar
+- 1 tsp salt
 - black pepper
 - 3 large (or 4 small onions (), very finely sliced)
-- 1 cup / 250 milliliter vegetable (or sunflower oil)
+- 1 cup / 250 mL vegetable (or sunflower oil)
 - salt
 # ---
 directions:

@@ -28,7 +28,7 @@ ingredients:
 directions:
 - Preheat the oven to 180C
 - Rinse, core and chop the apples into bite-sized pieces.
-- Put the chopped apples and a tablespoon of filtered water into a saucepan, cover with a lid and cook gently on a medium
+- Put the chopped apples and a tbsp of filtered water into a saucepan, cover with a lid and cook gently on a medium
   heat for approximately 8 minutes until softened but still retaining colour and bite.
 - Butter the bottom of an 8x8 inch oven proof dish (we use ceramic, enamel or glass) and fill with the cooked apples.
 - Use the saucepan to melt the butter or coconut oil.

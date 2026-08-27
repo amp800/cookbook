@@ -14,22 +14,22 @@ prep_time: '25'
 cook_time: '140'
 total_time: '165'
 ingredients:
-- 3 teaspoons instant (or rapid rise yeast (9 grams) (), note 1 check still active!)
-- 1/2 cup (110 gram) caster sugar (superfine sugar)
-- 1 1/2 cups (375 milliliter) milk, warm (full fat (or low fat (note 2)))
-- 4 1/4 cups (640 gram) bread flour (or plain / all purpose) ((note 3))
-- 2 teaspoon cinnamon powder
-- 2 teaspoon all spice (or mixed spice (note 4))
-- 1/2 teaspoon salt
-- 1 1/2 cups (210 gram) sultanas ((note 4))
+- 3 tsp instant (or rapid rise yeast (9 g) (), note 1 check still active!)
+- 1/2 cup (110 g) caster sugar (superfine sugar)
+- 1 1/2 cups (375 mL) milk, warm (full fat (or low fat (note 2)))
+- 4 1/4 cups (640 g) bread flour (or plain / all purpose) ((note 3))
+- 2 tsp cinnamon powder
+- 2 tsp all spice (or mixed spice (note 4))
+- 1/2 tsp salt
+- 1 1/2 cups (210 g) sultanas ((note 4))
 - 1 - 2 oranges, zest only ((note 4))
-- 50 gram / 3.5 tablespoon unsalted butter, melted and cooled
+- 50 g / 3.5 tbsp unsalted butter, melted and cooled
 - 1 egg (at room temperature)
-- 1/4 cup (35 gram) extra bread flour
-- 1/2 cup (75 gram) flour ((any white flour))
-- 5 tablespoon water
-- 1 tablespoon apricot jam ((note 7))
-- 2 teaspoon water
+- 1/4 cup (35 g) extra bread flour
+- 1/2 cup (75 g) flour ((any white flour))
+- 5 tbsp water
+- 1 tbsp apricot jam ((note 7))
+- 2 tsp water
 # ---
 directions:
 - Mix dry - Place flour, yeast, sugar, all spice, cinnamon, and salt in a large bowl. Briefly mix with stand mixer fitted

@@ -15,15 +15,15 @@ ingredients:
 - 2 large onions
 - 4 cloves garlic
 - 1/4 cup olive oil
-- 3 tablespoons dried mint
-- 1 teaspoon salt
+- 3 tbsp dried mint
+- 1 tsp salt
 - 1 large onion
 - 1/4 cup olive oil
-- 2 teaspoons salt
-- 1/2 teaspoon black pepper
-- 1 teaspoon ground cumin
-- 1 teaspoon ground coriander
-- 1/2 teaspoon ground turmeric
+- 2 tsp salt
+- 1/2 tsp black pepper
+- 1 tsp ground cumin
+- 1 tsp ground coriander
+- 1/2 tsp ground turmeric
 - 1/2 cup rice
 - 1 cup pearl barley
 - 1 cup green lentils
@@ -39,11 +39,11 @@ directions:
 - Thinly slice 2 large yellow onions. Coarsely chop 4 garlic cloves. Heat 1/4 cup olive oil in a large skillet over medium
   heat until shimmering. Add the onions and a pinch of salt and cook, stirring occasionally, until deep golden brown, about
   20 minutes, adjusting the heat as needed.
-- Add the garlic, 3 tablespoons dried mint, 1 teaspoon salt, and stir to combine. Taste and season as needed.
+- Add the garlic, 3 tbsp dried mint, 1 tsp salt, and stir to combine. Taste and season as needed.
 - 'MAKE THE AASH-E JOW:'
 - Peel and dice 1 large yellow onion. Heat 1/4 cup olive oil in a large Dutch oven or heavy-bottomed pot over medium heat
-  until shimmering. Add the onion and a pinch of salt and cook until tender and translucent, about 5 minutes. Add 2 teaspoons
-  salt, 1/2 teaspoon black pepper, 1 teaspoon ground cumin, 1 teaspoon ground coriander, and 1/2 teaspoon ground turmeric.
+  until shimmering. Add the onion and a pinch of salt and cook until tender and translucent, about 5 minutes. Add 2 tsp
+  salt, 1/2 tsp black pepper, 1 tsp ground cumin, 1 tsp ground coriander, and 1/2 tsp ground turmeric.
   Stir until the spices coat the onion, about 1 minute more.
 - Add 1/2 cup rice, 1 cup pearl barley, and 1 cup green lentils, and stir until well combined. Add 8 cups water and bring
   to simmer.

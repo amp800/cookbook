@@ -13,20 +13,20 @@ prep_time: '20'
 cook_time: '30'
 total_time: '50'
 ingredients:
-- 400 gram sausage mince
-- 300 gram chicken mince
+- 400 g sausage mince
+- 300 g chicken mince
 - 1 onion, finely chopped
 - 1 clove garlic, crushed
 - 1 medium carrot, grated
 - 1 medium zucchini, grated
-- 65 gram breadcrumbs
-- 60.00 milliliter chopped parsley
+- 65 g breadcrumbs
+- 60.00 mL chopped parsley
 - 2 eggs
 - 1.25 gm ground nutmeg
 - salt
 - salt & freshly ground pepper
 - 4 sheets frozen puff pastry, semi thawed
-- 10 gram sesame seeds
+- 10 g sesame seeds
 # ---
 directions:
 - Preheat oven to 200°C. Line 2 baking trays with baking paper. Mix both minces, onion, garlic, carrot, zucchini, breadcrumbs

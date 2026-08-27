@@ -15,19 +15,19 @@ prep_time: '5'
 cook_time: '70'
 total_time: '75'
 ingredients:
-- 2 1/2 pounds flank, ribeye, (or skirt steak), thinly sliced
+- 2 1/2 lb flank, ribeye, (or skirt steak), thinly sliced
 - 4 cloves garlic, pressed (or minced)
-- 3 tablespoons shawarma seasoning
-- 1 teaspoon kosher salt
-- 3 tablespoons white vinegar
-- 2 tablespoons olive oil, divided
+- 3 tbsp shawarma seasoning
+- 1 tsp kosher salt
+- 3 tbsp white vinegar
+- 2 tbsp olive oil, divided
 - pita (or lebanese bread), toum sliced tomatoes onions pickles pickled turnips fries
 # ---
 directions:
-- 'MARINATE: whisk together garlic, shawarma seasoning, salt, white vinegar, and 1 tablespoon olive oil in a medium bowl until
+- 'MARINATE: whisk together garlic, shawarma seasoning, salt, white vinegar, and 1 tbsp olive oil in a medium bowl until
   combined. Add the sliced steak and stir together. Marinate for 1-3 hours, remove from the refrigerator 45 minutes before
   cooking.'
-- 'COOK: Heat the remaining tablespoon of oil in a large cast iron pan over medium-high heat. Add the meat and cook for 6-10
+- 'COOK: Heat the remaining tbsp of oil in a large cast iron pan over medium-high heat. Add the meat and cook for 6-10
   minutes, tossing as needed or until cooked through. Remove from heat.'
 - 'WRAP IT UP: Add the prepared meat to warm Lebanese bread top with garlic or tahini sauce and load it up with your choice
   of veggies. Fold shawarma like a burrito and grill on a grill pan if desired before serving with French fries.'

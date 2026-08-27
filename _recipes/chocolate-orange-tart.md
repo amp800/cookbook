@@ -13,14 +13,14 @@ description: 'Ease of Preparation: Medium Yield: 1 tart, 6-8 portions as a desse
 yield: 8 portions
 ingredients:
 - butter, for greasing pan
-- 1 cup (240 milliliter) ginger snaps
-- 3/4 cup (180 milliliter) hazelnuts, toasted and peeled
-- 1/2 teaspoon (2.5 milliliter) salt
-- 1/4 cup (60 milliliter) butter, melted
-- 1 pound (454 gram) semi-sweet couverture chocolate finely chopped
-- 1 1/2 cups (350 milliliter) whipping cream
-- 2 tablespoons (30 milliliter) grand marnier (or orange liqueur)
-- 2 teaspoons (10 milliliter) cocoa powder
+- 1 cup (240 mL) ginger snaps
+- 3/4 cup (180 mL) hazelnuts, toasted and peeled
+- 1/2 tsp (2.5 mL) salt
+- 1/4 cup (60 mL) butter, melted
+- 1 lb (454 g) semi-sweet couverture chocolate finely chopped
+- 1 1/2 cups (350 mL) whipping cream
+- 2 tbsp (30 mL) grand marnier (or orange liqueur)
+- 2 tsp (10 mL) cocoa powder
 - 1 orange, zest
 - whipped cream
 # ---

@@ -11,20 +11,20 @@ tags:
 - vegetarian
 yield: 4 servings
 ingredients:
-- 1 cup (240 milliliter) farro
-- 3 1/2 cups (830 milliliter) chicken (or vegetable stock), divided
-- 2 tablespoons (30 milliliter) butter
+- 1 cup (240 mL) farro
+- 3 1/2 cups (830 mL) chicken (or vegetable stock), divided
+- 2 tbsp (30 mL) butter
 - 1/2 red onion, sliced thinly
-- 1 cup (240 milliliter) romanesco florets, cut into bite-size pieces
-- 1/4 cup (60 milliliter) white wine
-- 1 ounce (28 gram) haricots vert, cut into 1/2 inch (1.25 cm) pieces
-- 1 ounce (28 gram) snow (or snap peas), cut into 1/2 inch (1.25 cm) pieces
+- 1 cup (240 mL) romanesco florets, cut into bite-size pieces
+- 1/4 cup (60 mL) white wine
+- 1 oz (28 g) haricots vert, cut into 1/2 inch (1.25 cm) pieces
+- 1 oz (28 g) snow (or snap peas), cut into 1/2 inch (1.25 cm) pieces
 - 1 small bunch asparagus, cut into 1/2 inch (1.25 cm) pieces
-- 1/2 cup (120 milliliter) diced zucchini
-- 1 teaspoon (5 milliliter) garlic powder
-- 1 tablespoon (15 milliliter) dried oregano
-- 1/2 cup (120 milliliter) grated parmesan, divided
-- 3 tablespoons (45 milliliter) chopped parsley
+- 1/2 cup (120 mL) diced zucchini
+- 1 tsp (5 mL) garlic powder
+- 1 tbsp (15 mL) dried oregano
+- 1/2 cup (120 mL) grated parmesan, divided
+- 3 tbsp (45 mL) chopped parsley
 - 1/2 lemon, juice
 - salt
 - salt and pepper

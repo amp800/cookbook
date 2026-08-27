@@ -14,19 +14,19 @@ prep_time: '10'
 cook_time: '10'
 total_time: '20'
 ingredients:
-- 250 gram pkt pearl couscous
-- 2 x 250 gram pkts haloumi sliced
+- 250 g pkt pearl couscous
+- 2 x 250 g pkts haloumi sliced
 - 10.00 gm moroccan spice mix
 - 2 zucchini, sliced
-- 250 gram cherry tomato medley, halved
-- 125.00 milliliter fresh continental parsley leaves
-- 125.00 milliliter fresh mint leaves, torn
+- 250 g cherry tomato medley, halved
+- 125.00 mL fresh continental parsley leaves
+- 125.00 mL fresh mint leaves, torn
 - 24.00 gm tahini
-- 40.00 milliliter greek yoghurt
+- 40.00 mL greek yoghurt
 - 1 small garlic clove, crushed
 - 1 lemon, rind finely grated
 - juice of 1 lemon
-- 40.00 milliliter pomegranate arils (or 1 pomegranate), arils removed
+- 40.00 mL pomegranate arils (or 1 pomegranate), arils removed
 - 2 wholemeal pita breads, toasted, torn
 # ---
 directions:

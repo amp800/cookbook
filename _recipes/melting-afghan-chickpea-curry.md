@@ -25,7 +25,7 @@ ingredients:
 - 2 bay leaves (preferably fresh else dried)
 - 1/2 cup dried red split lentils (Note 1)
 - 1 cup water
-- 1 litre vegetable stock (low sodium)
+- 1 L vegetable stock (low sodium)
 - 1/2 tsp cooking / kosher salt
 - 3 x 400g/14oz cans chickpeas (drained (Note 2)
 - 1/4 tsp baking soda / bi-carbonate soda (makes chickpeas creamy, optional)

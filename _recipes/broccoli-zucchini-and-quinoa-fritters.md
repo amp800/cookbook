@@ -16,14 +16,14 @@ total_time: '40'
 ingredients:
 - 1/2 cup quinoa
 - 1 cup water
-- 1 (240 gram) broccoli head
-- 2 (320 gram) medium zucchini’s grated
+- 1 (240 g) broccoli head
+- 2 (320 g) medium zucchini’s grated
 - 1 small brown onion finally diced
 - 1/2 cup gluten free flour (chickpea flour)
 - 1 egg
 - 1/2 cup parmesan cheese grated
-- 50 gram creamy danish feta
-- 1 teaspoon moroccan spice mix from spice and co
+- 50 g creamy danish feta
+- 1 tsp moroccan spice mix from spice and co
 - good pinch sea salt
 - olive oil for cooking
 - 1 medium zucchini

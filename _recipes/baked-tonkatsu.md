@@ -16,15 +16,15 @@ cook_time: '20'
 total_time: '30'
 ingredients:
 - 3/4 cup panko (japanese breadcrumbs)
-- 1 tablespoon neutral oil
-- 2 boneless pork loin chops (1/2-inch thick) (1/2 pound, 227 gram) 1/2 227
-- 1/2 teaspoon diamond crystal kosher salt
+- 1 tbsp neutral oil
+- 2 boneless pork loin chops (1/2-inch thick) (1/2 lb, 227 g) 1/2 227
+- 1/2 tsp diamond crystal kosher salt
 - freshly ground black pepper
-- 2 tablespoon all-purpose flour (plain flour)
-- 1 large egg (50 gram each w/o shell)
-- 1/2 tablespoon neutral oil
+- 2 tbsp all-purpose flour (plain flour)
+- 1 large egg (50 g each w/o shell)
+- 1/2 tbsp neutral oil
 - tonkatsu sauce (or make my homemade tonkatsu sauce)
-- 2 tablespoon toasted white and black sesame seeds
+- 2 tbsp toasted white and black sesame seeds
 # ---
 directions:
 - Gather all the ingredients. Adjust an oven rack to the middle position and preheat the oven to 200ºC (fan forced 185ºC).
@@ -37,7 +37,7 @@ directions:
   tissue between the meat and remaining fat. Tip: Red meat and fat have different elasticities, and they will shrink and expand
   at different rates when they are cooked. Making a few slits will allow the Tonkatsu to stay nice and flat and prevent the
   cutlets from curling up.'
-- To tenderize the meat, pound both sides of the cutlets with a meat pounder; if you don’t have one, then use the back of
+- To tenderize the meat, lb both sides of the cutlets with a meat pounder; if you don’t have one, then use the back of
   the knife. Mold the flattened meat back into the original shape with your hands.
 - Sprinkle the cutlets with salt and freshly ground black pepper.
 - Beat 1 large egg and ½ Tbsp vegetable oil in a shallow dish.

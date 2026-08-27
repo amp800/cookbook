@@ -18,15 +18,15 @@ prep_time: '8'
 cook_time: '10'
 total_time: '18'
 ingredients:
-- 200 gram / 7 ounce dried wide rice stick noodles ((or 15 ounce / 450 gram fresh wide flat rice noodles (sen yai) (note 1)))
-- 2 teaspoon dark soy sauce ((note 2))
-- 1 1/2 tablespoon oyster sauce
-- 1 tablespoon light soy sauce ((or all purpose, note 3))
-- 2 teaspoon white vinegar ((plain white vinegar))
-- 2 teaspoon sugar ((any type))
-- 3 tablespoon peanut (or vegetable oil (), separated)
+- 200 g / 7 oz dried wide rice stick noodles ((or 15 oz / 450 g fresh wide flat rice noodles (sen yai) (note 1)))
+- 2 tsp dark soy sauce ((note 2))
+- 1 1/2 tbsp oyster sauce
+- 1 tbsp light soy sauce ((or all purpose, note 3))
+- 2 tsp white vinegar ((plain white vinegar))
+- 2 tsp sugar ((any type))
+- 3 tbsp peanut (or vegetable oil (), separated)
 - 2 cloves garlic cloves, very finely chopped
-- 1 cup / 150 gram / 5 ounce chicken thighs ((boneless, skinless), sliced (note 4))
+- 1 cup / 150 g / 5 oz chicken thighs ((boneless, skinless), sliced (note 4))
 - 1 large egg
 - 4 stems chinese broccoli ((note 5))
 # ---

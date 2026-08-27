@@ -14,17 +14,17 @@ prep_time: '10'
 cook_time: '25'
 total_time: '35'
 ingredients:
-- 2 pork tenderloin ((pork fillet), 500 gram /1 pound each (note 1))
-- 1 1/2 tablespoon olive oil ((or butter))
+- 2 pork tenderloin ((pork fillet), 500 g /1 lb each (note 1))
+- 1 1/2 tbsp olive oil ((or butter))
 - 3 garlic cloves (very finely chopped)
 - 'PORK TENDERLOIN RUB:'
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon paprika
-- 1/2 teaspoon salt
-- 1/2 teaspoon black pepper
+- 1/2 tsp garlic powder
+- 1/2 tsp paprika
+- 1/2 tsp salt
+- 1/2 tsp black pepper
 - 'HONEY GARLIC SAUCE:'
-- 3 tablespoon cider vinegar ((note 2))
-- 1 1/2 tablespoon soy sauce, light (or all purpose ((note 2)))
+- 3 tbsp cider vinegar ((note 2))
+- 1 1/2 tbsp soy sauce, light (or all purpose ((note 2)))
 - 1/2 cup honey ((or maple syrup))
 # ---
 directions:

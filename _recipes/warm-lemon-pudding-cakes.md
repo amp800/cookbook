@@ -15,11 +15,11 @@ total_time: '65'
 ingredients:
 - 3 large eggs, separated
 - 1 cup milk (low-fat (or whole))
-- 2 teaspoons lemon zest, from 2 lemons
-- 6 tablespoons fresh lemon juice, from 2 lemons
-- 2 tablespoons unsalted butter, melted
-- 1/4 teaspoon salt
-- 6 tablespoons all-purpose flour
+- 2 tsp lemon zest, from 2 lemons
+- 6 tbsp fresh lemon juice, from 2 lemons
+- 2 tbsp unsalted butter, melted
+- 1/4 tsp salt
+- 6 tbsp all-purpose flour
 - 1 cup sugar
 # ---
 directions:

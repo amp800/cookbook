@@ -17,18 +17,18 @@ cook_time: '50'
 total_time: '60'
 ingredients:
 - 4 large raw beetroot
-- 1 tablespoon olive oil
-- 1 tablespoon honey / maple syrup
-- 1 teaspoon dried thyme
+- 1 tbsp olive oil
+- 1 tbsp honey / maple syrup
+- 1 tsp dried thyme
 - pinch sea salt & freshly ground black pepper
 - pepper
-- 125 gram (1/2 block) halloumi cheese (sliced into 4)
-- 1 400 gram can butter beans / cannellini beans (drained and rinsed)
-- 60 gram wild rocket / mixed leaves
+- 125 g (1/2 block) halloumi cheese (sliced into 4)
+- 1 400 g can butter beans / cannellini beans (drained and rinsed)
+- 60 g wild rocket / mixed leaves
 - handful walnut halves (roughly chopped)
-- 1 tablespoon balsamic vinegar
-- 3 tablespoon extra virgin olive oil
-- 1 teaspoon honey / maple syrup
+- 1 tbsp balsamic vinegar
+- 3 tbsp extra virgin olive oil
+- 1 tsp honey / maple syrup
 - large pinch sea salt & freshly ground black pepper
 - pepper
 # ---

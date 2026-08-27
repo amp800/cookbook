@@ -15,10 +15,10 @@ description: 'This is a recipe for how to roast eggplant in the oven so each pie
 yield: 4 servings
 prep_time: '5'
 ingredients:
-- 700 gram / 1.2 pound eggplants ((2 medium), aka aubergine)
-- 3 tablespoon olive oil
-- 1/2 teaspoon salt ((kosher / cooking salt, (or 1/4 teaspoon table salt)))
-- 1/2 teaspoon black pepper
+- 700 g / 1.2 lb eggplants ((2 medium), aka aubergine)
+- 3 tbsp olive oil
+- 1/2 tsp salt ((kosher / cooking salt, (or 1/4 tsp table salt)))
+- 1/2 tsp black pepper
 # ---
 directions:
 - Preheat oven to 240°C (220°C fan forced).
@@ -27,7 +27,7 @@ directions:
 - Toss well, spread on tray, roast 20 minutes. Turn, roast for a further 10 minutes - edges should be caramelised, soft inside,
   but they're not shrivelled up and dismal.
 - Transfer to serving plate. Delicious served plain, but see below for some finishing options.
-- 'FINISHING OPTIONS: 1 teaspoon fresh thyme leaves (my favourite!), drizzle of fresh lemon juice, parsley, chives or green
+- 'FINISHING OPTIONS: 1 tsp fresh thyme leaves (my favourite!), drizzle of fresh lemon juice, parsley, chives or green
   onions (for touch of freshness and colour, not so much flavour), tiny drizzle of balsamic vinegar (pop of tartness is terrific!
   OR drizzle of balsamic glaze), dollop of yogurt (creamy yogurt pairs really well with the juicy eggplant flesh).'
 # ---

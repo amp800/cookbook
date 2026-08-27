@@ -18,12 +18,12 @@ total_time: '105'
 ingredients:
 - 1 1/2 cups cream (full fat (note 1))
 - 2 garlic cloves (minced)
-- 30 gram / 2 tablespoon unsalted butter (melted)
-- 1.25 kilogram / 2.5 pound starchy potatoes (russet, sebago, maris piper (note 2))
-- 1 teaspoon salt
-- 1/4 teaspoon pepper
+- 30 g / 2 tbsp unsalted butter (melted)
+- 1.25 kg / 2.5 lb starchy potatoes (russet, sebago, maris piper (note 2))
+- 1 tsp salt
+- 1/4 tsp pepper
 - 2 1/2 cups gruyere cheese ((colby, cheddar, havarti (or tasty)), freshly grated yourself (note 3))
-- 2 teaspoon thyme leaves (fresh (optional - but highly recommended))
+- 2 tsp thyme leaves (fresh (optional - but highly recommended))
 # ---
 directions:
 - 'Cream Mixture: Place butter, cream and garlic in a jug. Mix until combined.'

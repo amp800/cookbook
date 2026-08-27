@@ -15,11 +15,11 @@ cook_time: '50'
 total_time: '70'
 ingredients:
 - 4 eggs (yolks and whites separated (at room temperature))
-- 3/4 cup (150 gram) sugar ((ordinary (or caster sugar)))
-- 1 teaspoon vanilla extract
-- 1 stick (4 ounce / 125 gram / 1/2 cup) unsalted butter (melted)
-- 3/4 cup (4 ounce / 115 gram) plain all purpose flour
-- 2 cups (500 milliliter / 1 pint) milk ((lukewarm) (full fat (or low fat but not zero fat)))
+- 3/4 cup (150 g) sugar ((ordinary (or caster sugar)))
+- 1 tsp vanilla extract
+- 1 stick (4 oz / 125 g / 1/2 cup) unsalted butter (melted)
+- 3/4 cup (4 oz / 115 g) plain all purpose flour
+- 2 cups (500 mL / 1 pint) milk ((lukewarm) (full fat (or low fat but not zero fat)))
 - icing sugar ((powdered sugar), for dusting)
 - fresh strawberries
 - whipped cream

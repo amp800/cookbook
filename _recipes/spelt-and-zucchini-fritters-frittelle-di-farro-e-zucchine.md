@@ -16,20 +16,20 @@ ingredients:
 - 2 zucchini, coarsely grated (or julienned)
 - salt to taste
 - salt flakes and pepper, to taste
-- 200 gram spelt flour
-- 1 tablespoon baking powder
+- 200 g spelt flour
+- 1 tbsp baking powder
 - 2 large eggs, lightly beaten
 - 1 spring onion, thinly sliced
 - finely grated zest of 1 lemon, plus extra to serve
-- 2 tablespoon freshly grated parmesan
-- 100 milliliter olive oil
+- 2 tbsp freshly grated parmesan
+- 100 mL olive oil
 # ---
 directions:
 - Place the zucchini in a bowl and season with salt. Stand for 10 minutes, then wrap the zucchini in a clean tea towel and
   squeeze out all the excess moisture. This will result in a better fritter that won’t get soggy.
 - Combine the flour and baking powder in a large bowl. Add the egg and 100 ml of water, mix well, and then add the spring
   onion, lemon zest and grated parmesan. Season with salt and pepper, then add the grated zucchini and toss to combine.
-- Heat the olive oil in a large heavy-based frying pan over medium-high heat, then drop in 2 tablespoons of batter for each
+- Heat the olive oil in a large heavy-based frying pan over medium-high heat, then drop in 2 tbsp of batter for each
   fritter and cook 3–4 fritters at a time (you don’t want to overcrowd the pan). Cook for 2–3 minutes or until the underside
   is golden.
 - Turn the fritters and fry on the other side until browned. Drain on a paper towel as you continue to fry the rest.

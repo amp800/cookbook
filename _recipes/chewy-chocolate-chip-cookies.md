@@ -17,16 +17,16 @@ prep_time: '15'
 cook_time: '187'
 total_time: '202'
 ingredients:
-- 2 and 1/4 cups (280 gram) all-purpose flour (spooned & leveled)
-- 1 teaspoon baking soda
-- 1 and 1/2 teaspoons cornstarch*
-- 1/2 teaspoon salt
-- 3/4 cup (170 gram) unsalted butter, melted & cooled 5 minutes*
-- 3/4 cup (150 gram) packed light (or dark brown sugar)
-- 1/2 cup (100 gram) granulated sugar
+- 2 and 1/4 cups (280 g) all-purpose flour (spooned & leveled)
+- 1 tsp baking soda
+- 1 and 1/2 tsp cornstarch*
+- 1/2 tsp salt
+- 3/4 cup (170 g) unsalted butter, melted & cooled 5 minutes*
+- 3/4 cup (150 g) packed light (or dark brown sugar)
+- 1/2 cup (100 g) granulated sugar
 - 2 eggs (1 egg + 1 egg yolk) at room temperature
-- 2 teaspoons pure vanilla extract
-- 1 and 1/4 cups (225 gram) semi-sweet chocolate chips (or chocolate chunks)
+- 2 tsp pure vanilla extract
+- 1 and 1/4 cups (225 g) semi-sweet chocolate chips (or chocolate chunks)
 # ---
 directions:
 - Video
@@ -40,8 +40,8 @@ directions:
   the cookie dough overnight for less spreading.
 - Take the dough out of the refrigerator and allow it to slightly soften at room temperature for 10 minutes.
 - Preheat oven to 160°C. Line large baking sheets with parchment paper or silicone baking mats. Set aside.
-- Using a cookie scoop or Tablespoon measuring spoon, measure 3 scant Tablespoons (about 60g) of dough for XL cookies or 2
-  heaping Tablespoons (about 50g) of dough for medium/large cookies. Roll into a ball, making sure the shape is taller rather
+- Using a cookie scoop or tbsp measuring spoon, measure 3 scant tbsp (about 60g) of dough for XL cookies or 2
+  heaping tbsp (about 50g) of dough for medium/large cookies. Roll into a ball, making sure the shape is taller rather
   than wide—almost like a cylinder. This helps the cookies bake up thicker. Repeat with remaining dough. Place 8–9 balls of
   dough onto each cookie sheet.
 - Bake the cookies for 12–13 minutes or until the edges are very lightly browned. (XL cookies can take closer to 14 minutes.)

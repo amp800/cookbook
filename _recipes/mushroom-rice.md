@@ -15,9 +15,9 @@ prep_time: '10'
 cook_time: '20'
 total_time: '30'
 ingredients:
-- 2 - 3 tablespoon olive oil (separated)
-- 30 gram / 2 tablespoon butter
-- 750 gram / 1.5 pound mushrooms (sliced 3 - 5 mm / 1/8 - 1/5" thick (note 1))
+- 2 - 3 tbsp olive oil (separated)
+- 30 g / 2 tbsp butter
+- 750 g / 1.5 lb mushrooms (sliced 3 - 5 mm / 1/8 - 1/5" thick (note 1))
 - 2 garlic cloves (minced)
 - 1 small onion (finely diced)
 - 1 1/2 cups long grain rice, uncooked ((note 2))

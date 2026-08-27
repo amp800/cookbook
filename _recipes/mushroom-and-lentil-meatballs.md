@@ -13,25 +13,25 @@ description: Lentils, mushrooms and walnuts come together to give you a deliciou
 yield: 4 servings
 prep_time: '20'
 ingredients:
-- 1/2 cup (60 gram) chopped walnuts
+- 1/2 cup (60 g) chopped walnuts
 - olive oil
 - 1 small shallot, finely diced
 - kosher salt
 - freshly ground black pepper
-- 2 cups (approx 200 gram) roughly chopped mushrooms
+- 2 cups (approx 200 g) roughly chopped mushrooms
 - 3 garlic cloves, finely minced
-- 3 teaspoon (15 milliliter) soy sauce
-- 1 teaspoon balsamic vinegar
-- 1 1/2 cups (375 milliliter) canned lentils
-- 1/2 cup (55 gram) ground parmesan cheese
-- 1 1/2 tablespoon chopped parsley
-- 1 1/2 tablespoon chopped basil
-- 3 teaspoon chopped oregano
+- 3 tsp (15 mL) soy sauce
+- 1 tsp balsamic vinegar
+- 1 1/2 cups (375 mL) canned lentils
+- 1/2 cup (55 g) ground parmesan cheese
+- 1 1/2 tbsp chopped parsley
+- 1 1/2 tbsp chopped basil
+- 3 tsp chopped oregano
 # ---
 directions:
 - In a large dry non-stick skillet, toast the walnuts over medium heat stirring frequently for 2 minutes or until they begin
   to smell nutty. Transfer the walnuts to the bowl of your food processor and set aside.
-- Place the skillet back onto the heat and add 3 teaspoons of olive oil and the shallot. Season with salt and pepper and cook
+- Place the skillet back onto the heat and add 3 tsp of olive oil and the shallot. Season with salt and pepper and cook
   for 3 minutes or until the shallots are softened and lightly golden brown then add in the chopped mushrooms. Season with
   more salt and pepper and allow the mushrooms to cook down for 5 to 7 minutes stirring occasionally. Add in the garlic and
   cook for another 30 seconds.
@@ -42,7 +42,7 @@ directions:
 - Using a spring-loaded ice cream scoop or a spoon, divide the mixture into 14 to 16 equal portions and roll into balls. To
   keep the mixture from sticking to your hands, lightly dampen your hands with water. This works for all meatballs, meaty
   or meatless!\
-- Turn the heat under the skillet to medium-high and add in about a tablespoon of olive oil. Fry the ‘meatballs’ in batches
+- Turn the heat under the skillet to medium-high and add in about a tbsp of olive oil. Fry the ‘meatballs’ in batches
   for 5 minutes or until golden, turning occasionally and adding more oil as needed.
 - Serve over pasta with your favourite tomato sauce or as a meatball sub smothered in melted mozzarella cheese.
 ---

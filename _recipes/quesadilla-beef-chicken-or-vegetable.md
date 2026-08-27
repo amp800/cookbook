@@ -16,41 +16,41 @@ total_time: '25'
 ingredients:
 - 'QUESADILLAS:'
 - 6 - 8 flour tortillas ((20cm/8"))
-- 2 cups (200 gram) shredded monterey jack cheese ((or other of choice) (note 1))
+- 2 cups (200 g) shredded monterey jack cheese ((or other of choice) (note 1))
 - 3/4 cup roughly chopped coriander/cilantro
 - 1 cup corn kernels ((frozen thawed (or can drained)))
 - one filling of choice, below ((beef, chicken (or vegetable)))
 - 'QUESADILLA SPICE MIX:'
-- 1 teaspoon each onion powder, dried oregano, salt
+- 1 tsp each onion powder, dried oregano, salt
 - 1 tsp dried oregano
 - 1 tsp salt
-- 2 teaspoon each cumin powder, paprika
+- 2 tsp each cumin powder, paprika
 - 2 tsp paprika
-- 1/4 teaspoon each black pepper, cayenne pepper (optional)
+- 1/4 tsp each black pepper, cayenne pepper (optional)
 - 1/4 tsp cayenne pepper (optional)
 - 'BEEF FILLING:'
-- 1/2 tablespoon olive oil
+- 1/2 tbsp olive oil
 - 2 garlic cloves (minced)
 - 1/2 onion (finely chopped)
-- 500 gram / 1 pound ground beef / mince
+- 500 g / 1 lb ground beef / mince
 - 1 small red capsicum/bell peppers (diced)
-- 2 tablespoon tomato paste
-- 1/4 cup (65 milliliter) water
+- 2 tbsp tomato paste
+- 1/4 cup (65 mL) water
 - 'CHICKEN FILLING:'
-- 2 1/2 tablespoon olive oil
-- 500 gram /1 pound chicken thighs (skinless boneless (note 2))
+- 2 1/2 tbsp olive oil
+- 500 g /1 lb chicken thighs (skinless boneless (note 2))
 - 2 garlic cloves (minced)
 - 1 small onion (quartered and sliced)
 - 1 small red capsicum/bell pepper (diced)
 - 'VEGETABLE FILLING:'
-- 2 tablespoon vegetable oil
+- 2 tbsp vegetable oil
 - 1 onion (diced)
 - 2 cloves garlic (minced)
-- 1 can of black beans, drained ((400 gram /14 ounce))
+- 1 can of black beans, drained ((400 g /14 oz))
 - 1 capsicum/bell pepper (diced (any colour))
 - 1 cup corn ((canned drained (or frozen thawed)))
 - 1/4 cup tomato paste
-- 1/4 cup (65 milliliter) water
+- 1/4 cup (65 mL) water
 # ---
 directions:
 - 'QUESADILLAS:'

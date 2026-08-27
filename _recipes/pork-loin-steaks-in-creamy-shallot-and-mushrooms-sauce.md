@@ -14,21 +14,21 @@ cook_time: '15'
 total_time: '20'
 ingredients:
 - 4 pork loin steaks
-- 1 tablespoon olive oil
+- 1 tbsp olive oil
 - 2 shallots (chopped)
 - 2-3 large field mushrooms (or portobello mushrooms (chopped))
 - 2 rosemary sprigs (chopped)
 - a splash of cognac (or brandy (optional))
-- 1 tablespoon flour (if you using cream instead of creme fraiche)
-- 80 milliliter /1/4 cup stock (pork (or chicken))
-- 1 tablespoon whole-grain mustard
-- 200 gram / 2/3 cup creme fraiche (or heavy cream)
+- 1 tbsp flour (if you using cream instead of creme fraiche)
+- 80 mL /1/4 cup stock (pork (or chicken))
+- 1 tbsp whole-grain mustard
+- 200 g / 2/3 cup creme fraiche (or heavy cream)
 - salt
 - salt and pepper to taste
 # ---
 directions:
 - Rub your pork loin steaks with some sea salt.
-- In a cast iron pan or a stainless steel pan heat a tablespoon of olive oil and brown your pork loin steaks for no longer
+- In a cast iron pan or a stainless steel pan heat a tbsp of olive oil and brown your pork loin steaks for no longer
   than 2 minutes on each side.
 - Remove the pork to a separate plate and set aside.
 - To the same pan add shallots and cook on medium heat, stirring constantly to avoid burning for 3 minutes, than add mushroom

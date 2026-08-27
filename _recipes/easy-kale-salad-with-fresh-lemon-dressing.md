@@ -16,8 +16,8 @@ cook_time: '0'
 total_time: '20'
 ingredients:
 - 5 cups chopped kale
-- 1-2 teaspoons olive oil
-- 1/8 teaspoon salt
+- 1-2 tsp olive oil
+- 1/8 tsp salt
 - 2 cups broccoli florets (chopped)
 - 1/2 cup sliced almonds
 - 1/2 cup crumbled feta cheese (optional, (or shredded cheddar))
@@ -26,14 +26,14 @@ ingredients:
 - 1/4 cup sunflower seeds
 - 1/4 cup dried cranberries
 - 1/4 cup olive oil
-- 2 tablespoons fresh lemon juice
-- 2 tablespoons red wine vinegar
-- 1 tablespoon dijon mustard
-- 1 teaspoon honey (or sugar, adjust plus add to taste)
+- 2 tbsp fresh lemon juice
+- 2 tbsp red wine vinegar
+- 1 tbsp dijon mustard
+- 1 tsp honey (or sugar, adjust plus add to taste)
 - 1 clove garlic (minced)
-- 1/2 teaspoon dried oregano
-- 1/4 teaspoon salt
-- 1/8 teaspoon black pepper
+- 1/2 tsp dried oregano
+- 1/4 tsp salt
+- 1/8 tsp black pepper
 # ---
 directions:
 - 'Dressing: Combine dressing ingredients in a mason jar and shake well to emulsify. Dip a kale leaf in the dressing and adjust

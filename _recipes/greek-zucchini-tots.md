@@ -18,23 +18,23 @@ cook_time: '10'
 total_time: '20'
 ingredients:
 - 'ZUCCHINI:'
-- 500 gram zucchinis
-- 1/4 teaspoon salt
+- 500 g zucchinis
+- 1/4 tsp salt
 - 'BATTER:'
 - 3/4 cup scallions/shallots (finely sliced (white and pale green parts only))
 - 2 garlic cloves, minced
 - 1 cup panko breadcrumbs
 - 2 eggs (lightly beaten)
-- 150 gram / 5 ounce feta cheese (crumbled)
+- 150 g / 5 oz feta cheese (crumbled)
 - 1/2 cup parmesan cheese ((or shredded cheddar (or tasty cheese)))
-- 1 tablespoon dried oregano
+- 1 tbsp dried oregano
 - 1/2 cup plain flour
 - oil spray
 - '[OPTIONAL] MINTED YOGHURT:'
 - 1 cup plain greek yoghurt
-- 1/2 tablespoon lemon juice
-- 1/2 tablespoon extra virgin olive oil ((or more))
-- 2 teaspoon fresh mint (finely chopped)
+- 1/2 tbsp lemon juice
+- 1/2 tbsp extra virgin olive oil ((or more))
+- 2 tsp fresh mint (finely chopped)
 - salt
 - salt and pepper
 # ---
@@ -44,7 +44,7 @@ directions:
   for 30 minutes.
 - Working a handful at a time, squeeze out the excess water (as much as you can) and place the zucchini in a bowl.
 - Add the Batter ingredients (except oil spray) and mix to combine.
-- Spray 2 baking trays with oil. Dollop heaped tablespoons onto the trays, then use your fingers to shape them into cylinder
+- Spray 2 baking trays with oil. Dollop heaped tbsp onto the trays, then use your fingers to shape them into cylinder
   "tater-tot / potato gem" shapes.
 - Spray with oil. Bake for 25 minutes, swapping the trays at around 20 minutes, or until golden brown and a crunchy crust
   forms on the surface.

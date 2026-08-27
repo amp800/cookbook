@@ -13,22 +13,22 @@ description: This apple fritter cake is a real crowd pleaser. It starts with a l
 yield: 8 people
 prep_time: '25'
 ingredients:
-- 330 gram /12 ouncess cake flour
-- 3 teaspoons baking powder
-- 1/2 teaspoon fine salt
-- 165 gram /5.9 ouncess caster (or superfine sugar)
-- 280 milliliter /10flozs buttermilk
+- 330 g /12 ouncess cake flour
+- 3 tsp baking powder
+- 1/2 tsp fine salt
+- 165 g /5.9 ouncess caster (or superfine sugar)
+- 280 mL /10flozs buttermilk
 - 2 eggs, room temperature
-- 2 teaspoons vanilla bean paste
-- 100 gram /3.5 ouncess melted butter plus a little extra for greasing the baking dish
-- 600 gram /21 ouncess (around 4-5) apples, peeled and diced
-- 220 gram /7.7 ouncess butter, softened
-- 220 gram /7.7 ouncess brown sugar
-- 2 tablespoons flour
-- 1 tablespoon ground cinnamon
-- 280 gram /10 ouncess icing (or powdered sugar)
-- 65 milliliter /2.3flozs milk
-- 1 teaspoon vanilla bean paste
+- 2 tsp vanilla bean paste
+- 100 g /3.5 ouncess melted butter plus a little extra for greasing the baking dish
+- 600 g /21 ouncess (around 4-5) apples, peeled and diced
+- 220 g /7.7 ouncess butter, softened
+- 220 g /7.7 ouncess brown sugar
+- 2 tbsp flour
+- 1 tbsp ground cinnamon
+- 280 g /10 ouncess icing (or powdered sugar)
+- 65 mL /2.3flozs milk
+- 1 tsp vanilla bean paste
 - pinch salt
 # ---
 directions:

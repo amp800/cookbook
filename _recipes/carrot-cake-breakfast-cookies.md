@@ -15,19 +15,19 @@ cook_time: '15'
 total_time: '35'
 ingredients:
 - 2 large ripe bananas, mashed
-- 1 cup (124 gram) grated carrots
-- 1 teaspoon vanilla extract
-- 2 cups (180 gram) quick oats
-- 1 teaspoon ground cinnamon
-- 1/2 teaspoon ground ginger
-- 1/4 teaspoon ground nutmeg
-- 1/2 cup (90 gram) chocolate chips*
+- 1 cup (124 g) grated carrots
+- 1 tsp vanilla extract
+- 2 cups (180 g) quick oats
+- 1 tsp ground cinnamon
+- 1/2 tsp ground ginger
+- 1/4 tsp ground nutmeg
+- 1/2 cup (90 g) chocolate chips*
 # ---
 directions:
 - Preheat the oven to 180C and line a baking tray with parchment paper or a silicone mat.
 - In a large bowl, mix together the bananas, carrots, vanilla, oats, and spices until combined.
 - Fold in the chocolate chips.
-- Roll the mixture into 30-gram balls and place them onto the prepared baking tray. The mixture will be quite sticky. Use
+- Roll the mixture into 30-g balls and place them onto the prepared baking tray. The mixture will be quite sticky. Use
   damp hands to make this process easier.
 - Flatten the balls out and shape into circles.
 - Bake for 10 - 15 minutes or until firm to the touch and lightly golden on top.

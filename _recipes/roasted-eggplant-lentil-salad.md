@@ -22,26 +22,26 @@ ingredients:
 - 1 large garlic clove (smashed, skin removed (note 2))
 - lemon peel ((about 1.5 x 5 cm / 3/4 x 2"))
 - 1 bay leaf (dry (or fresh))
-- 2 sprigs thyme ((or 1/2 teaspoon dried thyme))
+- 2 sprigs thyme ((or 1/2 tsp dried thyme))
 - 1 rib celery (broken into 3 (or 4 pieces (or just a handful of celery leaves), can skip))
 - ROASTED EGGPLANT
-- 700 gram / 1.4 pound eggplant / aubergine ((2 medium))
-- 2 1/2 tablespoon olive oil
+- 700 g / 1.4 lb eggplant / aubergine ((2 medium))
+- 2 1/2 tbsp olive oil
 - 1/4 tsp salt
-- 1/4 teaspoon each salt and pepper
+- 1/4 tsp each salt and pepper
 - GARLIC LEMON DRESSING
-- 2 tablespoon lemon juice ((or cider vinegar, white (or red wine vinegar)))
-- 4 tablespoon extra virgin olive oil
-- 1 teaspoon dijon mustard
+- 2 tbsp lemon juice ((or cider vinegar, white (or red wine vinegar)))
+- 4 tbsp extra virgin olive oil
+- 1 tsp dijon mustard
 - 1 garlic clove (minced using garlic press)
-- 1 teaspoon thyme leaves (fresh (or 1/2 ts dried - can omit, (or other herbs), note 3))
-- 1 teaspoon sugar (optional)
+- 1 tsp thyme leaves (fresh (or 1/2 ts dried - can omit, (or other herbs), note 3))
+- 1 tsp sugar (optional)
 - 1/2 tsp salt
-- 1/2 teaspoon each salt + black pepper
+- 1/2 tsp each salt + black pepper
 - SALAD
-- 250 gram / 8 ounce cherry tomatoes (halved (large quartered))
+- 250 g / 8 oz cherry tomatoes (halved (large quartered))
 - 2 handfuls rocket / arugula lettuce (torn into 5cm/2" pieces)
-- 60 gram / 2 ounce feta (crumbled (or more!))
+- 60 g / 2 oz feta (crumbled (or more!))
 # ---
 directions:
 - 'DRESSING: shake in a jar.'

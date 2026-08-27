@@ -17,35 +17,35 @@ total_time: '70'
 ingredients:
 - 4 cups cooked white rice (preferably short grain (note 1))
 - 4 eggs
-- 2 teaspoon sesame seeds
+- 2 tsp sesame seeds
 - 'KOREAN BEEF & MARINADE:'
-- 250 gram /8 ounce beef tenderloin (or thick steak (), very finely sliced (subs note 2))
+- 250 g /8 oz beef tenderloin (or thick steak (), very finely sliced (subs note 2))
 - 1/4 green apple (grated using box grater (note 3))
 - 3 garlic cloves (minced)
-- 1 tablespoon soy sauce (light (or all purpose (note 4)))
-- 1 tablespoon honey ((or brown sugar))
-- 2 teaspoon sesame oil (toasted (note 9))
+- 1 tbsp soy sauce (light (or all purpose (note 4)))
+- 1 tbsp honey ((or brown sugar))
+- 2 tsp sesame oil (toasted (note 9))
 - 'VEGETABLES:'
 - 2 carrots (large, cut into 5 x 0.5cm/2 x 1/5" batons)
 - 2 zucchini (large, cut into 5 x 0.5cm/2 x 1/5" batons)
 - 1 bunch of spinach (cut into 5cm/2" lengths)
 - 8 dried shiitake mushrooms (large (note 5))
 - 4 cups bean sprouts
-- 2 teaspoon garlic (minced (3 cloves))
-- 8 teaspoon vegetable oil (separated)
-- 1/2 teaspoon salt
-- 1.5 teaspoon soy sauce (light (or all purpose (note 4)))
-- 1/4 teaspoon fish sauce ((sub soy))
-- 1/4 teaspoon white sugar
+- 2 tsp garlic (minced (3 cloves))
+- 8 tsp vegetable oil (separated)
+- 1/2 tsp salt
+- 1.5 tsp soy sauce (light (or all purpose (note 4)))
+- 1/4 tsp fish sauce ((sub soy))
+- 1/4 tsp white sugar
 - sesame oil (toasted (note 9))
 - 'BIBIMBAP SAUCE:'
-- 4 tablespoon gochujang paste ((note 6))
-- 2 tablespoon mirin ((note 7))
-- 2 tablespoon rice vinegar ((note 8))
-- 1.5 teaspoon soy sauce ((note 4))
-- 3 teaspoon white sugar
+- 4 tbsp gochujang paste ((note 6))
+- 2 tbsp mirin ((note 7))
+- 2 tbsp rice vinegar ((note 8))
+- 1.5 tsp soy sauce ((note 4))
+- 3 tsp white sugar
 - 1 garlic clove (finely grated)
-- 2.5 teaspoon sesame oil (toasted (note 9))
+- 2.5 tsp sesame oil (toasted (note 9))
 # ---
 directions:
 - 'BIBIMBAP SAUCE: Mix ingredients until sugar is dissolved.'

@@ -13,15 +13,15 @@ prep_time: '30'
 cook_time: '10'
 total_time: '40'
 ingredients:
-- 5 ounce cabbage (napa (or white (5 ounce is approx 1 1/2 cups shredded)))
+- 5 oz cabbage (napa (or white (5 oz is approx 1 1/2 cups shredded)))
 - 2 scallions (spring onions)
-- 1/2 pound ground pork (pork mince)
-- 1 tablespoon soy sauce
-- 1 teaspoon sesame oil
-- 1 teaspoon shaoxing wine (or can use sherry)
-- 1/2 teaspoon ginger (minced/finely grated)
-- 1 1/2 tablespoon cilantro/coriander (a small handful roughly chopped)
-- 1/4 teaspoon salt
+- 1/2 lb ground pork (pork mince)
+- 1 tbsp soy sauce
+- 1 tsp sesame oil
+- 1 tsp shaoxing wine (or can use sherry)
+- 1/2 tsp ginger (minced/finely grated)
+- 1 1/2 tbsp cilantro/coriander (a small handful roughly chopped)
+- 1/4 tsp salt
 - 24 dumpling wrappers (approx)
 # ---
 directions:

@@ -15,10 +15,10 @@ cook_time: '25'
 total_time: '30'
 ingredients:
 - 1 head broccoli
-- 200 gram chorizo, cut into 1cm-thick slices
-- 270 gram woolworths beetroot & feta salad kit
-- 420 gram no-added-salt lentils, drained, rinsed
-- 2 tablespoon natural almonds, coarsely chopped
+- 200 g chorizo, cut into 1cm-thick slices
+- 270 g woolworths beetroot & feta salad kit
+- 420 g no-added-salt lentils, drained, rinsed
+- 2 tbsp natural almonds, coarsely chopped
 # ---
 directions:
 - Preheat oven to 200°C/180°C fan-forced. Cut broccoli into small florets. Trim stem and thinly slice.

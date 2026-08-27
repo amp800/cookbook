@@ -14,21 +14,21 @@ prep_time: '10'
 cook_time: '10'
 total_time: '20'
 ingredients:
-- 2 teaspoon cornflour / cornstarch (or 2 tablespoon uncooked rice (any rice is fine) (note 1))
-- 3 tablespoon water
-- 2 1/2 tablespoon lime juice ((1 to 2 limes))
-- 2 tablespoon fish sauce
-- 2 teaspoon brown sugar
-- 2 tablespoon peanut oil ((or other high smoke point cooking oil))
-- 1 tablespoon fresh ginger (grated (or very finely chopped))
+- 2 tsp cornflour / cornstarch (or 2 tbsp uncooked rice (any rice is fine) (note 1))
+- 3 tbsp water
+- 2 1/2 tbsp lime juice ((1 to 2 limes))
+- 2 tbsp fish sauce
+- 2 tsp brown sugar
+- 2 tbsp peanut oil ((or other high smoke point cooking oil))
+- 1 tbsp fresh ginger (grated (or very finely chopped))
 - 2 garlic cloves (large, minced)
 - 1 lemon grass stalk (white and very pale green part only, finely chopped (note 2))
 - 2 thai (or birds eye chilli (), deseeded and finely chopped (adjust to taste))
-- 1 pound / 500 gram chicken mince ((ground chicken) (or pork))
+- 1 lb / 500 g chicken mince ((ground chicken) (or pork))
 - 1/2 red onion (cut into 4 wedges then finely sliced)
 - 1/3 cup coriander/cilantro leaves (plus extra to garnish)
 - 1/3 cup mint leaves (plus extra to garnish)
-- 3 tablespoon crushed peanuts ((optional))
+- 3 tbsp crushed peanuts ((optional))
 - 6 - 8 small to medium lettuce leaves ((i used baby cos / romaine) (note 3))
 - extra lime wedges, chilli
 # ---

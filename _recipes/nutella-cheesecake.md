@@ -12,16 +12,16 @@ description: I don’t know if I should apologise for this or boast about it. Ei
   to room temperature before serving. It slices and tastes better with a bit of fridge-chill on it.
 yield: 12 servings
 ingredients:
-- 250 grams digestive biscuits
-- 75 grams soft unsalted butter
-- 350 grams jar of nutella (at room temperature)
-- 100 grams chopped toasted hazelnuts
-- 500 grams cream cheese (at room temperature)
-- 60 grams icing sugar (sifted)
+- 250 g digestive biscuits
+- 75 g soft unsalted butter
+- 350 g jar of nutella (at room temperature)
+- 100 g chopped toasted hazelnuts
+- 500 g cream cheese (at room temperature)
+- 60 g icing sugar (sifted)
 # ---
 directions:
-- Break the digestives into the bowl of a processor, add the butter and a 15ml tablespoon of Nutella, and blitz until it starts
-  to clump. Add 3 tablespoons of the hazelnuts and continue to pulse until you have a damp, sandy mixture.
+- Break the digestives into the bowl of a processor, add the butter and a 15ml tbsp of Nutella, and blitz until it starts
+  to clump. Add 3 tbsp of the hazelnuts and continue to pulse until you have a damp, sandy mixture.
 - Tip into a 23cm round springform and press into the base either using your hands or the back of a spoon. Place in the fridge
   to chill.
 - Beat the cream cheese and icing sugar until smooth and then add the remaining Nutella to the cream cheese mixture, and continue

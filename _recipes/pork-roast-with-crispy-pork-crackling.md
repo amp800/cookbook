@@ -58,7 +58,7 @@ directions:
   20 minutes (stays warm up to 1 hour). Then slice using a serrated knife.'
 - Serve with gravy. Don't pour gravy over crackling - pour it off to the side! See note for reheating.
 - '### GRAVY'
-- 'Transfer fat to saucepan: Skim off 3 tablespoons of fat from the roasting pan and put in a saucepan.'
+- 'Transfer fat to saucepan: Skim off 3 tbsp of fat from the roasting pan and put in a saucepan.'
 - 'Strain pan juices: Place strainer over bowl and scrape in all the remaining pan juices (including onion and garlic). Press
   out juices, then discard onion & garlic. Skim off excess fat from surface and discard - no need to be exact here!'
 - 'Gravy roux: Heat the saucepan with the fat over medium heat. Add flour and cook for 1 minute.'

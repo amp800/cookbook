@@ -12,17 +12,17 @@ description: Made with pistachio, blueberries and coconut, this no-bake tart is 
 yield: 12 servings
 prep_time: '15'
 ingredients:
-- 200 gram arnott’s butternut snap cookie biscuits
-- 50 gram pistachios
-- 2 tablespoon shredded coconut
-- 80 gram unsalted butter, melted
-- 250 gram cream cheese, softened
-- 397 gram can sweetened condensed milk
-- 200 milliliter coconut cream
-- 1 teaspoon finely grated lemon rind
-- 1/2 cup (110 gram) caster sugar
-- 125 gram blueberries
-- 1/2 cup (120 gram) fresh (or frozen pomegranate seeds)
+- 200 g arnott’s butternut snap cookie biscuits
+- 50 g pistachios
+- 2 tbsp shredded coconut
+- 80 g unsalted butter, melted
+- 250 g cream cheese, softened
+- 397 g can sweetened condensed milk
+- 200 mL coconut cream
+- 1 tsp finely grated lemon rind
+- 1/2 cup (110 g) caster sugar
+- 125 g blueberries
+- 1/2 cup (120 g) fresh (or frozen pomegranate seeds)
 - chopped pistachios, extra, to serve
 # ---
 directions:

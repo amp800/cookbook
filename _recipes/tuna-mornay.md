@@ -13,22 +13,22 @@ description: Tuna Mornay is how you elevate canned tuna above a glum pantry stap
 yield: 5 servings
 prep_time: '10'
 ingredients:
-- 350 gram / 12 ounce penne pasta ((or other short pasta))
-- 40 gram / 3 tablespoon butter
+- 350 g / 12 oz penne pasta ((or other short pasta))
+- 40 g / 3 tbsp butter
 - 3 garlic cloves (finely minced)
-- 4 tablespoon (50 gram) flour (plain/all purpose)
-- 4 cups (1 litre) milk (any fat %, dairy (or non dairy (1 quart)))
-- 2 teaspoon vegeta, (or chicken)
-- 1/2 cup (50 gram) parmesan (finely shredded)
+- 4 tbsp (50 g) flour (plain/all purpose)
+- 4 cups (1 L) milk (any fat %, dairy (or non dairy (1 quart)))
+- 2 tsp vegeta, (or chicken)
+- 1/2 cup (50 g) parmesan (finely shredded)
 - 1/2 tsp mustard powder (note 2)
 - 1/2 tsp onion powder (note 2)
-- 1/2 teaspoon each mustard powder, onion and garlic powder ((note 2))
-- 425 gram / 15 ounce canned tuna (preferably in oil, drained (sub salmon))
-- 400 gram / 14 ounce canned corn (drained (or other veg, note 3))
-- 25 gram / 1.5 tablespoon butter (melted)
-- 1/2 cup (60 gram) panko breadcrumbs
-- 1/4 gram (25 gram) parmesan (finely grated)
-- 1/4 teaspoon salt
+- 1/2 tsp each mustard powder, onion and garlic powder ((note 2))
+- 425 g / 15 oz canned tuna (preferably in oil, drained (sub salmon))
+- 400 g / 14 oz canned corn (drained (or other veg, note 3))
+- 25 g / 1.5 tbsp butter (melted)
+- 1/2 cup (60 g) panko breadcrumbs
+- 1/4 g (25 g) parmesan (finely grated)
+- 1/4 tsp salt
 - chives (or parsley (), optional garnish)
 # ---
 directions:

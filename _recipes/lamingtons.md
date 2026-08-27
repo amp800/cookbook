@@ -17,23 +17,23 @@ cook_time: '25'
 total_time: '65'
 ingredients:
 - 'BUTTER SPONGE:'
-- 125 gram / 4.5 ounce unsalted butter (softened)
-- 1 cup (220 gram) caster sugar
-- 1/2 teaspoon vanilla extract
+- 125 g / 4.5 oz unsalted butter (softened)
+- 1 cup (220 g) caster sugar
+- 1/2 tsp vanilla extract
 - 3 eggs (room temperature)
-- 1 3/4 cups (260 gram) flour (plain/all purpose, sifted (note 1))
-- 3.5 teaspoon baking powder
-- 1/2 cup (125 milliliter) milk ((low (or full fat)))
+- 1 3/4 cups (260 g) flour (plain/all purpose, sifted (note 1))
+- 3.5 tsp baking powder
+- 1/2 cup (125 mL) milk ((low (or full fat)))
 - ICING
-- 4 cups (480 gram) icing sugar ((confectionary sugar), sifted)
-- 1/3 cup (22 gram) cocoa powder
-- 1 tablespoon (15 gram) unsalted butter
-- 150 milliliter (1/2 cup + 2 tablespoon) boiling water
+- 4 cups (480 g) icing sugar ((confectionary sugar), sifted)
+- 1/3 cup (22 g) cocoa powder
+- 1 tbsp (15 g) unsalted butter
+- 150 mL (1/2 cup + 2 tbsp) boiling water
 - 'COATING: 3 - 4 cups desiccated coconut'
 - 'OPTIONAL JAM & CREAM:'
 - strawberry jam
-- 1 cup (250 milliliter) cream
-- 1 tablespoon white sugar
+- 1 cup (250 mL) cream
+- 1 tbsp white sugar
 # ---
 directions:
 - 'BUTTER SPONGE:'

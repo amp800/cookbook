@@ -15,17 +15,17 @@ prep_time: '20'
 cook_time: '0'
 total_time: '20'
 ingredients:
-- 1 pound broccoli florets (from 1 1/2 pounds broccoli stalks), thinly sliced and then roughly chopped (see photos)
+- 1 lb broccoli florets (from 1 1/2 lb broccoli stalks), thinly sliced and then roughly chopped (see photos)
 - 1/2 cup raw sunflower seeds (or slivered almonds)
 - 1/2 cup finely chopped red onion
 - 1 apple
 - 1/3 cup dried cranberries (or dried tart cherries), chopped
 - 1/3 cup extra-virgin olive oil
-- 2 tablespoons apple cider vinegar
-- 1 tablespoon dijon mustard
-- 1 tablespoon honey
+- 2 tbsp apple cider vinegar
+- 1 tbsp dijon mustard
+- 1 tbsp honey
 - 1 medium clove garlic, pressed (or minced)
-- 1/4 teaspoon fine sea salt
+- 1/4 tsp fine sea salt
 # ---
 directions:
 - Toast the sunflower seeds then pour them into a large serving bowl.

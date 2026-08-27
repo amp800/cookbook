@@ -19,20 +19,20 @@ ingredients:
 - 'CORN FRITTERS:'
 - 1/2 cup rice flour (throw it in your coffee grinder (or buy it this way))
 - 1/2 cup plain all-purpose flour
-- 1/4 teaspoon baking powder
-- 1/2 teaspoon salt
-- 1 teaspoon ground coriander
-- 1/2 teaspoon ground cumin
+- 1/4 tsp baking powder
+- 1/2 tsp salt
+- 1 tsp ground coriander
+- 1/2 tsp ground cumin
 - 1 egg, lightly beaten
-- 1 teaspoon lemon juice
+- 1 tsp lemon juice
 - 2 cups corn kernels
 - 4 spring onions, finely sliced
-- 3 tablespoons chopped fresh cilantro
+- 3 tbsp chopped fresh cilantro
 - 1/4 cup oil
 - 'SWEET CHILLI SAUCE:'
 - 3 large fresh red chilies, finely chopped
 - 1 cup rice vinegar
-- 2 teaspoons salt
+- 2 tsp salt
 - 3/4 cup sugar
 - 1 clove garlic, chopped
 # ---

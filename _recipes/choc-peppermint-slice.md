@@ -10,17 +10,17 @@ tags:
 description: Quick and easy decadent dessert
 yield: 20 servings
 ingredients:
-- 2/3 cup (100 gram) self-raising (self-rising) flour, sifted
-- 1/4 cup (25 gram) cocoa, sifted
-- 1/2 cup (40 gram) desiccated coconut
-- 1/4 cup (55 gram) caster (superfine) sugar
-- 140 gram unsalted butter, melted
+- 2/3 cup (100 g) self-raising (self-rising) flour, sifted
+- 1/4 cup (25 g) cocoa, sifted
+- 1/2 cup (40 g) desiccated coconut
+- 1/4 cup (55 g) caster (superfine) sugar
+- 140 g unsalted butter, melted
 - 1 egg, lightly beaten
-- 3 1/2 cups (480 gram) icing (confectioner’s) sugar, sifted
-- 2 1/2 tablespoons boiling water
-- 1/2 teaspoon peppermint essence
-- 200 gram dark chocolate, chopped
-- 1 tablespoon vegetable oil
+- 3 1/2 cups (480 g) icing (confectioner’s) sugar, sifted
+- 2 1/2 tbsp boiling water
+- 1/2 tsp peppermint essence
+- 200 g dark chocolate, chopped
+- 1 tbsp vegetable oil
 # ---
 directions:
 - Preheat oven to 180ºC (160ºC fan forced). Place the flour, cocoa, coconut, sugar, butter and egg in a bowl and mix well

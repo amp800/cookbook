@@ -16,20 +16,20 @@ prep_time: '10'
 cook_time: '30'
 total_time: '40'
 ingredients:
-- 1 medium-sized eggplant (about 1 pound, (or 450 gram))
-- 1 1/2 tablespoons neutral-flavored oil of choice
-- 1 teaspoon cumin seeds
+- 1 medium-sized eggplant (about 1 lb, (or 450 g))
+- 1 1/2 tbsp neutral-flavored oil of choice
+- 1 tsp cumin seeds
 - 1 medium red (or yellow) onion, (finely diced)
 - 4 garlic cloves, (finely chopped)
 - 1- inch piece ginger, (grated (or minced))
 - 1 small serrano pepper, (finely chopped (optional for spicy!; omit for moderate heat) *)
-- 1/2 teaspoon ground turmeric
-- 1 teaspoon ground coriander
-- 1 1/2 teaspoons kosher salt
+- 1/2 tsp ground turmeric
+- 1 tsp ground coriander
+- 1 1/2 tsp kosher salt
 - 2 medium plum (or roma tomatoes), (finely chopped)
-- 1/2 teaspoon kashmiri red chile powder*
-- 1 teaspoon garam masala
-- 1 cup (16 gram) cilantro leaves and tender stems, (chopped)
+- 1/2 tsp kashmiri red chile powder*
+- 1 tsp garam masala
+- 1 cup (16 g) cilantro leaves and tender stems, (chopped)
 # ---
 directions:
 - 'SMOKING THE EGGPLANT (Note 1):'
@@ -61,7 +61,7 @@ directions:
   about 5 minutes.
 - Add in the mashed eggplant mixture and red chile powder and toss well to combine. Reduce the heat to medium or medium-low
   and cook for 3 to 5 minutes, stirring often and mashing together. Add in the garam masala and chopped coriander and season
-  with ¼ teaspoon salt. Serve warm with bread or rice of choice.
+  with ¼ tsp salt. Serve warm with bread or rice of choice.
 # ---
 notes:
 - 'Alternative sauté method for the baingan (eggplant): 1. Slice a peeled eggplant into ½-inch pieces.'

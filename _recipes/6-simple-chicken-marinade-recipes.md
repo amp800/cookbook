@@ -14,50 +14,50 @@ prep_time: '10'
 cook_time: '140'
 total_time: '150'
 ingredients:
-- 1 pound boneless skinless chicken breast (2 to 3 breasts)
+- 1 lb boneless skinless chicken breast (2 to 3 breasts)
 - 1/4 cup olive oil
-- 1 lemon (juiced (about 3 tablespoons juice))
+- 1 lemon (juiced (about 3 tbsp juice))
 - 2 garlic cloves (minced)
-- 2 teaspoons dried oregano
-- 1 teaspoon dried thyme
-- 1 teaspoon dijon mustard
-- 1 teaspoon kosher salt
-- 1/2 teaspoon freshly ground black pepper
+- 2 tsp dried oregano
+- 1 tsp dried thyme
+- 1 tsp dijon mustard
+- 1 tsp kosher salt
+- 1/2 tsp freshly ground black pepper
 - 1/4 cup olive oil
 - 1/4 cup cilantro leaves (chopped)
 - 2 limes (zested and juiced (about 1/4 cup juice))
 - 2 garlic cloves (minced)
-- 1 teaspoon ground cumin
-- 1/2 teaspoon chili powder
-- 1 teaspoon kosher salt
-- 1/2 teaspoon freshly ground black pepper
-- 3 tablespoons honey
-- 3 tablespoons dijon mustard
-- 2 tablespoons olive oil
-- 2 teaspoons apple cider vinegar
+- 1 tsp ground cumin
+- 1/2 tsp chili powder
+- 1 tsp kosher salt
+- 1/2 tsp freshly ground black pepper
+- 3 tbsp honey
+- 3 tbsp dijon mustard
+- 2 tbsp olive oil
+- 2 tsp apple cider vinegar
 - 1 garlic clove (minced)
-- 1 teaspoon kosher salt
-- 1/2 teaspoon freshly ground black pepper
+- 1 tsp kosher salt
+- 1/2 tsp freshly ground black pepper
 - 1/4 cup tamari soy sauce (or coconut aminos)
-- 1 tablespoons sesame oil
-- 1 tablespoon rice vinegar
+- 1 tbsp sesame oil
+- 1 tbsp rice vinegar
 - 1 green onion (thinly sliced)
-- 2 teaspoons minced fresh ginger (about 1/2-inch piece)
+- 2 tsp minced fresh ginger (about 1/2-inch piece)
 - 2 garlic cloves (minced)
 - 1/4 cup olive oil
-- 1 lime (zested and juiced (about 2 tablespoons juice))
+- 1 lime (zested and juiced (about 2 tbsp juice))
 - 1 garlic clove (minced)
-- 1 teaspoon chili powder
-- 1 teaspoon ground cumin
-- 1/2 teaspoon paprika
-- 1 teaspoon kosher salt
-- 1/2 teaspoon freshly ground black pepper
+- 1 tsp chili powder
+- 1 tsp ground cumin
+- 1/2 tsp paprika
+- 1 tsp kosher salt
+- 1/2 tsp freshly ground black pepper
 - 1/4 cup olive oil
-- 2 tablespoons white wine vinegar
-- 2 teaspoons italian seasoning
+- 2 tbsp white wine vinegar
+- 2 tsp italian seasoning
 - 2 garlic cloves (minced)
-- 1/2 teaspoon red pepper flakes
-- 1/2 teaspoon kosher salt
+- 1/2 tsp red pepper flakes
+- 1/2 tsp kosher salt
 # ---
 directions:
 - Make the marinade. Choose a chicken marinade flavor and place all the ingredients (minus the chicken breast) into a medium

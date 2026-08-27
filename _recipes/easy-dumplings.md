@@ -10,13 +10,13 @@ tags:
 description: The recipe is an easy one.
 yield: 40 dumplings
 ingredients:
-- 500 gram lamb mince
-- 200 gram (or more of finely shredded wombok)
+- 500 g lamb mince
+- 200 g (or more of finely shredded wombok)
 - half of a red onion - diced quite small
 - 1 bunch of garlic chives finely chopped
-- 1 and a 1/2 teaspoons cumin seeds - ground
-- 1 teaspoon coriander seeds - ground
-- 1 tablespoon worcestershire sauce
+- 1 and a 1/2 tsp cumin seeds - ground
+- 1 tsp coriander seeds - ground
+- 1 tbsp worcestershire sauce
 - salt
 - little bit of salt and pepper
 - 40 dumpling wrappers
@@ -29,7 +29,7 @@ directions:
 - Once the vegetables are cooled down, add the lamb, the garlic chives, the cumin, the coriander, the Worcestershire sauce,
   salt and pepper and mix. Laura, the best and most fun way to do this is with your clean hands. Make sure things are distributed
   evenly.
-- Then you can get your bowl of water for sealing and start to fill your dumplings. We did about a teaspoon of filling per
+- Then you can get your bowl of water for sealing and start to fill your dumplings. We did about a tsp of filling per
   dumpling wrapper. Here are some of the folds we used yesterday.
 - To cook in a kitchen, use a clean flat fry pan and cover the base with a thin layer of oil. When it is hot, put the dumplings
   in batches into the pan. It should sizzle. Check the bottom of a dumpling for when they have started to brown, then add

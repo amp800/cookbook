@@ -12,20 +12,20 @@ prep_time: '10'
 cook_time: '20'
 total_time: '30'
 ingredients:
-- 800 gram skinless chicken breasts
+- 800 g skinless chicken breasts
 - 1 medium onion, diced
-- 1/2 teaspoon ginger, crushed
-- 1 teaspoon garlic, crushed
-- 1 teaspoon cinnamon
-- 1 teaspoon turmeric
-- 1 teaspoon dried coriander
-- 2 teaspoons paprika
-- 1/2 teaspoon cumin
-- 1/8 teaspoon chili powder
-- 2 teaspoons chicken stock powder
-- 4 tablespoons tomato paste
-- 1 tablespoon cornflour
-- 375 milliliter evaporated skim milk
+- 1/2 tsp ginger, crushed
+- 1 tsp garlic, crushed
+- 1 tsp cinnamon
+- 1 tsp turmeric
+- 1 tsp dried coriander
+- 2 tsp paprika
+- 1/2 tsp cumin
+- 1/8 tsp chili powder
+- 2 tsp chicken stock powder
+- 4 tbsp tomato paste
+- 1 tbsp cornflour
+- 375 mL evaporated skim milk
 # ---
 directions:
 - Cut chicken into bite sized pieces.

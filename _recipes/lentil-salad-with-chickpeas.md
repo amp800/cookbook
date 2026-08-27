@@ -17,18 +17,18 @@ cook_time: '20'
 total_time: '30'
 ingredients:
 - 1 cup small green whole lentils
-- 1 15 ounce can chickpeas (rinsed and drained)
+- 1 15 oz can chickpeas (rinsed and drained)
 - 1-2 persian cucumbers (small diced)
 - 1/2 cup roasted red peppers (small diced)
 - 1/2 cup red onion (small diced)
 - 1/4 cup fresh parsley (chopped)
 - 1/4 cup olive oil
-- 3 tablespoons lemon juice
-- 1 teaspoon zaatar
-- 1/2 teaspoon cumin
+- 3 tbsp lemon juice
+- 1 tsp zaatar
+- 1/2 tsp cumin
 - 1 garlic clove (pressed)
-- 1/2 teaspoon salt
-- 1/4 teaspoon black pepper
+- 1/2 tsp salt
+- 1/4 tsp black pepper
 # ---
 directions:
 - In a large pot of salted boiling water, place the lentils and cook until tender, about 20 minutes. Once cooked, drain the

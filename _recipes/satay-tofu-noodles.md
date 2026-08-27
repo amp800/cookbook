@@ -12,24 +12,24 @@ description: I’m a sucker for anything peanut-buttery and these satay tofu noo
   by two meat-loving males and (surprisingly) both gave it a thumbs up!
 yield: 4 servings
 ingredients:
-- 300 gram firm-style tofu ((10.6 ounce))
-- 3 tablespoon cornflour
-- 1/2 teaspoon salt
-- 1/4 teaspoon black pepper
+- 300 g firm-style tofu ((10.6 oz))
+- 3 tbsp cornflour
+- 1/2 tsp salt
+- 1/4 tsp black pepper
 - 1 broccoli
 - 1 brown onion
 - 1 large carrot
-- 1 cup frozen mixed veggies ((150 gram))
-- 5 tablespoon crunchy peanut butter
-- 3 tablespoon soy sauce
-- 2 tablespoon sweet chilli sauce
-- 1 teaspoon curry powder
-- 1 teaspoon finely grated fresh ginger
+- 1 cup frozen mixed veggies ((150 g))
+- 5 tbsp crunchy peanut butter
+- 3 tbsp soy sauce
+- 2 tbsp sweet chilli sauce
+- 1 tsp curry powder
+- 1 tsp finely grated fresh ginger
 - 1 clove garlic, crushed
-- 1/2 cup water ((125 milliliter))
-- 3 tablespoon peanut oil
-- 400 gram pre-cooked flat ribbon noodles ((14 ounce))
-- 100 gram roasted, salted peanuts ((3.5 ounce))
+- 1/2 cup water ((125 mL))
+- 3 tbsp peanut oil
+- 400 g pre-cooked flat ribbon noodles ((14 oz))
+- 100 g roasted, salted peanuts ((3.5 oz))
 - handful fresh coriander ((optional))
 # ---
 directions:

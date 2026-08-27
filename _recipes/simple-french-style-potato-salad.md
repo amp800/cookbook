@@ -16,20 +16,20 @@ cook_time: '20'
 total_time: '30'
 ingredients:
 - 'POTATOES & VEGETABLES:'
-- 2 pounds baby yellow potatoes ((we used half yellow, half red))
+- 2 lb baby yellow potatoes ((we used half yellow, half red))
 - 1 pinch salt
 - 1 pinch sea salt and black pepper
-- 1 tablespoon apple cider vinegar
+- 1 tbsp apple cider vinegar
 - 1 cup diced green onion
 - 1/4 cup fresh chopped parsley ((optional))
 - 'DRESSING:'
-- 2 1/2 tablespoon spicy brown mustard ((or dijon mustard))
+- 2 1/2 tbsp spicy brown mustard ((or dijon mustard))
 - 3 cloves garlic, minced
 - 1/4 tsp salt
-- 1/4 teaspoon each sea salt and black pepper ((plus more to taste))
-- 3 tablespoon red wine vinegar ((or white wine vinegar))
-- 1 tablespoon apple cider vinegar
-- 3 tablespoon good olive oil ((if avoiding oil, see notes*))
+- 1/4 tsp each sea salt and black pepper ((plus more to taste))
+- 3 tbsp red wine vinegar ((or white wine vinegar))
+- 1 tbsp apple cider vinegar
+- 3 tbsp good olive oil ((if avoiding oil, see notes*))
 - 1/4 cup fresh chopped dill
 # ---
 directions:

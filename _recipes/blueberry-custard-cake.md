@@ -14,23 +14,23 @@ prep_time: '15'
 ingredients:
 - 'CUSTARD:'
 - 1 1/2 cups milk (full fat)
-- 1 teaspoon vanilla bean paste ((or extract))
+- 1 tsp vanilla bean paste ((or extract))
 - 1/3 cup superfine/caster sugar ((note 1))
-- 1/4 cup / 60 gram egg yolks (~4 large eggs) ((note 2))
-- 3 1/2 tablespoon cornflour / cornstarch
-- 30 gram / 2 tablespoon unsalted butter (cold, cut into 1 cm / 1/2" cubes)
+- 1/4 cup / 60 g egg yolks (~4 large eggs) ((note 2))
+- 3 1/2 tbsp cornflour / cornstarch
+- 30 g / 2 tbsp unsalted butter (cold, cut into 1 cm / 1/2" cubes)
 - 'CAKE - WET:'
 - 1/2 cup superfine/caster sugar ((note 1))
 - 1/4 cup canola oil ((or other neutral oil))
 - 1 large egg ((note 3))
 - 1/2 cup plain yogurt ((note 4))
-- 1/2 teaspoon vanilla extract
-- 2 teaspoon lemon zest (finely grated (1 large lemon))
+- 1/2 tsp vanilla extract
+- 2 tsp lemon zest (finely grated (1 large lemon))
 - 'CAKE - DRY:'
 - 1 cup flour (plain / all-purpose)
-- 2 teaspoon baking powder
+- 2 tsp baking powder
 - pinch of salt
-- 'BLUEBERRIES: 250 gram / 8 ounce blueberries (fresh (or frozen (do not thaw)))'
+- 'BLUEBERRIES: 250 g / 8 oz blueberries (fresh (or frozen (do not thaw)))'
 # ---
 directions:
 - 'PREPARE:'

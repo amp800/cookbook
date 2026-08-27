@@ -14,13 +14,13 @@ description: A cosy, creamy rice pudding with the perfect soft rice texture - bu
 yield: 5 servings
 prep_time: '5'
 ingredients:
-- 1 tablespoon unsalted butter (for greasing)
+- 1 tbsp unsalted butter (for greasing)
 - 4 cups milk ((full (or reduced fat), note 1))
 - 1/3 cup white sugar
-- 2 teaspoon vanilla extract
+- 2 tsp vanilla extract
 - 3/4 cup medium grain white rice, uncooked (- definitely the best for rice pudding (note 2))
 - 1/2 cup sultanas (or raisins ((note 3)))
-- 3/4 teaspoon cinnamon
+- 3/4 tsp cinnamon
 - 1/2 cup cream (thickened/heavy (or bit of butter))
 # ---
 directions:

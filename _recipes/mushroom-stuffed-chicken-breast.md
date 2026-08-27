@@ -14,16 +14,16 @@ prep_time: '15'
 cook_time: '30'
 total_time: '45'
 ingredients:
-- 2 x 220 gram / 7 ounce chicken breast (skinless boneless (note 1))
-- 3/4 teaspoon salt
-- 1/4 teaspoon pepper
-- 30 gram / 2 tablespoon unsalted butter
-- 200 gram / 7 ounce mushrooms (sliced 3mm (1/8″) thick (~2 heaped cups))
+- 2 x 220 g / 7 oz chicken breast (skinless boneless (note 1))
+- 3/4 tsp salt
+- 1/4 tsp pepper
+- 30 g / 2 tbsp unsalted butter
+- 200 g / 7 oz mushrooms (sliced 3mm (1/8″) thick (~2 heaped cups))
 - 2 garlic cloves (finely minced)
-- 1/2 teaspoon thyme leaves ((note 2))
+- 1/2 tsp thyme leaves ((note 2))
 - 2 cups baby spinach ((note 3))
-- 80 gram / 3 ounce mozzarella (sliced (or other melting cheese))
-- 1 tablespoon olive oil
+- 80 g / 3 oz mozzarella (sliced (or other melting cheese))
+- 1 tbsp olive oil
 # ---
 directions:
 - Preheat oven to 200°C (180°F fan).

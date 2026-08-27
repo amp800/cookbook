@@ -13,16 +13,16 @@ description: Who doesn't love a reason to BBQ? This dish is best made when you h
   moist insides are worth every minute you spend basking in the summer sun, ice tea in hand, surrounded by friends and family
   who keep asking "Is it ready yet?"
 ingredients:
-- 1.5 kilogram chicken drummies (or wings)
-- 4 tablespoon soy sauce
-- 2 tablespoon sesame oil
+- 1.5 kg chicken drummies (or wings)
+- 4 tbsp soy sauce
+- 2 tbsp sesame oil
 - 1-inch piece of ginger, grated
-- 3 tablespoon korean chilli paste (gochujang) (available from asian grocers) (feel free to adjust this for heat)
-- 2 tablespoon honey
+- 3 tbsp korean chilli paste (gochujang) (available from asian grocers) (feel free to adjust this for heat)
+- 2 tbsp honey
 - juice 1 lime
-- 2 tablespoon soy sauce
-- 2 tablespoon sesame oil
-- 2 tablespoon sesame seeds
+- 2 tbsp soy sauce
+- 2 tbsp sesame oil
+- 2 tbsp sesame seeds
 - 1/2 cup of thinly sliced shallots
 - extra sesame seeds
 # ---

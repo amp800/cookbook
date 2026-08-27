@@ -13,10 +13,10 @@ prep_time: '5'
 cook_time: '0'
 total_time: '5'
 ingredients:
-- 6 tablespoon water
-- 2 tablespoon sugar
-- 1.5 tablespoon freshly squeezed lime (or lemon juice)
-- 2 tablespoon fish sauce
+- 6 tbsp water
+- 2 tbsp sugar
+- 1.5 tbsp freshly squeezed lime (or lemon juice)
+- 2 tbsp fish sauce
 - 1 clove garlic (minced)
 - 1 bird's eye / thai chile (finely sliced)
 # ---

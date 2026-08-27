@@ -16,13 +16,13 @@ cook_time: '15'
 total_time: '25'
 ingredients:
 - 3 weet-bix biscuits
-- 85 gram desiccated coconut
-- 120 gram caster sugar
-- 150 gram self-raising flour
+- 85 g desiccated coconut
+- 120 g caster sugar
+- 150 g self-raising flour
 - 20.00 gm cocoa powder
-- 150 gram salted butter
+- 150 g salted butter
 - 4.40 gm vanilla essence
-- 375.00 milliliter soft icing mixture
+- 375.00 mL soft icing mixture
 - extra 10.00 gm cocoa powder
 - 40.00 gm hot water
 # ---

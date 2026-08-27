@@ -19,13 +19,13 @@ ingredients:
 - 3/4 cup plain flour ((all purpose flour))
 - 1/4 cup rice flour ((or cornstarch/cornflour) (note 1))
 - 1/2 cup icing sugar / powdered sugar (sifted)
-- 1/4 teaspoon salt
-- 110 gram / 1 stick unsalted butter (cold, cut into 1cm / 1/2" cubes)
+- 1/4 tsp salt
+- 110 g / 1 stick unsalted butter (cold, cut into 1cm / 1/2" cubes)
 - 'LEMON CURD TOPPING:'
-- 3 large eggs ((55-60 gram /2 ounce each))
+- 3 large eggs ((55-60 g /2 oz each))
 - 1 cup caster sugar / super-fine sugar ((sub regular sugar))
-- 2 tablespoon plain flour ((all purpose flour))
-- 1 tablespoon lemon zest ((do this before juicing))
+- 2 tbsp plain flour ((all purpose flour))
+- 1 tbsp lemon zest ((do this before juicing))
 - 1/2 cup lemon juice ((2 - 3 lemons))
 # ---
 directions:

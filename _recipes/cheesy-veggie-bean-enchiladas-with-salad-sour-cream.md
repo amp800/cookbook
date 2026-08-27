@@ -19,12 +19,12 @@ ingredients:
 - 1 tin red kidney beans
 - 1 tin sweetcorn
 - 1/4 cup water
-- 20 gram butter
+- 20 g butter
 - 1 box diced tomatoes with garlic & onion
-- 1 teaspoon brown sugar
+- 1 tsp brown sugar
 - 6 mini flour tortillas
 - 1 cucumber
-- 1/2 teaspoon honey
+- 1/2 tsp honey
 - 1 drizzle white wine vinegar
 - 1 bag mixed salad leaves
 - 1 packet light sour cream

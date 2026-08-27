@@ -15,15 +15,15 @@ prep_time: '10'
 cook_time: '15'
 total_time: '25'
 ingredients:
-- 4 salmon fillets (180 gram /6 ounce each preferably skinless (note 1))
+- 4 salmon fillets (180 g /6 oz each preferably skinless (note 1))
 - 2 garlic cloves (finely grated)
-- 2 teaspoon ginger (finely grated)
+- 2 tsp ginger (finely grated)
 - 1 lemongrass (peeled, finely grated (note 2))
-- 1 tablespoon brown sugar
-- 1 teaspoon chilli garlic paste (or other chilli paste, adjust to taste (note 3))
-- 400 gram /14 ounce coconut milk ((note 2))
-- 1 tablespoon fish sauce ((or soy sauce))
-- 2 teaspoon lime zest ((1 lime))
+- 1 tbsp brown sugar
+- 1 tsp chilli garlic paste (or other chilli paste, adjust to taste (note 3))
+- 400 g /14 oz coconut milk ((note 2))
+- 1 tbsp fish sauce ((or soy sauce))
+- 2 tsp lime zest ((1 lime))
 - lime juice (to taste)
 - fresh coriander/cilantro leaves (finely chopped (recommended))
 - finely sliced large red chillies ((optional))

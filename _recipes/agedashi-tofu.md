@@ -16,15 +16,15 @@ prep_time: '15'
 cook_time: '15'
 total_time: '30'
 ingredients:
-- 1 block medium-firm tofu (momen dofu) (14 ounce, 397 gram ; (or use silken tofu) 14 397)
+- 1 block medium-firm tofu (momen dofu) (14 oz, 397 g ; (or use silken tofu) 14 397)
 - 2 green onions/scallions
 - 2 inches daikon radish
-- 1 teaspoon ginger (grated)
+- 1 tsp ginger (grated)
 - 1 cup dashi (japanese soup stock) (use standard awase dashi, dashi packet (or powder)
-- 2 tablespoon soy sauce
-- 2 tablespoon mirin
+- 2 tbsp soy sauce
+- 2 tbsp mirin
 - 2 cups neutral oil (enough for 1 inch (2.5 cm) of oil in the pot)
-- 4 tablespoon potato starch (or cornstarch)
+- 4 tbsp potato starch (or cornstarch)
 # ---
 directions:
 - Gather all the ingredients. If this is your first time making this dish, use medium-firm tofu instead of the soft silken

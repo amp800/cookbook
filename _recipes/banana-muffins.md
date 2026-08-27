@@ -15,9 +15,9 @@ cook_time: '25'
 total_time: '35'
 ingredients:
 - 1.5 cups all-purpose flour
-- 1 teaspoon baking powder
-- 1 teaspoon baking soda
-- 0.5 teaspoon salt
+- 1 tsp baking powder
+- 1 tsp baking soda
+- 0.5 tsp salt
 - 3 large bananas, mashed
 - 0.75 cup white sugar
 - 1 egg

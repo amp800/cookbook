@@ -15,16 +15,16 @@ prep_time: '20'
 cook_time: '60'
 total_time: '80'
 ingredients:
-- 3/4 cup granulated sugar (144 gram)
-- 4 ounce unsalted butter (room temperature, 113 gram)
+- 3/4 cup granulated sugar (144 g)
+- 4 oz unsalted butter (room temperature, 113 g)
 - 4 large eggs
-- 1 teaspoon pure vanilla extract
-- 1 teaspoon pure almond extract
-- 2 1/2 cup almond flour (280 gram, packed)
-- 1 teaspoon baking powder
-- 1/4 teaspoon kosher salt
+- 1 tsp pure vanilla extract
+- 1 tsp pure almond extract
+- 2 1/2 cup almond flour (280 g, packed)
+- 1 tsp baking powder
+- 1/4 tsp kosher salt
 - 2 medium pears (cored & sliced)
-- 1 - 2 tablespoon sliced almonds (for topping, optional)
+- 1 - 2 tbsp sliced almonds (for topping, optional)
 # ---
 directions:
 - Preheat the oven to 180°C.

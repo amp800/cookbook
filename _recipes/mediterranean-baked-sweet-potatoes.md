@@ -15,23 +15,23 @@ prep_time: '5'
 cook_time: '25'
 total_time: '30'
 ingredients:
-- 4 medium (~1/3 pound each) sweet potatoes*
-- 1 15-ounce can chickpeas ((rinsed and drained))
-- 1/2 tablespoon olive oil
+- 4 medium (~1/3 lb each) sweet potatoes*
+- 1 15-oz can chickpeas ((rinsed and drained))
+- 1/2 tbsp olive oil
 - 1/2 tsp ground cumin
 - 1/2 tsp ground coriander
 - 1/2 tsp ground cinnamon
-- 1/2 teaspoon each cumin, coriander, cinnamon, smoked (or regular) paprika
+- 1/2 tsp each cumin, coriander, cinnamon, smoked (or regular) paprika
 - 1 pinch sea salt (or lemon juice ((optional)))
 - 1/4 cup hummus ((or tahini))
-- 1/2 medium lemon, juiced ((1/2 lemon yields ~1 tablespoon juice))
-- 3/4 - 1 teaspoon dried dill ((or sub 2-3 teaspoon fresh per 3/4-1 teaspoon dried))
-- 3 cloves garlic, minced ((3 cloves yield ~1 1/2 tablespoon (or 9 gram)))
+- 1/2 medium lemon, juiced ((1/2 lemon yields ~1 tbsp juice))
+- 3/4 - 1 tsp dried dill ((or sub 2-3 tsp fresh per 3/4-1 tsp dried))
+- 3 cloves garlic, minced ((3 cloves yield ~1 1/2 tbsp (or 9 g)))
 - water (or unsweetened almond milk ((to thin)))
 - 1/4 cup cherry tomatoes ((diced))
 - 1/4 cup chopped parsley ((minced))
-- 3 tablespoon finely chopped red onion
-- 2 tablespoon lemon juice
+- 3 tbsp finely chopped red onion
+- 2 tbsp lemon juice
 - chili garlic sauce
 # ---
 directions:

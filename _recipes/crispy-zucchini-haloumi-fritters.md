@@ -16,30 +16,30 @@ yield: 4 servings
 prep_time: '10'
 ingredients:
 - 2 large zucchinis (grated)
-- 1 teaspoon sea salt flakes
-- 1 tablespoon olive oil + extra for frying the fritters
+- 1 tsp sea salt flakes
+- 1 tbsp olive oil + extra for frying the fritters
 - 2 large garlic cloves (minced)
 - 3 spring onion (thinly sliced)
-- 180 gram halloumi cheese (grated)
-- 1 teaspoon dried oregano
-- 1 teaspoon dried thyme
-- 1 teaspoon dried basil
-- 1 teaspoon smoked paprika
+- 180 g halloumi cheese (grated)
+- 1 tsp dried oregano
+- 1 tsp dried thyme
+- 1 tsp dried basil
+- 1 tsp smoked paprika
 - freshly crushed black pepper
 - 1 egg (whisked)
-- 1/2 teaspoon baking powder
+- 1/2 tsp baking powder
 - 1/2 cup plain flour
 # ---
 directions:
 - Place grated zucchini in a large sieve over a bowl. Sprinkle with the salt and toss gently to thoroughly mix zucchini and
   salt. Set aside for 10-15 minutes. Press down on the zucchini in the sieve or grab handfuls and squeeze out the water. Do
   this a few times till you feel zucchini is quite dry and squeezing doesn’t release water anymore.
-- Heat a tablespoon of oil in a frying pan. Add garlic and spring onion. Sauté for a minute or two until spring onion is wilted.
+- Heat a tbsp of oil in a frying pan. Add garlic and spring onion. Sauté for a minute or two until spring onion is wilted.
   Remove from heat. Scoop into a large bowl.
 - Add squeezed zucchini and grated halloumi to the bowl. Add oregano, thyme, basil, smoked paprika, black pepper and egg.
   Mix well.
 - Add baking powder and flour to the bowl and gently mix until just combined.
-- Heat a tablespoon of oil in a large frying pan on medium-low heat. Scoop one-third cup of the fritter batter onto the hot
+- Heat a tbsp of oil in a large frying pan on medium-low heat. Scoop one-third cup of the fritter batter onto the hot
   pan. Add up to 2-3 more fritters depending on the size of your pan. Cook each side for 3-4 minutes until golden. Reduce
   heat to medium-low or low and cook each side for a further 3-4 minutes (this helps dry out the fritter and firm it up).
   When cooked through and crispy, remove the fritter onto a plate lined with paper towel. Repeat with the remaining batter.

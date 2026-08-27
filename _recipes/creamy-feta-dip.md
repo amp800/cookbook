@@ -14,17 +14,17 @@ yield: 8 servings
 prep_time: '10'
 ingredients:
 - 'CREAMY FETA DIP:'
-- 400 gram / 10 ounce danish feta (at room temp (ie the creamy sort, not crumbly greek sort, note 1))
-- 125 gram / 4 ounce cream cheese (at room temp, full fat (note 2))
-- 1/4 teaspoon garlic (crushed using garlic press (note 3))
-- 1 1/2 teaspoon lemon zest (optional)
-- 1/4 teaspoon cooking/kosher salt
-- 3 tablespoon extra virgin olive oil
+- 400 g / 10 oz danish feta (at room temp (ie the creamy sort, not crumbly greek sort, note 1))
+- 125 g / 4 oz cream cheese (at room temp, full fat (note 2))
+- 1/4 tsp garlic (crushed using garlic press (note 3))
+- 1 1/2 tsp lemon zest (optional)
+- 1/4 tsp cooking/kosher salt
+- 3 tbsp extra virgin olive oil
 - 'TOPPINGS:'
-- 3 tablespoon honey
-- 1 tablespoon extra virgin olive oil
-- 2 tablespoon pistachios (roughly chopped)
-- 1/2 teaspoon parsley (finely minced)
+- 3 tbsp honey
+- 1 tbsp extra virgin olive oil
+- 2 tbsp pistachios (roughly chopped)
+- 1/2 tsp parsley (finely minced)
 - pinch of chilli / red pepper flakes (optional)
 - sprinkle of lemon zest (optional)
 - 'DIPPING OPTIONS:'

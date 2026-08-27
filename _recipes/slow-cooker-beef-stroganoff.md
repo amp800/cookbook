@@ -13,22 +13,22 @@ description: 'The slow cooked version of Beef Stroganoff! Fall apart beef smothe
 yield: 6 servings
 prep_time: '15'
 ingredients:
-- 1.75 kilogram / 3.5 pound beef chuck (or other stewing beef (), cut in 4cm / 1.5” cube (note 1))
+- 1.75 kg / 3.5 lb beef chuck (or other stewing beef (), cut in 4cm / 1.5” cube (note 1))
 - 1 1/2 tsp salt
-- 1.5 teaspoon each salt and pepper
-- 2 tablespoon oil
-- 20 gram / 1 tablespoon butter (unsalted)
+- 1.5 tsp each salt and pepper
+- 2 tbsp oil
+- 20 g / 1 tbsp butter (unsalted)
 - 1 large onion (halved then sliced into 1 cm / 2/5" slices)
 - 4 garlic cloves (minced)
-- 7 tablespoon flour (plain / all purpose)
-- 4 tablespoon dijon mustard
-- 1 litre / 1 quart beef stock/broth (reduced salt)
+- 7 tbsp flour (plain / all purpose)
+- 4 tbsp dijon mustard
+- 1 L / 1 quart beef stock/broth (reduced salt)
 - 1 1/2 cups sour cream (full fat best)
-- 3 tablespoon / 45 gram butter (unsalted)
-- 700 gram / 1.2 pound mushrooms (sliced into 0.5cm thick slices)
+- 3 tbsp / 45 g butter (unsalted)
+- 700 g / 1.2 lb mushrooms (sliced into 0.5cm thick slices)
 - 3 garlic cloves (finely minced)
 - 1/2 tsp salt
-- 1/2 teaspoon salt and pepper
+- 1/2 tsp salt and pepper
 - pasta, wide egg noodles, mashed potato
 - chives for garnish
 # ---

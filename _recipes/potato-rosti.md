@@ -15,12 +15,12 @@ description: If you want crispy and deep golden instead instead of burnt, don't 
 yield: 4 servings
 prep_time: '10'
 ingredients:
-- '1 kilogram / 2 pound potatoes (skin on weight) (- aus: sebago (dirt brushed), us: yukon gold, russet, uk: maris piper,
+- '1 kg / 2 lb potatoes (skin on weight) (- aus: sebago (dirt brushed), us: yukon gold, russet, uk: maris piper,
   king edwards (note 1))'
-- 3/4 teaspoon salt (kosher/cooking salt (or 1/2 teaspoon table salt))
-- 1/2 teaspoon finely ground black pepper
-- 15 gram / 1 tablespoon clarified butter / ghee (or normal butter (), melted (note 2))
-- 60 gram / 4 tablespoon clarified butter / ghee (separated (sub half butter, half vegetable oil) (note 2))
+- 3/4 tsp salt (kosher/cooking salt (or 1/2 tsp table salt))
+- 1/2 tsp finely ground black pepper
+- 15 g / 1 tbsp clarified butter / ghee (or normal butter (), melted (note 2))
+- 60 g / 4 tbsp clarified butter / ghee (separated (sub half butter, half vegetable oil) (note 2))
 # ---
 directions:
 - 'GRATE & SQUEEZE:'

@@ -19,39 +19,39 @@ cook_time: '75'
 total_time: '90'
 ingredients:
 - 'EGGPLANT:'
-- 2 x 250 gram /8 ounce eggplants ((aubergines), ~17cm/7" long (note 1))
-- 3/4 teaspoon cooking salt / kosher salt
-- 1 tablespoon extra virgin olive oil
-- 1 tablespoon lemon juice ((or more oil))
+- 2 x 250 g /8 oz eggplants ((aubergines), ~17cm/7" long (note 1))
+- 3/4 tsp cooking salt / kosher salt
+- 1 tbsp extra virgin olive oil
+- 1 tbsp lemon juice ((or more oil))
 - 'CHERMOULA SPICE MIX (NOTE 2):'
-- 1 1/2 teaspoon each coriander, paprika
+- 1 1/2 tsp each coriander, paprika
 - 1 1/2 tsp paprika
-- 1 teaspoon cumin
-- 3/4 teaspoon all spice powder
-- 1/2 teaspoon each garlic powder, ginger, turmeric powder
+- 1 tsp cumin
+- 3/4 tsp all spice powder
+- 1/2 tsp each garlic powder, ginger, turmeric powder
 - 1/2 tsp ginger
 - 1/2 tsp ground turmeric
-- 1/4 teaspoon cinnamon
-- 1/4 teaspoon cayenne pepper
+- 1/4 tsp cinnamon
+- 1/4 tsp cayenne pepper
 - 'SPICED BEEF OR LAMB TOPPING:'
-- 1 tablespoon olive oil
+- 1 tbsp olive oil
 - 1 garlic clove (finely minced)
 - 1/2 onion (finely chopped)
-- 250 gram / 8 ounce beef (or lamb mince (), lean if you can (chicken turkey pork also ok))
-- 1/2 teaspoon cooking/kosher salt
-- 2 teaspoon tomato paste ((note 3))
+- 250 g / 8 oz beef (or lamb mince (), lean if you can (chicken turkey pork also ok))
+- 1/2 tsp cooking/kosher salt
+- 2 tsp tomato paste ((note 3))
 - 1/4 cup water
 - 'TO SERVE:'
 - yoghurt (plain)
-- 2 tablespoon coriander/cilantro leaves (roughly chopped (sub parsley))
-- 2 tablespoon pinenuts (toasted (note 4))
+- 2 tbsp coriander/cilantro leaves (roughly chopped (sub parsley))
+- 2 tbsp pinenuts (toasted (note 4))
 # ---
 directions:
 - Preheat oven to 180°C (160°C fan).
 - Sweat eggplants (recommended, see Note 5 to skip) - Cut eggplants in half then score with 2.5cm diamonds. Rub surface with
   salt, getting some into the slits. Place face down in a colander and set aside for 30 minutes. Gently squeeze like a sponge
   to remove excess water, pat surface dry.
-- Mix Chermoula spice mix ingredients in a bowl. Remove 3 teaspoons for the meat and set aside. Add olive oil and lemon juice
+- Mix Chermoula spice mix ingredients in a bowl. Remove 3 tsp for the meat and set aside. Add olive oil and lemon juice
   into the remaining spice mix and mix into a paste.
 - Roast eggplant - Place eggplant on baking tray. Slather spice mix onto the surface. Roast for 45 minutes until softened.
 - Spiced topping - Heat oil in a non stick skillet over medium high heat. Cook onion and garlic for 1 minute. Turn heat up

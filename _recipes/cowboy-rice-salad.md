@@ -20,18 +20,18 @@ ingredients:
 - 'DRESSING:'
 - 1/3 cup lime juice (plus more to taste)
 - 1/2 cup olive oil
-- 1 1/2 tablespoon honey
-- 1/2 teaspoon chipotle powder ((sub with smoked paprika + cayenne pepper))
-- 1/2 teaspoon cumin powder
-- 1/2 teaspoon garlic powder ((or 1 garlic clove, minced))
-- 3/4 teaspoon salt
+- 1 1/2 tbsp honey
+- 1/2 tsp chipotle powder ((sub with smoked paprika + cayenne pepper))
+- 1/2 tsp cumin powder
+- 1/2 tsp garlic powder ((or 1 garlic clove, minced))
+- 3/4 tsp salt
 - black pepper
 - 'SALAD:'
 - 1 red capsicum/bell pepper (diced)
 - 1 green capsicum/bell pepper (diced)
 - 1 small red onion (chopped)
-- 1 x 400 gram (14 ounce) corn kernels (drained)
-- 1 x 400 gram (14 ounce) black beans (drained and rinsed)
+- 1 x 400 g (14 oz) corn kernels (drained)
+- 1 x 400 g (14 oz) black beans (drained and rinsed)
 - 3 tomatoes (watery seeds removed then diced)
 - 1 cup coriander/cilantro leaves (roughly chopped (note 2))
 # ---

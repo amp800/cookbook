@@ -14,18 +14,18 @@ description: These cinnamon rolls can be found in every cafe, where they’re ea
 yield: 30 servings
 prep_time: '55'
 ingredients:
-- 500 milliliter (2 cups) lukewarm full-cream milk
-- 16 gram dried yeast
-- 180 gram white sugar
-- 1 1/2 teaspoon fine sea salt
-- 1 tablespoon ground cardamom (preferably freshly ground)
+- 500 mL (2 cups) lukewarm full-cream milk
+- 16 g dried yeast
+- 180 g white sugar
+- 1 1/2 tsp fine sea salt
+- 1 tbsp ground cardamom (preferably freshly ground)
 - 2 eggs
-- 1 kilogram (6 2/3 cups) strong (bread) flour
-- 170 gram unsalted butter, chopped, softened
+- 1 kg (6 2/3 cups) strong (bread) flour
+- 170 g unsalted butter, chopped, softened
 - pearl sugar, to sprinkle
-- 150 gram unsalted butter, softened
-- 85 gram white sugar
-- 1 1/4 tablespoon ground cinnamon
+- 150 g unsalted butter, softened
+- 85 g white sugar
+- 1 1/4 tbsp ground cinnamon
 # ---
 directions:
 - To make the dough, in the bowl of a stand mixer, combine the milk, yeast and 1 tsp sugar and set aside for 10 minutes or

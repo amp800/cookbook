@@ -14,20 +14,20 @@ description: This is a great way to use pumpkin that ticks a lot of boxes - it's
 yield: 4 servings
 prep_time: '10'
 ingredients:
-- 1.2 kilogram / 2.4 pound pumpkin (skin on seeds in weight (or butternut squash (or sweet potato), note 1))
-- 2 tablespoon extra virgin olive oil
+- 1.2 kg / 2.4 lb pumpkin (skin on seeds in weight (or butternut squash (or sweet potato), note 1))
+- 2 tbsp extra virgin olive oil
 - 1 garlic clove (finely minced using garlic press)
 - 1/2 tsp salt
-- 1/2 teaspoon each salt and pepper
+- 1/2 tsp each salt and pepper
 - 3/4 cup greek yogurt ((or other plain, non sweet yogurt))
 - 1/2 small garlic clove (finely minced using garlic press)
-- 1 tablespoon lemon juice
-- 1 tablespoon extra virgin olive oil
+- 1 tbsp lemon juice
+- 1 tbsp extra virgin olive oil
 - 1/4 tsp salt
-- 1/4 teaspoon each salt and pepper
-- 2 tablespoon pine nuts ((or other nuts of choice))
-- 2 tablespoon fresh coriander/cilantro leaves (roughly chopped (or parsley))
-- 1/8 teaspoon sumac ((paprika (or other theme appropriate spice), note 2))
+- 1/4 tsp each salt and pepper
+- 2 tbsp pine nuts ((or other nuts of choice))
+- 2 tbsp fresh coriander/cilantro leaves (roughly chopped (or parsley))
+- 1/8 tsp sumac ((paprika (or other theme appropriate spice), note 2))
 # ---
 directions:
 - 'ROAST PUMPKIN:'

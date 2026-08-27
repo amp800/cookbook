@@ -16,24 +16,24 @@ prep_time: '10'
 cook_time: '20'
 total_time: '30'
 ingredients:
-- 3 tablespoon coconut oil (vegetable (or canola oil (note 1)))
+- 3 tbsp coconut oil (vegetable (or canola oil (note 1)))
 - 3 star anise
 - 1 cinnamon stick
 - 1 onion (finely diced)
-- 500 gram / 1 pound chicken thigh fillets (cut into small 1cm / 1/3" slices (note 2 options!))
-- 1 teaspoon garlic (finely grated)
-- 1 teaspoon ginger (finely grated)
-- 3 teaspoon turmeric (finely grated (sub 1 1/2 teaspoon powder, note 3))
+- 500 g / 1 lb chicken thigh fillets (cut into small 1cm / 1/3" slices (note 2 options!))
+- 1 tsp garlic (finely grated)
+- 1 tsp ginger (finely grated)
+- 3 tsp turmeric (finely grated (sub 1 1/2 tsp powder, note 3))
 - 2 cups chicken stock/broth (low sodium)
-- 400 gram / 14 ounce coconut cream (unsweetened (sub coconut milk, note 4))
+- 400 g / 14 oz coconut cream (unsweetened (sub coconut milk, note 4))
 - 1 large head broccoli (florets cut small (can use stem too - peel & dice), (or other veg (4 heaped cups)))
 - 1 cup coriander/cilantro leaves (lightly packed, plus extra for garnish (i'd still make without this))
 - 'SPICE MIX:'
-- 1 1/2 teaspoon cooking/kosher salt
-- 1 1/2 teaspoon garam masala ((note 5))
-- 1 1/2 teaspoon coriander powder
-- 1/2 teaspoon cumin powder
-- 1/2 teaspoon fennel powder ((sub more garam masala))
+- 1 1/2 tsp cooking/kosher salt
+- 1 1/2 tsp garam masala ((note 5))
+- 1 1/2 tsp coriander powder
+- 1/2 tsp cumin powder
+- 1/2 tsp fennel powder ((sub more garam masala))
 - 'SERVING:'
 - crispy fried shallots (store bought, for garnish (note 6))
 - rice

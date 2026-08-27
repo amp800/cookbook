@@ -15,14 +15,14 @@ prep_time: '5'
 cook_time: '15'
 total_time: '20'
 ingredients:
-- 2 cups / 300 gram plain / all purpose flour ((note 1))
-- 4 teaspoon baking powder ((note 1))
-- 1/4 cup / 55 gram white sugar ((caster / super fine is best but not essential))
+- 2 cups / 300 g plain / all purpose flour ((note 1))
+- 4 tsp baking powder ((note 1))
+- 1/4 cup / 55 g white sugar ((caster / super fine is best but not essential))
 - pinch of salt
 - 1 egg
-- 1 3/4 cups / 435 milliliter cups milk ((any type, any fat %))
-- 1 teaspoon vanilla extract (or essence)
-- 4 teaspoon butter (for cooking)
+- 1 3/4 cups / 435 mL cups milk ((any type, any fat %))
+- 1 tsp vanilla extract (or essence)
+- 4 tsp butter (for cooking)
 # ---
 directions:
 - Place flour, baking powder, sugar and salt in a bowl, whisk to combine.

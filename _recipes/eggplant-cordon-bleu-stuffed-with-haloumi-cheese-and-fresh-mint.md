@@ -16,19 +16,19 @@ yield: 6 servings
 ingredients:
 - 1 large, longish eggplant
 - 12 mint leaves
-- 100 grams (3 1/2 ounces) haloumi, thinly sliced
-- 125 grams (4 1/2 ounces) plain flour
-- 100 grams (3 1/2 ounces) fresh bread crumbs (i used dried panko bread crumbs)
-- 1 teaspoon za’atar (optional)
+- 100 g (3 1/2 oz) haloumi, thinly sliced
+- 125 g (4 1/2 oz) plain flour
+- 100 g (3 1/2 oz) fresh bread crumbs (i used dried panko bread crumbs)
+- 1 tsp za’atar (optional)
 - 2 eggs lightly beaten with a little bit of water
-- 60 mls (2 fluid ounce) of olive oil
+- 60 mls (2 fluid oz) of olive oil
 - salt
 - salt and pepper
-- 150 grams (5 ounces) plain yoghurt
-- 3 tablespoons of tahini sauce, well served
-- 1 clove of garlic, crushed with 1/2 teaspoon of salt
+- 150 g (5 oz) plain yoghurt
+- 3 tbsp of tahini sauce, well served
+- 1 clove of garlic, crushed with 1/2 tsp of salt
 - juice of 1 lemon
-- 1/2 teaspoon pepper
+- 1/2 tsp pepper
 # ---
 directions:
 - 'EGGPLANET ‘CORDON BLEU’:'

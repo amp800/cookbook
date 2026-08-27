@@ -15,21 +15,21 @@ prep_time: '15'
 cook_time: '0'
 total_time: '15'
 ingredients:
-- 2 tablespoon light soy sauce ((note 1))
-- 3 tablespoon rice vinegar ((aka rice wine vinegar, (or use cider vinegar)))
-- 1 tablespoon sesame oil (toasted)
-- 2 tablespoon grapeseed oil ((or canola (or any other neutral flavored oil)))
-- 1 teaspoon sugar
-- 1 1/2 teaspoon fresh ginger (grated (or very finely chopped))
+- 2 tbsp light soy sauce ((note 1))
+- 3 tbsp rice vinegar ((aka rice wine vinegar, (or use cider vinegar)))
+- 1 tbsp sesame oil (toasted)
+- 2 tbsp grapeseed oil ((or canola (or any other neutral flavored oil)))
+- 1 tsp sugar
+- 1 1/2 tsp fresh ginger (grated (or very finely chopped))
 - 1 garlic clove (minced)
-- 1/2 teaspoon black pepper
+- 1/2 tsp black pepper
 - 4 cups chinese cabbage ((nappa cabbage), finely shredded (note 2))
 - 1 1/2 cups red cabbage (finely shredded)
 - 1 cup carrot (finely julienned (see video))
 - 2 cups chicken (shredded)
 - 1/2 cup shallots / scallions (finely sliced on the diagonal)
 - 1/2 to 1 cup crunchy noodles ((i use chang's) (note 3))
-- 1 - 2 teaspoon sesame seeds
+- 1 - 2 tsp sesame seeds
 # ---
 directions:
 - Combine the Dressing ingredients in a jar and shake. Set aside for 10 minutes or so for the flavours to meld.

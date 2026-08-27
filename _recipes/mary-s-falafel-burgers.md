@@ -13,27 +13,27 @@ description: Pair these golden-brown vegetarian falafel burger patties with a cr
 yield: 4 servings
 prep_time: '10'
 ingredients:
-- 1 cup (175 gram) dry chickpeas, soaked overnight
+- 1 cup (175 g) dry chickpeas, soaked overnight
 - 3 garlic cloves, smashed
 - 4 green onions, roughly chopped
 - 1 handful parsley
 - 1 handful coriander (cilantro) leaves
 - 1 lemon, zested
-- 1/2 teaspoon crushed red pepper flakes
-- 2 1/2 teaspoon ground cumin
-- 1 teaspoon kosher salt
-- 1 teaspoon baking powder
+- 1/2 tsp crushed red pepper flakes
+- 2 1/2 tsp ground cumin
+- 1 tsp kosher salt
+- 1 tsp baking powder
 - 1/4 cup (or more if needed) plain (all-purpose) flour
 - 1 1/2-2 cups canola oil
 - 1/4 red onion, thinly sliced
 - 1/4 cup red (or white wine vinegar)
-- 1/2 teaspoon sugar
+- 1/2 tsp sugar
 - kosher salt
 - 1/2 cup tahini
 - 1 garlic clove, finely minced
 - 1 lemon, juiced
-- 45-60 milliliter water, more if needed
-- 1/4 teaspoon ground cumin
+- 45-60 mL water, more if needed
+- 1/4 tsp ground cumin
 - 4 burger (or pita buns)
 - sprouts (or lettuce)
 - sliced cucumbers
@@ -45,12 +45,12 @@ directions:
   lemon zest, red pepper flakes, cumin and salt. Pulse 6 to 8 times or until finely chopped and well blended. Sprinkle the
   baking powder and ¼ cup of flour over the chickpea mixture and pulse 2 to 3 more times to combine. Test the falafel mixture
   by picking some up and squeezing it into a small ball with your hands. The mixture shouldn’t be too sticky and should just
-  hold together. If the mixture easily falls apart, add another tablespoon or two of flour and pulse to combine.
+  hold together. If the mixture easily falls apart, add another tbsp or two of flour and pulse to combine.
 - Transfer the mixture to a bowl or container, cover, and place in the fridge for at least one hour or up to 24 hours. This
   allows the starch for the beans to come out, allowing the mixture to hold together while frying.
 - Meanwhile, prepare the toppings for the burgers. Lightly pickle the red onions by tossing them with the vinegar, sugar and
-  ½ teaspoon of salt in a small bowl and set aside for at least 20 minutes. In a separate bowl, whisk together the tahini,
-  garlic, lemon juice, cumin, and 2 tablespoons of water and season with salt. If needed, add another tablespoon of water
+  ½ tsp of salt in a small bowl and set aside for at least 20 minutes. In a separate bowl, whisk together the tahini,
+  garlic, lemon juice, cumin, and 2 tbsp of water and season with salt. If needed, add another tbsp of water
   to reach a saucy consistency. Set out the buns, sprouts or lettuce, tomato, and feta for assembly.
 - After the falafel mixture has chilled, divide into four equal pieces and shape into burgers roughly the same size as your
   buns.

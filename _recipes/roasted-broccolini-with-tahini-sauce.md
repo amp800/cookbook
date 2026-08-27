@@ -15,18 +15,18 @@ description: I think that roasting is the best way to cook broccolini. It brings
 yield: 4 servings
 prep_time: '10'
 ingredients:
-- 500 gram broccolini (ends trimmed (3 standard bunches in australia)
-- 1 tablespoon extra virgin olive oil
+- 500 g broccolini (ends trimmed (3 standard bunches in australia)
+- 1 tbsp extra virgin olive oil
 - 1/4 tsp pepper
-- 1/4 teaspoon each salt and pepper
+- 1/4 tsp each salt and pepper
 - 1 garlic clove (finely minced)
 - 1/4 cup tahini
-- 2.5 tablespoon water
-- 1.5 teaspoon honey
-- 1 tablespoon lemon juice
+- 2.5 tbsp water
+- 1.5 tsp honey
+- 1 tbsp lemon juice
 - 1/2 garlic clove (pressed through garlic crusher (or grated using microplan (to make sauce smooth))
 - 1/4 tsp pepper
-- 1/4 teaspoon each salt and pepper
+- 1/4 tsp each salt and pepper
 - 1/4 cup flaked almonds, pine nuts (or pistachios (), toasted (note 2)
 # ---
 directions:

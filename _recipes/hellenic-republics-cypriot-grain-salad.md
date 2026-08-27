@@ -19,13 +19,13 @@ ingredients:
 - 1/2 red onion, finely diced
 - 1 cup freekah (or cracked wheat (or quinoa))
 - 1/2 cup puy lentils
-- 2 tablespoon toasted pumpkin seeds
-- 2 tablespoon toasted slivered almonds
-- 2 tablespoon toasted pine nuts
-- 2 tablespoon baby capers
+- 2 tbsp toasted pumpkin seeds
+- 2 tbsp toasted slivered almonds
+- 2 tbsp toasted pine nuts
+- 2 tbsp baby capers
 - 1/2 cup currants
 - juice of 1 lemon
-- 3 tablespoon extra virgin olive
+- 3 tbsp extra virgin olive
 - sea salt to taste
 - 1 pomegranate, deseeded, to serve
 - 1 cup Greek yoghurt

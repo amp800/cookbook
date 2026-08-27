@@ -13,22 +13,22 @@ yield: 2 servings
 prep_time: '25'
 ingredients:
 - 1 cauliflower
-- 1/2 cup (125 milliliter) olive oil
+- 1/2 cup (125 mL) olive oil
 - 1/4 cup zaatar spice
 - 1/2 cup parsley
 - 1/2 cup coriander (cilantro)
 - 3 garlic cloves
 - 6 green chillies
-- 1/2 teaspoon (2.5 milliliter) cumin
-- 1/2 teaspoon (2.5 milliliter) cardamom
-- 45 milliliter olive oil
+- 1/2 tsp (2.5 mL) cumin
+- 1/2 tsp (2.5 mL) cardamom
+- 45 mL olive oil
 - 1/2 lemon, juiced
 - 1/4 cup zhug (see recipe)
 - 1/4 cup pomegranate seeds
 - 1/4 cup tahini
 - 1/4 cup pine nuts, toasted
 - 1/2 lemon, juiced
-- 2 tablespoon parsley, chopped
+- 2 tbsp parsley, chopped
 - olive oil
 # ---
 directions:

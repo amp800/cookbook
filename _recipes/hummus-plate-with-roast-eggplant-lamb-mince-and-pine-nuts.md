@@ -12,16 +12,16 @@ description: This combination of spiced lamb mince and roast eggplant freezes su
 yield: 4 servings
 ingredients:
 - 1 large eggplant, diced into pieces the size of playing dice
-- 1 tablespoon olive oil
-- 500 gram lamb mince (can also use beef)
-- 1 tablespoon ground cumin
-- 1 tablespoon ground coriander
-- 2 teaspoon ground cinnamon
-- 1 x 400 gram can of chickpeas, rinsed and drained
-- 3 tablespoon toasted pine nuts
+- 1 tbsp olive oil
+- 500 g lamb mince (can also use beef)
+- 1 tbsp ground cumin
+- 1 tbsp ground coriander
+- 2 tsp ground cinnamon
+- 1 x 400 g can of chickpeas, rinsed and drained
+- 3 tbsp toasted pine nuts
 - salt to taste
 - salt and dried chilli flakes to taste
-- 2 x 350 gram containers of hummus
+- 2 x 350 g containers of hummus
 - half a bunch of flat leaf parsley, roughly chopped
 - 'optional: arils from 1 pomegranate'
 # ---

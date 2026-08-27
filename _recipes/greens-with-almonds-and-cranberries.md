@@ -14,14 +14,14 @@ prep_time: '20'
 cook_time: '5'
 total_time: '25'
 ingredients:
-- 200 gram snow peas, ends trimmed
-- 200 gram green beans, ends trimmed, halved diagonally
-- 45 gram dried cranberry
+- 200 g snow peas, ends trimmed
+- 200 g green beans, ends trimmed, halved diagonally
+- 45 g dried cranberry
 - 1 lemon, zested, juiced
-- 100 gram marinated fetta, drained reserving 2 tablespoon oil
+- 100 g marinated fetta, drained reserving 2 tbsp oil
 - 14.40 gm honey
 - 11.80 gm dijon mustard
-- 25 gram almond
+- 25 g almond
 # ---
 directions:
 - Cook the snow peas and beans in a saucepan of boiling water for 2-3 mins or until bright green and tender crisp. Refresh

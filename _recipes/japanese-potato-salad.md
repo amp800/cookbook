@@ -12,15 +12,15 @@ description: In the RecipeTin world, no barbecue (Asian-themed or otherwise) hap
   salad.
 yield: 8 servings
 ingredients:
-- 800 gram (about 3 medium) sebago potatoes (or other starchy potatoes)
-- 90 gram cucumber, sliced 2mm thick
-- 90 gram onion, halved and sliced as thinly as you can
-- 90 gram carrot, peeled, cut into quarters lengthwise then into 2mm slices
-- 50 gram thinly sliced ham, cut into 3cm x 0.5cm rectangles
-- 6 tablespoon kewpie mayonnaise (or other whole egg mayonnaise)
-- 2 teaspoon dijon mustard
-- 1/4 teaspoon salt
-- 1/8 teaspoon white pepper
+- 800 g (about 3 medium) sebago potatoes (or other starchy potatoes)
+- 90 g cucumber, sliced 2mm thick
+- 90 g onion, halved and sliced as thinly as you can
+- 90 g carrot, peeled, cut into quarters lengthwise then into 2mm slices
+- 50 g thinly sliced ham, cut into 3cm x 0.5cm rectangles
+- 6 tbsp kewpie mayonnaise (or other whole egg mayonnaise)
+- 2 tsp dijon mustard
+- 1/4 tsp salt
+- 1/8 tsp white pepper
 - 2 boiled eggs, chopped into 0.5cm cubes
 # ---
 directions:
@@ -33,7 +33,7 @@ directions:
 - Bring a small saucepan of water to a boil over medium-high heat. Add carrots and cook for 3 minutes. Drain then set aside
   to cool.
 - Place potato, cucumber, onion, carrot, ham, mayonnaise, mustard, salt and pepper in a bowl. Mix well. Add egg, reserving
-  1 tablespoon to garnish. Gently mix through.
+  1 tbsp to garnish. Gently mix through.
 - Transfer potato salad into a serving bowl. Sprinkle over the remaining egg. Serve at room temperature. This will keep for
   4 or 5 days in the fridge.
 ---

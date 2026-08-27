@@ -15,18 +15,18 @@ prep_time: '15'
 cook_time: '35'
 total_time: '50'
 ingredients:
-- 280 gram / 9 ounce pitted dates (roughly chopped (note 1))
-- 1 teaspoon baking soda / bi carb soda
+- 280 g / 9 oz pitted dates (roughly chopped (note 1))
+- 1 tsp baking soda / bi carb soda
 - 1 cup boiling water
 - 1/4 cup brown sugar (loosely packed)
-- 80 gram / 6 tablespoon unsalted butter (softened)
+- 80 g / 6 tbsp unsalted butter (softened)
 - 2 eggs (at room temperature)
 - 1 1/4 cups plain flour ((all purpose flour))
-- 1 1/2 teaspoon baking powder
+- 1 1/2 tsp baking powder
 - 1 cup brown sugar (tightly packed)
 - 1 1/2 cups thickened cream ((heavy cream))
-- 1/2 teaspoon vanilla extract
-- 70 gram / 5 tablespoon unsalted butter
+- 1/2 tsp vanilla extract
+- 70 g / 5 tbsp unsalted butter
 - ice cream (or dolloping cream)
 # ---
 directions:

@@ -15,10 +15,10 @@ total_time: '5'
 ingredients:
 - 525.00 gm apple juice, chilled
 - 393.75 gm orange juice, chilled
-- 500.00 milliliter dry ginger ale, chilled
-- 750.00 milliliter lemonade, chilled
-- 165.00 milliliter vodka
-- 125 gram strawberries, hulled, diced
+- 500.00 mL dry ginger ale, chilled
+- 750.00 mL lemonade, chilled
+- 165.00 mL vodka
+- 125 g strawberries, hulled, diced
 - ice cubes, to serve
 # ---
 directions:

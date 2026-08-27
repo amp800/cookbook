@@ -14,8 +14,8 @@ cook_time: '480'
 total_time: '495'
 ingredients:
 - 2 cups whipping (or thickened cream (full fat)), cold
-- 2 tablespoons icing (powdered) sugar
-- 1 1/2 teaspoons vanilla extract
+- 2 tbsp icing (powdered) sugar
+- 1 1/2 tsp vanilla extract
 - 24 chocolate ripple biscuits (1 packet)
 - 1 Jar lemon curd
 - 1 Fruit lemon
@@ -26,7 +26,7 @@ directions:
   shape but the peaks will fall over.
 - Add the sugar and vanilla extract and beat through.
 - Whisk in lemon curd.
-- Spread 2-3 teaspoons of cream onto the back of one biscuit. Sandwich with a second biscuit and repeat until you have a stack
+- Spread 2-3 tsp of cream onto the back of one biscuit. Sandwich with a second biscuit and repeat until you have a stack
   of 6 biscuits.
 - Spread a little cream onto a serving platter, then place the stack of biscuits, sideways onto the cream. Repeat another
   3 times so you have 4 rows of 6 biscuits.

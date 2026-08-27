@@ -41,7 +41,7 @@ directions:
 - 1) dollop strawberry jam, then swirl into the batter using a toothpick, making a marbled pattern.
 - 2) sprinkle with blueberries.
 - 3) sprinkle with chocolate chips.
-- 4) whisk together melted butter, brown sugar, and cinnamon. Dollop teaspoons of the mixture, then swirl into the batter
+- 4) whisk together melted butter, brown sugar, and cinnamon. Dollop tsp of the mixture, then swirl into the batter
   using a toothpick, making a marbled pattern.
 - 'COOKING:'
 - Bake for 15 minutes until a toothpick inserted into the centre comes out clean and the pancake springs back to the touch.

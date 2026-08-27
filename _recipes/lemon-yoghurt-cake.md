@@ -12,18 +12,18 @@ prep_time: '40'
 cook_time: '50'
 total_time: '90'
 ingredients:
-- 125 milliliter (1/2 cup) vegetable oil
+- 125 mL (1/2 cup) vegetable oil
 - 3 eggs
 - 1 tbsp lemon zest
-- 2 lemons, juiced, plus 2 teaspoon finely grated lemon zest
-- 220 gram (1 cup) caster sugar
-- 300 gram (2 cups) self-raising flour, sifted
+- 2 lemons, juiced, plus 2 tsp finely grated lemon zest
+- 220 g (1 cup) caster sugar
+- 300 g (2 cups) self-raising flour, sifted
 - 1 tsp baking powder
 - 1 pinch salt
 - 1 tsp vanilla essence
-- 280 gram (1 cup) greek style yoghurt, plus extra, to serve
-- 110 gram (1/2 cup) caster sugar
-- 80 milliliter (1/3 cup) lemon juice
+- 280 g (1 cup) greek style yoghurt, plus extra, to serve
+- 110 g (1/2 cup) caster sugar
+- 80 mL (1/3 cup) lemon juice
 # ---
 directions:
 - Preheat oven to 160C. Grease pan ( 7inch round) then line base and side with baking paper.

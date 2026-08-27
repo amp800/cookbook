@@ -11,10 +11,10 @@ tags:
 yield: 6 servings
 prep_time: '5'
 ingredients:
-- 535 gram plain flour
-- 2 teaspoon instant yeast
-- 1.25 teaspoon table salt
-- 455 milliliters warm tap water
+- 535 g plain flour
+- 2 tsp instant yeast
+- 1.25 tsp table salt
+- 455 mL warm tap water
 # ---
 directions:
 - 'Mix Dough: Mix flour, yeast and salt in a large bowl. Add water, then use the handle of a wooden spoon to mix until all

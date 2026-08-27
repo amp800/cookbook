@@ -34,7 +34,7 @@ directions:
   but don't panic. Spread calmly with a rubber spatula until smooth.
 - Whisk the egg whites and cream of tartar until peaks form and then slowly whisk in 1 cup of sugar. Divide the whisked whites
   between the two sponge-filled tins, pouring or, more accurately, spreading the meringue straight on top of the cake batter.
-- Smooth one flat with a metal spatula; and with the back of a spoon, peak the other and sprinkle 1 teaspoon sugar over the
+- Smooth one flat with a metal spatula; and with the back of a spoon, peak the other and sprinkle 1 tsp sugar over the
   peaks. Put the tins into the oven for 20-25 minutes.
 - With a cake-tester, pierce the cake that has the flat meringue topping to check it's cooked all through. (It will have risen
   now but will fall back flattish later.) No sponge mixture should stick to the tester. Remove both cakes to a wire rack and

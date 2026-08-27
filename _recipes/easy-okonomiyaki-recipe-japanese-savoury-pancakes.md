@@ -16,18 +16,18 @@ total_time: '25'
 ingredients:
 - 4 bacon slices (sliced, fat & rind removed)
 - 2/3 cup plain flour / all purpose flour
-- 2 tablespoon cornstarch / cornflour
+- 2 tbsp cornstarch / cornflour
 - 1/2 cup warm water
-- 1 teaspoon dashi powder (dissolved in the warm water)
+- 1 tsp dashi powder (dissolved in the warm water)
 - 3 eggs
 - 1/4 cabbage (wombok / napa - finely shredded)
 - 1-2 spring onion / green onion (sliced (half for batter & half for garnish))
 - 1/2 cup corn (tinned)
-- 1 tablespoon vegetable oil (for cooking)
-- 2 tablespoon kewpie mayonnaise
-- 2 tablespoon okonomiyaki sauce
-- 1 teaspoon seaweed flakes / aonori
-- 1 teaspoon bonito flakes / katsuobushi
+- 1 tbsp vegetable oil (for cooking)
+- 2 tbsp kewpie mayonnaise
+- 2 tbsp okonomiyaki sauce
+- 1 tsp seaweed flakes / aonori
+- 1 tsp bonito flakes / katsuobushi
 # ---
 directions:
 - Fry the bacon until cooked through and crispy, then set aside to cool. No need to use oil here, as the bacon will release

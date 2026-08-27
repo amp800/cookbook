@@ -14,15 +14,15 @@ prep_time: '20'
 cook_time: '10'
 total_time: '30'
 ingredients:
-- 125 gram / 4 ounce chang's pad thai dried rice sticks ((note 1))
-- 1 1/2 tablespoon tamarind puree (not concentrate (note 2))
-- 3 tablespoon (packed) brown sugar
-- 2 tablespoon fish sauce ((note 3))
-- 1 1/2 tablespoon oyster sauce ((note 4))
-- 2 - 3 tablespoon vegetable (or canola oil)
+- 125 g / 4 oz chang's pad thai dried rice sticks ((note 1))
+- 1 1/2 tbsp tamarind puree (not concentrate (note 2))
+- 3 tbsp (packed) brown sugar
+- 2 tbsp fish sauce ((note 3))
+- 1 1/2 tbsp oyster sauce ((note 4))
+- 2 - 3 tbsp vegetable (or canola oil)
 - 1/2 onion (sliced (brown, yellow))
 - 2 garlic cloves (finely chopped)
-- 150 gram /5 ounce chicken breast (or thigh) (thinly sliced)
+- 150 g /5 oz chicken breast (or thigh) (thinly sliced)
 - 2 eggs (lightly whisked)
 - 1 1/2 cups of beansprouts
 - 1/2 cup firm tofu, cut into 3cm / 1 1/4" batons (see photo)

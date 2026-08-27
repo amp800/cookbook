@@ -16,15 +16,15 @@ prep_time: '10'
 cook_time: '100'
 total_time: '110'
 ingredients:
-- 150 gram / 10 tablespoon unsalted butter
-- 4 large eggs ((55-60 gram /2 ounce each), at room temp)
-- 1 teaspoon vanilla extract
+- 150 g / 10 tbsp unsalted butter
+- 4 large eggs ((55-60 g /2 oz each), at room temp)
+- 1 tsp vanilla extract
 - 3/4 cup caster sugar ((superfine sugar, note 2))
 - 1 1/2 cups almond meal ((ground almond, note 1))
-- 1/4 teaspoon cooking/kosher salt
-- 1 teaspoon baking powder
+- 1/4 tsp cooking/kosher salt
+- 1 tsp baking powder
 - '3/4 cup desiccated coconut ((us: finely shredded unsweetened coconut))'
-- 1 1/2 teaspoon lemon zest ((1 large lemon))
+- 1 1/2 tsp lemon zest ((1 large lemon))
 - 1/4 cup flaked almonds (optional (note 3))
 # ---
 directions:

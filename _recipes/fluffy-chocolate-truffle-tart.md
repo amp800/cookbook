@@ -12,26 +12,26 @@ description: Hold onto your forks, chocolate lovers! This slice of chocolate hea
 yield: 8 servings
 prep_time: '40'
 ingredients:
-- 1 1/4 cups (185 gram) plain (all-purpose) flour
-- 1/4 cup (30 gram) dutch process cocoa powder
-- 1/4 cup (50 gram) granulated sugar
-- 1/4 teaspoon (1 gram) salt
-- 1/2 cup (115 gram) cool (not cold) butter, cut into pieces
+- 1 1/4 cups (185 g) plain (all-purpose) flour
+- 1/4 cup (30 g) dutch process cocoa powder
+- 1/4 cup (50 g) granulated sugar
+- 1/4 tsp (1 g) salt
+- 1/2 cup (115 g) cool (not cold) butter, cut into pieces
 - 1 large egg yolk
-- 3 teaspoon (15 milliliter) cool water
-- 1/2 cup (125 milliliter) whipping cream
-- 120 gram (4 ounce) chopped bittersweet chocolate
-- 25 gram (1 1/2 tablespoon) granulated sugar
+- 3 tsp (15 mL) cool water
+- 1/2 cup (125 mL) whipping cream
+- 120 g (4 oz) chopped bittersweet chocolate
+- 25 g (1 1/2 tbsp) granulated sugar
 - 1 large egg, at room temperature
-- 1 teaspoon (5 milliliter) vanilla extract
+- 1 tsp (5 mL) vanilla extract
 - 3 large eggs
-- 1/3 cup (70 gram) granulated sugar
-- 1 1/2 tablespoon (30 milliliter) water
+- 1/3 cup (70 g) granulated sugar
+- 1 1/2 tbsp (30 mL) water
 - pinch salt
-- 360 gram (12 ounce) milk chocolate, chopped
-- 115 gram unsalted butter, at room temperature
-- 1 cup (250 milliliter) whipping cream
-- 1 teaspoon (5 milliliter) vanilla extract
+- 360 g (12 oz) milk chocolate, chopped
+- 115 g unsalted butter, at room temperature
+- 1 cup (250 mL) whipping cream
+- 1 tsp (5 mL) vanilla extract
 # ---
 directions:
 - For the crust, sift the flour, cocoa, sugar and salt into a large mixing bowl or in the bowl of a stand mixer fitted with

@@ -17,7 +17,7 @@ ingredients:
 - 1 tbsp vegetable oil
 - 2/3 cup (180 g) laksa paste¹ (Por Kwan brand)
 - 400 ml full-fat coconut cream²
-- 4 cups (1 litre) low-salt chicken stock³
+- 4 cups (1 L) low-salt chicken stock³
 - 250 g dried rice vermicelli noodles
 - 24 raw prawns⁴ (250 g), peeled and deveined (tails on or off)
 - 4 baby bok choy⁵, large stems cut in half lengthways so they're roughly the same size

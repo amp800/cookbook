@@ -14,10 +14,10 @@ description: 'Vietnamese caramel sauce is a popular sweet/savoury used in Vietna
 yield: 5 servings
 prep_time: '7'
 ingredients:
-- 1 kilogram / 2 pound skinless chicken thigh fillets (cut into large 5cm/2" pieces (note 1))
-- 3 tablespoon fish sauce
+- 1 kg / 2 lb skinless chicken thigh fillets (cut into large 5cm/2" pieces (note 1))
+- 3 tbsp fish sauce
 - 1 bird’s eye chilli (or thai chilli (), deseeded finely minced (optional) - note 2)
-- 3 tablespoon vegetable oil
+- 3 tbsp vegetable oil
 - 1/4 cup brown sugar (tightly packed)
 - 1/3 cup ginger (finely julienned (about 5 cm/2" thick piece))
 - 2 eschallots (halved then finely sliced (sub half red onion) (note 3))

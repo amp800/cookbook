@@ -18,7 +18,7 @@ cook_time: '45'
 total_time: '50'
 ingredients:
 - 2 medium oranges, fresh whole with rind on
-- 1 1/4 teaspoon baking powder
+- 1 1/4 tsp baking powder
 - 6 large eggs (at room temp (note 2)
 - 1 1/4 cups caster sugar
 - 2 3/4 cups almond meal / ground almonds (note 3)

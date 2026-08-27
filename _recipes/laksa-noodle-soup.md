@@ -16,28 +16,28 @@ prep_time: '15'
 cook_time: '45'
 total_time: '60'
 ingredients:
-- 2 cups (500 milliliter) chicken stock / broth
-- 1 cup (250 milliliter) water
+- 2 cups (500 mL) chicken stock / broth
+- 1 cup (250 mL) water
 - 3 chicken drumsticks ((note 1))
-- 1 1/2 tablespoon oil
+- 1 1/2 tbsp oil
 - 2 garlic cloves (minced)
 - 2 cm / 4/5" piece of ginger (finely grated)
 - 1 lemongrass (white part grated, (note 2))
 - 2 birds eye chillis (finely chopped (note 3))
-- 1/2 cup (175 gram) laksa paste ((note 4))
-- 400 gram / 14 ounce can coconut milk ((note 5))
-- 2 teaspoon fish sauce ((sub soy))
-- 50 gram / 1.5 ounce vermicelli noodles (dried)
-- 100 gram / 3.5 ounce hokkien noodles ((optional, note 6))
-- 80 gram / 2.5 ounce bean sprouts
-- 80 gram / 2.5 ounce tofu puffs (cut in half (note 7))
-- 1/2 teaspoon sugar (white)
-- 1 1/2 teaspoon soy sauce (light (or all purpose))
+- 1/2 cup (175 g) laksa paste ((note 4))
+- 400 g / 14 oz can coconut milk ((note 5))
+- 2 tsp fish sauce ((sub soy))
+- 50 g / 1.5 oz vermicelli noodles (dried)
+- 100 g / 3.5 oz hokkien noodles ((optional, note 6))
+- 80 g / 2.5 oz bean sprouts
+- 80 g / 2.5 oz tofu puffs (cut in half (note 7))
+- 1/2 tsp sugar (white)
+- 1 1/2 tsp soy sauce (light (or all purpose))
 - 1/2 garlic clove (minced)
-- 1 1/2 teaspoon laksa paste ((note 4))
-- 1 tablespoon sriracha sauce ((or other chilli sauce))
-- 1 tablespoon chilli paste from jar ((or more sriracha))
-- 1 tablespoon vegetable oil ((any plain oil))
+- 1 1/2 tsp laksa paste ((note 4))
+- 1 tbsp sriracha sauce ((or other chilli sauce))
+- 1 tbsp chilli paste from jar ((or more sriracha))
+- 1 tbsp vegetable oil ((any plain oil))
 - fresh coriander / cilantro ((recommended))
 - lime wedges ((recommended))
 - crispy fried shallots (optional (note 8))

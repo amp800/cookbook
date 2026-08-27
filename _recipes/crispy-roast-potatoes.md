@@ -14,18 +14,18 @@ prep_time: '10'
 cook_time: '50'
 total_time: '60'
 ingredients:
-- 1 kilogram (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))
-- 1 kilogram (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))
-- 1 kilogram (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))
-- 120 gram (1/2 cup) lard (or duck fat ((use vegetable oil instead for a vegetarian version)))
-- 120 gram (1/2 cup) lard (or duck fat ((use vegetable oil instead for a vegetarian version)))
-- 120 gram (1/2 cup) lard (or duck fat ((use vegetable oil instead for a vegetarian version)))
-- 1 teaspoon maldon salt
-- 1 teaspoon maldon salt
-- 1 teaspoon maldon salt
-- 1 tablespoon fresh thyme leaves
-- 1 tablespoon fresh thyme leaves
-- 1 tablespoon fresh thyme leaves
+- 1 kg (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))
+- 1 kg (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))
+- 1 kg (2.25 lbs) floury potatoes (- such as maris piper (or red-skinned rooster potatoes))
+- 120 g (1/2 cup) lard (or duck fat ((use vegetable oil instead for a vegetarian version)))
+- 120 g (1/2 cup) lard (or duck fat ((use vegetable oil instead for a vegetarian version)))
+- 120 g (1/2 cup) lard (or duck fat ((use vegetable oil instead for a vegetarian version)))
+- 1 tsp maldon salt
+- 1 tsp maldon salt
+- 1 tsp maldon salt
+- 1 tbsp fresh thyme leaves
+- 1 tbsp fresh thyme leaves
+- 1 tbsp fresh thyme leaves
 # ---
 directions:
 - Preheat the oven to 220C (fan forced).

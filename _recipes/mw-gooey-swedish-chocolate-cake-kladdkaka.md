@@ -16,11 +16,11 @@ prep_time: '10'
 cook_time: '20'
 total_time: '30'
 ingredients:
-- 4 3/4 ounces salted butter ((us = just over 1/2 cup, (or just over 1 stick)))
-- 1/2 cups cocoa powder ((plus 1 tablespoon) unsweetened, plus extra for sprinkling)
+- 4 3/4 oz salted butter ((us = just over 1/2 cup, (or just over 1 stick)))
+- 1/2 cups cocoa powder ((plus 1 tbsp) unsweetened, plus extra for sprinkling)
 - 1 3/4 cups sugar
 - 1 cup plain flour ((actually, just less than a full cup, about 0.85 cups))
-- 1 teaspoon vanilla extract
+- 1 tsp vanilla extract
 - 3 eggs (lightly whisked)
 # ---
 directions:

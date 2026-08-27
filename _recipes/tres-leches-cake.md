@@ -15,18 +15,18 @@ cook_time: '40'
 total_time: '130'
 ingredients:
 - 1 cup all-purpose flour
-- 1 1/2 teaspoons baking powder
-- 1/4 teaspoon salt
+- 1 1/2 tsp baking powder
+- 1/4 tsp salt
 - 5 large eggs (separated)
 - 1 cup granulated sugar (divided)
 - 1/3 cup whole milk
-- 1 teaspoon vanilla extract
-- 12 ounce can evaporated milk
-- 14 ounce can sweetened condensed milk
+- 1 tsp vanilla extract
+- 12 oz can evaporated milk
+- 14 oz can sweetened condensed milk
 - 1/4 cup whole milk
 - 1 pint heavy whipping cream
-- 3 tablespoons powdered sugar
-- 1/2 teaspoon vanilla extract
+- 3 tbsp powdered sugar
+- 1/2 tsp vanilla extract
 - ground cinnamon (for topping)
 # ---
 directions:

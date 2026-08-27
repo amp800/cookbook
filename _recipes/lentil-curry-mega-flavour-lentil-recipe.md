@@ -14,19 +14,19 @@ description: This will be an eye opener for you - an incredible creamy coconut c
 yield: 5 servings
 prep_time: '5'
 ingredients:
-- 50 gram (3 tablespoon) butter (unsalted (sub 2 tablespoon neutral oil))
+- 50 g (3 tbsp) butter (unsalted (sub 2 tbsp neutral oil))
 - 4 garlic cloves (finely minced (note 1))
-- 1.5 tablespoon ginger (finely minced (note 1))
+- 1.5 tbsp ginger (finely minced (note 1))
 - 1 onion (finely chopped (white, yellow, brown))
-- 2 tablespoon curry powder (mild (or spicy (your choice!) (note 2)))
-- 1/2 teaspoon tumeric powder
-- 1/2 teaspoon cayenne pepper (optional)
-- 1 1/4 teaspoon salt
-- 1/2 teaspoon black pepper
+- 2 tbsp curry powder (mild (or spicy (your choice!) (note 2)))
+- 1/2 tsp tumeric powder
+- 1/2 tsp cayenne pepper (optional)
+- 1 1/4 tsp salt
+- 1/2 tsp black pepper
 - 1 cup dried lentils (green (or brown (or any other dried lentils)
-- 400 milliliter / 14 ounce coconut milk (full fat)
-- 400 gram / 14 ounce canned tomato (crushed (or diced))
-- 3 cups (750 milliliter) water
+- 400 mL / 14 oz coconut milk (full fat)
+- 400 g / 14 oz canned tomato (crushed (or diced))
+- 3 cups (750 mL) water
 - 1/2 cup coriander/cilantro (finely chopped)
 - yogurt (optional)
 - basmati rice ((or other rice))

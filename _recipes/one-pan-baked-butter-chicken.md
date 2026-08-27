@@ -15,23 +15,23 @@ prep_time: '10'
 cook_time: '45'
 total_time: '55'
 ingredients:
-- 1.2 kilogram / 2.4 pound (6 pieces) bone-in chicken thighs (skin removed (note 1))
+- 1.2 kg / 2.4 lb (6 pieces) bone-in chicken thighs (skin removed (note 1))
 - 'BUTTER CHICKEN MARINADE:'
 - 1/2 cup plain yoghurt (full fat)
-- 1 tablespoon lemon juice
-- 1 tablespoon ginger (finely grated)
+- 1 tbsp lemon juice
+- 1 tbsp ginger (finely grated)
 - 2 cloves garlic (finely grated (or crushed))
-- 1 teaspoon turmeric powder
-- 2 teaspoon garam masala ((note 2))
-- 1/2 teaspoon chilli powder ((pure, not us blend) (or cayenne pepper powder))
-- 1 teaspoon ground cumin
-- 1/2 teaspoon cooking salt / kosher salt
+- 1 tsp turmeric powder
+- 2 tsp garam masala ((note 2))
+- 1/2 tsp chilli powder ((pure, not us blend) (or cayenne pepper powder))
+- 1 tsp ground cumin
+- 1/2 tsp cooking salt / kosher salt
 - 'BUTTER CHICKEN CURRY SAUCE:'
-- 2 tablespoon / 30 gram melted ghee (or butter ((note 3)))
+- 2 tbsp / 30 g melted ghee (or butter ((note 3)))
 - '1 cup tomato passata ((us: tomato puree) (note 4))'
 - 3/4 cup heavy / thickened cream ((or regular cream, (or coconut milk)))
-- 1 1/2 teaspoon white sugar
-- 3/4 teaspoon cooking salt / kosher salt
+- 1 1/2 tsp white sugar
+- 3/4 tsp cooking salt / kosher salt
 - 'SERVING:'
 - 1/2 cup coriander leaves (cilantro) (for garnish (optional))
 - basmati rice (or other plain rice)

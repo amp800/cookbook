@@ -15,15 +15,15 @@ cook_time: '480'
 total_time: '495'
 ingredients:
 - 2 cups whipping (or thickened cream (full fat)), cold
-- 2 tablespoons icing (powdered) sugar
-- 1 1/2 teaspoons vanilla extract
+- 2 tbsp icing (powdered) sugar
+- 1 1/2 tsp vanilla extract
 - 24 chocolate ripple biscuits (1 packet)
 # ---
 directions:
 - Beat the cold cream in a large bowl to soft peaks - careful not to overwhip it or it will become grainy. You want to hold
   shape but the peaks will fall over.
 - Add the sugar and vanilla extract and beat through.
-- Spread 2-3 teaspoons of cream onto the back of one biscuit. Sandwich with a second biscuit and repeat until you have a stack
+- Spread 2-3 tsp of cream onto the back of one biscuit. Sandwich with a second biscuit and repeat until you have a stack
   of 6 biscuits.
 - Spread a little cream onto a serving platter, then place the stack of biscuits, sideways onto the cream. Repeat another
   3 times so you have 4 rows of 6 biscuits.

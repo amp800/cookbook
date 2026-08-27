@@ -14,22 +14,22 @@ description: The Torta Ricciolina del Monte Amiata is a delicious rustic dessert
 yield: 8 items
 prep_time: '40'
 ingredients:
-- 100 gram di burro freddo
-- 150 gram di zucchero semolato
+- 100 g di burro freddo
+- 150 g di zucchero semolato
 - 1 uovo
 - 2 tuorli
-- 300 gram di farina 00
-- 8 gram di lievito per dolci
+- 300 g di farina 00
+- 8 g di lievito per dolci
 - sale
 - 1 uovo
-- 50 gram di zucchero semolato
-- 100 gram di farina 00
-- 250 milliliter di latte intero
+- 50 g di zucchero semolato
+- 100 g di farina 00
+- 250 mL di latte intero
 - 2 cucchiai di crema spalmabile al cioccolato
-- 80 gram di nocciole non spellate
-- 50 gram di mandorle non spellate
+- 80 g di nocciole non spellate
+- 50 g di mandorle non spellate
 - 2 albumi
-- 100 gram di zucchero semolato
+- 100 g di zucchero semolato
 - cioccolato fondente
 # ---
 directions:

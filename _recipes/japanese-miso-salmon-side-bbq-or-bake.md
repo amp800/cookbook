@@ -14,12 +14,12 @@ prep_time: '10'
 cook_time: '5'
 total_time: '15'
 ingredients:
-- 1 kilogram side of salmon (skin on (note 1))
+- 1 kg side of salmon (skin on (note 1))
 - spray oil (for bbq)
-- 5 tablespoon miso paste (note 2)
-- 2 tablespoon white sugar
-- 1 2/3 tablespoon sake
-- 1 2/3 tablespoon mirin
+- 5 tbsp miso paste (note 2)
+- 2 tbsp white sugar
+- 1 2/3 tbsp sake
+- 1 2/3 tbsp mirin
 - sesame seeds
 - shallots finely sliced
 # ---
