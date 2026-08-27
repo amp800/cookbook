@@ -493,7 +493,7 @@ async function uploadPhoto(filename, blob) {
   var token = getPAT();
   var content = await blobToBase64(blob);
   var resp = await fetch(
-    'https://api.github.com/repos/' + REPO + '/contents/images/' + filename,
+    'https://api.github.com/repos/' + REPO + '/contents/recipe_images/' + filename,
     {
       method: 'PUT',
       headers: {
@@ -516,13 +516,13 @@ async function deleteUploadedPhoto(filename) {
   var token = getPAT();
   try {
     var head = await fetch(
-      'https://api.github.com/repos/' + REPO + '/contents/images/' + filename,
+      'https://api.github.com/repos/' + REPO + '/contents/recipe_images/' + filename,
       { headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' } }
     );
     if (!head.ok) return;
     var meta = await head.json();
     await fetch(
-      'https://api.github.com/repos/' + REPO + '/contents/images/' + filename,
+      'https://api.github.com/repos/' + REPO + '/contents/recipe_images/' + filename,
       {
         method: 'DELETE',
         headers: {
