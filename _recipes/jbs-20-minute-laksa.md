@@ -24,7 +24,7 @@ ingredients:
 - 8 fried tofu puffs⁶, cut in half
 - 3 tbsp fish sauce
 - 1 tbsp+ lime juice
-- TO SERVE
+- '### TO SERVE'
 - 1½ cups (120 g) bean sprouts
 - Fresh coriander leaves (highly recommended)
 - 1 or 2 red bird's eye chillies*, finely sliced (optional)
