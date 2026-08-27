@@ -183,7 +183,6 @@ def main():
     ingredients = normalize_items(as_list(data.get("ingredients")))
     directions = normalize_items(as_list(data.get("directions")))
     notes = normalize_items(as_list(data.get("notes")))
-    notes = normalize_items(as_list(data.get("notes")))
     if not ingredients or not directions:
         print("ERROR: Gemini did not return ingredients/directions; nothing to import", file=sys.stderr)
         sys.exit(1)
