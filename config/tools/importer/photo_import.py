@@ -43,13 +43,14 @@ PROMPT = """You are a recipe digitization assistant. A photo of a printed cookbo
 - "prep_time": prep time as printed, e.g. "15 minutes" (string; use null if not stated)
 - "cook_time": cook time as printed (string; use null if not stated)
 - "total_time": total time as printed (string; use null if not stated)
+- "notes": every recipe note, tip, storage instruction, substitution, and numbered note printed on the page, each as its own list item (array of strings); use [] only when no notes are present
 - "tags": 2 to 4 short lowercase keywords (array of strings)
 - "ingredients": each ingredient exactly as printed, one per list item, keeping quantities and units as written (array of strings); preserve section headings as strings beginning with "### "
 - "directions": each numbered step as its own list item, cleaned of leading numbers and formatting but keeping all detail (array of strings); preserve section headings as strings beginning with "### "
 
 Rules:
 - Transcribe the recipe faithfully. Use metric grams/kilograms and millilitres/litres, UK 250 ml cups, UK teaspoons/tablespoons, and Celsius temperatures. Do not include pounds, ounces, US cups, or Fahrenheit.
-- Ignore page furniture: page numbers, cookbook title, chapter headings, headers, footers, photo captions, decorative text, website/blog text.
+- Ignore page furniture: page numbers, cookbook title, chapter headings, headers, footers, photo captions, decorative text, website/blog text. Do not ignore recipe notes or tips; capture them in the notes field.
 - Keep sub-sections of the recipe as separate list items beginning with "### ", never as checkbox ingredients or numbered steps.
 - Return raw JSON only — no markdown fences, no commentary."""
 
@@ -181,6 +182,8 @@ def main():
 
     ingredients = normalize_items(as_list(data.get("ingredients")))
     directions = normalize_items(as_list(data.get("directions")))
+    notes = normalize_items(as_list(data.get("notes")))
+    notes = normalize_items(as_list(data.get("notes")))
     if not ingredients or not directions:
         print("ERROR: Gemini did not return ingredients/directions; nothing to import", file=sys.stderr)
         sys.exit(1)
@@ -210,6 +213,7 @@ def main():
         "tags": all_tags,
         "ingredients": ingredients,
         "directions": directions,
+        "notes": notes,
     }
     for key in ("description", "yield", "prep_time", "cook_time", "total_time"):
         value = str(data.get(key) or "").strip()
