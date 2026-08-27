@@ -28,6 +28,7 @@ import requests
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # config/tools/importer/photo_import.py → repo root
 sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
+from measurements import normalize_items  # noqa: E402
 from recipe_frontmatter import render_recipe_markdown  # noqa: E402
 
 # Vision-capable Gemini models, newest first. All are available on the free
@@ -47,7 +48,7 @@ PROMPT = """You are a recipe digitization assistant. A photo of a printed cookbo
 - "directions": each numbered step as its own list item, cleaned of leading numbers and formatting but keeping all detail (array of strings); preserve section headings as strings beginning with "### "
 
 Rules:
-- Transcribe the recipe faithfully. Do not invent ingredients or steps, and do not add metric conversions or substitutions.
+- Transcribe the recipe faithfully. Use metric grams/kilograms and millilitres/litres, UK 250 ml cups, UK teaspoons/tablespoons, and Celsius temperatures. Do not include pounds, ounces, US cups, or Fahrenheit.
 - Ignore page furniture: page numbers, cookbook title, chapter headings, headers, footers, photo captions, decorative text, website/blog text.
 - Keep sub-sections of the recipe as separate list items beginning with "### ", never as checkbox ingredients or numbered steps.
 - Return raw JSON only — no markdown fences, no commentary."""
@@ -178,8 +179,8 @@ def main():
     derive_times(data)
     print(f"Read: {title}")
 
-    ingredients = as_list(data.get("ingredients"))
-    directions = as_list(data.get("directions"))
+    ingredients = normalize_items(as_list(data.get("ingredients")))
+    directions = normalize_items(as_list(data.get("directions")))
     if not ingredients or not directions:
         print("ERROR: Gemini did not return ingredients/directions; nothing to import", file=sys.stderr)
         sys.exit(1)

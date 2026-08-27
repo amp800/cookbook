@@ -23,6 +23,7 @@ except ImportError:
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # config/tools/importer/scrape.py → repo root
 sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
+from measurements import normalize_items
 from recipe_frontmatter import render_recipe_markdown
 
 
@@ -42,7 +43,7 @@ def format_ingredients(ingredients) -> list:
         ingredients = ingredients.split("\n")
     elif not isinstance(ingredients, list):
         ingredients = []
-    return [str(i).strip() for i in ingredients if str(i).strip()]
+    return normalize_items([str(i).strip() for i in ingredients if str(i).strip()])
 
 
 def format_instructions(instructions) -> list:
@@ -59,7 +60,7 @@ def format_instructions(instructions) -> list:
         step = re.sub(r"^(\d+[\.\)]\s+|-\s+|\*\s+)", "", step)
         if step:
             cleaned.append(step)
-    return cleaned
+    return normalize_items(cleaned)
 
 
 RECIPE_CARD_RE = re.compile(

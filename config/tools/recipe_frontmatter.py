@@ -44,6 +44,8 @@ from typing import Dict, Mapping
 
 import yaml
 
+from measurements import normalize_items
+
 SECTION = "# ---"
 
 # Field order for each visual section. Unrecognised keys are appended to the
@@ -108,9 +110,9 @@ def render_recipe_markdown(fm: Mapping, body: str = "") -> str:
     ingredients = _pick(fm, INGREDIENT_KEYS)
     directions = _pick(fm, DIRECTION_KEYS)
     if "ingredients" in ingredients:
-        ingredients["ingredients"] = normalise_section_items(ingredients["ingredients"])
+        ingredients["ingredients"] = normalize_items(normalise_section_items(ingredients["ingredients"]))
     if "directions" in directions:
-        directions["directions"] = normalise_section_items(directions["directions"])
+        directions["directions"] = normalize_items(normalise_section_items(directions["directions"]))
     notes = _pick(fm, NOTE_KEYS)
 
     # Keep any keys not listed above so nothing is ever dropped.
