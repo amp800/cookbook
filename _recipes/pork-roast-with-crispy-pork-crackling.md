@@ -17,7 +17,7 @@ prep_time: '15'
 cook_time: '200'
 total_time: '215'
 ingredients:
-- 'PORK:'
+- '### PORK'
 - 3 kg pork shoulder unrolled/netting removed (Note 1 & 6)
 - 3 tsp salt (Note 7)
 - 1 1/4 tsp pepper
@@ -25,14 +25,14 @@ ingredients:
 - 1 clove garlic halved horizontally
 - 2 onion halved
 - 2 cup white wine (Note 2)
-- 'GRAVY:'
+- '### GRAVY'
 - 1/4 cup plain flour (Note 5)
 - 2 cup chicken stock
 - salt
 - pepper
 # ---
 directions:
-- 'PORK:'
+- '### PORK'
 - 'Dry skin: Pat the skin dry with paper towels. If time permits, leave in the fridge uncovered overnight (even 1 hr helps).
   If not, pat extra well.'
 - Preheat oven to 200°C fan
@@ -57,7 +57,7 @@ directions:
 - 'Rest: Transfer pork to serving platter, tent loosely with foil (don''t worry, crackling stays super-crisp) and rest for
   20 minutes (stays warm up to 1 hour). Then slice using a serrated knife.'
 - Serve with gravy. Don't pour gravy over crackling - pour it off to the side! See note for reheating.
-- 'GRAVY:'
+- '### GRAVY'
 - 'Transfer fat to saucepan: Skim off 3 tablespoons of fat from the roasting pan and put in a saucepan.'
 - 'Strain pan juices: Place strainer over bowl and scrape in all the remaining pan juices (including onion and garlic). Press
   out juices, then discard onion & garlic. Skim off excess fat from surface and discard - no need to be exact here!'
