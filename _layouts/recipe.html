@@ -94,10 +94,24 @@ layout: default
         <h2>Ingredients</h2>
         <ul>
           {% for ingredient in page.ingredients %}
-            <li>
-              <input type="checkbox">
-              <span class="ingredient-text">{{ ingredient }}</span>
-            </li>
+            {% assign ingredient_text = ingredient | append: '' | strip %}
+            {% assign ingredient_upper = ingredient_text | upcase %}
+            {% assign ingredient_words = ingredient_text | split: ' ' %}
+            {% assign ingredient_heading = false %}
+            {% if ingredient_text contains '### ' %}
+              {% assign ingredient_heading = true %}
+              {% assign ingredient_text = ingredient_text | remove_first: '###' | strip %}
+            {% elsif ingredient_text contains ':' and ingredient_text == ingredient_upper and ingredient_words.size <= 6 %}
+              {% assign ingredient_heading = true %}
+            {% endif %}
+            {% if ingredient_heading %}
+              <li class="recipe-subheading ingredient-subheading"><span>{{ ingredient_text }}</span></li>
+            {% else %}
+              <li>
+                <input type="checkbox">
+                <span class="ingredient-text">{{ ingredient_text }}</span>
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </div>
@@ -108,10 +122,25 @@ layout: default
         <h2>Directions</h2>
         <ol>
           {% for direction in page.directions %}
-            <li>
-              <input type="checkbox">
-              <span class="direction-text">{{ direction }}</span>
-            </li>
+            {% assign direction_text = direction | append: '' | strip %}
+            {% assign direction_upper = direction_text | upcase %}
+            {% assign direction_words = direction_text | split: ' ' %}
+            {% assign direction_heading = false %}
+            {% if direction_text contains ':' and direction_text == direction_upper and direction_words.size <= 6 %}
+              {% assign direction_heading = true %}
+            {% endif %}
+            {% if direction_text contains '### ' %}
+              {% assign direction_heading = true %}
+              {% assign direction_text = direction_text | remove_first: '###' | strip %}
+            {% endif %}
+            {% if direction_heading %}
+              <li class="recipe-subheading direction-subheading"><span>{{ direction_text }}</span></li>
+            {% else %}
+              <li>
+                <input type="checkbox">
+                <span class="direction-text">{{ direction_text }}</span>
+              </li>
+            {% endif %}
           {% endfor %}
         </ol>
       </div>
@@ -491,6 +520,21 @@ layout: default
     color: #000;
     line-height: 1.4;
   }
+
+  .recipe-subheading {
+    display: block;
+    list-style: none;
+    padding: 22px 0 8px;
+    border-bottom: 3px solid #E63946;
+    font-family: 'Jost', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #E63946;
+  }
+
+  .recipe-subheading span { display: block; }
 
   input[type="checkbox"] {
     appearance: none;
@@ -1073,6 +1117,7 @@ function nameVariants(name) {
 function buildParsedIngredients(ingredients) {
   var parsed = [];
   for (var i = 0; i < ingredients.length; i++) {
+    if (/^###\s+/.test(String(ingredients[i] || '').trim()) || /^\s*[A-Z][A-Z0-9 &'()/-]*:\s*$/.test(String(ingredients[i] || '').trim())) continue;
     var name = parseIngredientName(ingredients[i]);
     if (name && name.length > 1) {
       parsed.push({ full: ingredients[i], name: name, variants: nameVariants(name) });
@@ -1286,7 +1331,8 @@ function applyServings() {
   if (valueEl) valueEl.textContent = String(_currentServings);
   var factor = _currentServings / _baseServings;
   var spans = document.querySelectorAll('#ingredients-section .ingredient-text');
-  spans.forEach(function (span, i) {
+  var ingredientSpans = document.querySelectorAll('#ingredients-section .ingredient-text');
+  ingredientSpans.forEach(function (span, i) {
     var original = _recipeIngredients[i];
     if (original == null) return;
     span.textContent = scaleIngredient(original, factor);

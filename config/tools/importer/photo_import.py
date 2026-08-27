@@ -43,13 +43,13 @@ PROMPT = """You are a recipe digitization assistant. A photo of a printed cookbo
 - "cook_time": cook time as printed (string; use null if not stated)
 - "total_time": total time as printed (string; use null if not stated)
 - "tags": 2 to 4 short lowercase keywords (array of strings)
-- "ingredients": each ingredient exactly as printed, one per list item, keeping quantities and units as written (array of strings)
-- "directions": each numbered step as its own list item, cleaned of leading numbers and formatting but keeping all detail (array of strings)
+- "ingredients": each ingredient exactly as printed, one per list item, keeping quantities and units as written (array of strings); preserve section headings as strings beginning with "### "
+- "directions": each numbered step as its own list item, cleaned of leading numbers and formatting but keeping all detail (array of strings); preserve section headings as strings beginning with "### "
 
 Rules:
 - Transcribe the recipe faithfully. Do not invent ingredients or steps, and do not add metric conversions or substitutions.
 - Ignore page furniture: page numbers, cookbook title, chapter headings, headers, footers, photo captions, decorative text, website/blog text.
-- Keep sub-sections of the recipe (such as "For the sauce:") as separate list items within their section.
+- Keep sub-sections of the recipe as separate list items beginning with "### ", never as checkbox ingredients or numbered steps.
 - Return raw JSON only — no markdown fences, no commentary."""
 
 

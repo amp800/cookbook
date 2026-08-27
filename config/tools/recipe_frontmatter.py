@@ -94,12 +94,23 @@ def _pick(fm: Mapping, keys) -> Dict:
     return {key: fm[key] for key in keys if key in fm}
 
 
+def normalise_section_items(items):
+    """Preserve explicit ``###`` entries as plain section labels."""
+    if not items:
+        return items
+    return [str(item).strip() for item in items if str(item).strip()]
+
+
 def render_recipe_markdown(fm: Mapping, body: str = "") -> str:
     """Render front matter (dict) plus optional markdown body to a .md file."""
     header = _pick(fm, HEADER_KEYS)
     meta = _pick(fm, META_KEYS)
     ingredients = _pick(fm, INGREDIENT_KEYS)
     directions = _pick(fm, DIRECTION_KEYS)
+    if "ingredients" in ingredients:
+        ingredients["ingredients"] = normalise_section_items(ingredients["ingredients"])
+    if "directions" in directions:
+        directions["directions"] = normalise_section_items(directions["directions"])
     notes = _pick(fm, NOTE_KEYS)
 
     # Keep any keys not listed above so nothing is ever dropped.
