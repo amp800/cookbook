@@ -29,6 +29,7 @@ import requests
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # config/tools/importer/photo_import.py → repo root
 sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
 from measurements import normalize_items  # noqa: E402
+from notes import normalize_note_items  # noqa: E402
 from recipe_frontmatter import render_recipe_markdown  # noqa: E402
 
 # Vision-capable Gemini models, newest first. All are available on the free
@@ -182,7 +183,7 @@ def main():
 
     ingredients = normalize_items(as_list(data.get("ingredients")))
     directions = normalize_items(as_list(data.get("directions")))
-    notes = normalize_items(as_list(data.get("notes")))
+    notes = normalize_note_items(normalize_items(as_list(data.get("notes"))))
     if not ingredients or not directions:
         print("ERROR: Gemini did not return ingredients/directions; nothing to import", file=sys.stderr)
         sys.exit(1)

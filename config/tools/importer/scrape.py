@@ -24,6 +24,7 @@ except ImportError:
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # config/tools/importer/scrape.py → repo root
 sys.path.insert(0, str(REPO_ROOT / "config" / "tools"))
 from measurements import normalize_items
+from notes import normalize_note_items
 from recipe_frontmatter import render_recipe_markdown
 
 
@@ -60,7 +61,7 @@ def format_instructions(instructions) -> list:
         step = re.sub(r"^(\d+[\.\)]\s+|-\s+|\*\s+)", "", step)
         if step:
             cleaned.append(step)
-    return normalize_items(cleaned)
+    return normalize_note_items(normalize_items(cleaned))
 
 
 RECIPE_CARD_RE = re.compile(

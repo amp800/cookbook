@@ -45,6 +45,7 @@ from typing import Dict, Mapping
 import yaml
 
 from measurements import normalize_items
+from notes import normalize_note_items
 
 SECTION = "# ---"
 
@@ -110,10 +111,12 @@ def render_recipe_markdown(fm: Mapping, body: str = "") -> str:
     ingredients = _pick(fm, INGREDIENT_KEYS)
     directions = _pick(fm, DIRECTION_KEYS)
     if "ingredients" in ingredients:
-        ingredients["ingredients"] = normalize_items(normalise_section_items(ingredients["ingredients"]))
+        ingredients["ingredients"] = normalize_note_items(normalize_items(normalise_section_items(ingredients["ingredients"])))
     if "directions" in directions:
-        directions["directions"] = normalize_items(normalise_section_items(directions["directions"]))
+        directions["directions"] = normalize_note_items(normalize_items(normalise_section_items(directions["directions"])))
     notes = _pick(fm, NOTE_KEYS)
+    if "notes" in notes:
+        notes["notes"] = normalize_note_items(notes["notes"])
 
     # Keep any keys not listed above so nothing is ever dropped.
     known = set(HEADER_KEYS + META_KEYS + INGREDIENT_KEYS + DIRECTION_KEYS + NOTE_KEYS)

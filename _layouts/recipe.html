@@ -149,14 +149,13 @@ layout: default
       {% if page.notes %}
       <div id="notes-section" class="recipe-section">
         <h2>Notes</h2>
-        <ul>
+        <ol class="notes-list">
           {% for note in page.notes %}
             <li>
-              <span class="note-bullet" aria-hidden="true">•</span>
               <span class="note-text">{{ note }}</span>
             </li>
           {% endfor %}
-        </ul>
+        </ol>
       </div>
       {% endif %}
 
@@ -554,13 +553,19 @@ layout: default
     background-color: #E63946;
   }
 
-  .note-bullet {
+  .notes-list {
+    list-style: decimal;
+    padding-left: 2rem;
+  }
+
+  .notes-list li {
+    display: list-item;
+    padding-left: 0.5rem;
+  }
+
+  .notes-list li::marker {
     color: #E63946;
-    font-size: 1.5rem;
-    line-height: 1;
-    margin-right: 20px;
-    margin-top: 3px;
-    flex-shrink: 0;
+    font-weight: 900;
   }
 
   .note-text {
