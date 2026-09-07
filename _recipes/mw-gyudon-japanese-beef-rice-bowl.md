@@ -16,13 +16,13 @@ cook_time: '15'
 total_time: '20'
 ingredients:
 - 600 g Asian beef rolls
-- 1 onion thinly sliced
-- 1/4 cup sake (sub with dry sherry or Chinese rice wine, or use water for a non-alcohol version)
-- 1/4 cup soy sauce
-- 1/4 cup mirin
-- 1/2 cup water
-- 1 tbsp crushed ginger
-- 2 tbsp caster sugar
+- 2 onion thinly sliced
+- 1/4 cups sake (sub with dry sherry or Chinese rice wine, or use water for a non-alcohol version)
+- 1/4 cups soy sauce
+- 1/4 cups mirin
+- 1/2 cups water
+- 15 mL crushed ginger
+- 30 mL caster sugar
 # ---
 directions:
 - Thinly slice the onion. Stir-fry in wok for 5mins until the edges are dark brown and caramelised.
