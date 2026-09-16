@@ -11,10 +11,8 @@ tags:
 - bread
 - pizza
 - quick
-description: 'Pide is the famous baked Turkish flat bread that comes stuffed with a variety of toppings, including cheese,
-  sausage, spiced meat and spinach. Often described as a Turkish pizza, the greasy, gut-busting takeaway Pides sold at neon-lit
-  corner kebab shops have long been my secret food shame. But shame no more: this delicious homemade Pide recipe trumps takeaway
-  10 times over – and then some!'
+description: This makes a good toasting filling, using turkisb bread. Use the lamb mince recipe and add spinach and fetta
+  to the mix.
 yield: 2 servings
 prep_time: '30'
 cook_time: '30'
