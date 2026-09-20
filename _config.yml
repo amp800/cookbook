@@ -13,10 +13,10 @@ collections:
   recipes:
     output: true
 
-exclude: ['Gemfile', 'Gemfile.lock', 'config/readme.md', 'config/LICENSE', 'config/tools']
+exclude: ['Gemfile', 'Gemfile.lock', 'config/readme.md', 'config/LICENSE', 'config/tools', '_includes']
 
 # Keep private tooling out of the generated site while allowing public assets
-# under config/images and config/manifest.webmanifest to be served.
+# under config/images, config/assets and config/manifest.webmanifest to be served.
 
 # Recipe imports use GitHub Actions directly via the GitHub API.
 # No server URL needed.

@@ -11,3 +11,4 @@ config/tools/importer/.env
 __pycache__/
 *.py[cod]
 /mealie-export/
+.venv/

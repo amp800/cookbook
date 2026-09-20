@@ -66,15 +66,15 @@ layout: default
         {% if post.prep_time or display_cook_time or post.total_time %}
         <div class="card-meta">
           {% if post.prep_time %}
-            <span class="card-badge time"><span class="time-label">Prep</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{{ post.prep_time }}</span></span>
+            <span class="card-badge time"><span class="time-label">Prep</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{% include time-display.html minutes = post.prep_time %}</span></span>
           {% endif %}
           {% if post.prep_time and display_cook_time %}<span class="time-operator" aria-hidden="true">+</span>{% endif %}
           {% if display_cook_time %}
-            <span class="card-badge time"><span class="time-label">Cook</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{{ display_cook_time }}</span></span>
+            <span class="card-badge time"><span class="time-label">Cook</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{% include time-display.html minutes = display_cook_time %}</span></span>
           {% endif %}
           {% if display_cook_time and post.total_time %}<span class="time-operator" aria-hidden="true">=</span>{% endif %}
           {% if post.total_time %}
-            <span class="card-badge time"><span class="time-label">Total</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{{ post.total_time }}</span></span>
+            <span class="card-badge time"><span class="time-label">Total</span><span class="material-symbols-outlined time-icon" aria-hidden="true">timer</span><span>{% include time-display.html minutes = post.total_time %}</span></span>
           {% endif %}
         </div>
         {% endif %}

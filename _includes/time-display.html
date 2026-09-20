@@ -1,0 +1,8 @@
+{% comment %}
+  Renders a minutes value as compact human time: 90 → "1h 30", 45 → "45".
+  Expects: include.minutes (number or numeric string)
+{% endcomment %}
+{% assign td_total = include.minutes | plus: 0 %}
+{% assign td_hours = td_total | divided_by: 60 %}
+{% assign td_mins = td_total | modulo: 60 %}
+{% if td_hours > 0 %}{{ td_hours }}h{% if td_mins > 0 %} {{ td_mins }}{% endif %}{% else %}{{ td_mins }}{% endif %}
