@@ -17,23 +17,23 @@ prep_time: '20'
 cook_time: '40'
 total_time: '60'
 ingredients:
-- 2 tsp olive oil
+- 10 mL olive oil
 - 4 scallions, (diced)
-- 10 oz baby spinach, (rough chop)
-- 2 tbsp dill, (chopped)
+- 285gm baby spinach, (rough chop)
+- 30 mL dill, (chopped)
 - 1 cup all purpose flour
-- 1 tsp baking powder
-- 1 tsp salt
+- 5 mL baking powder
+- 5 mL salt
 - 1 cup milk
 - 2 eggs, (lightly beaten)
-- 1/4 cup butter, (melted (or olive oil))
-- 4 oz shredded mozzarella
-- 4 oz feta cheese, (crumbled)
-- 2 tbsp grated parmesan cheese
+- 1/4 cups butter, (melted (or olive oil))
+- 125gm shredded mozzarella
+- 115gm feta cheese, (crumbled)
+- 30 mL grated parmesan cheese
 # ---
 directions:
 - 'PREHEAT OVEN: Preheat your oven to 190°C. Lightly spray a medium size baking dish with olive oil. Mine was 27cm x 19cm.'
-- 'COOK SPINACH: In a large, deep pan, heat 1 tsp oil on medium. Cook your spring onions until they soften: 1 or 2 minutes.
+- 'COOK SPINACH: In a large, deep pan, heat 5 mL oil on medium. Cook your spring onions until they soften: 1 or 2 minutes.
   Add half the spinach and sauté until mostly wilted, season with salt and pepper to taste. Remove to a colander to drain
   and pat dry with paper towels to remove excess liquids. Add the remaining oil to your pan and repeat the process with the
   remaining spinach.'
