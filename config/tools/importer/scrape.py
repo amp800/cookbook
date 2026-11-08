@@ -27,38 +27,42 @@ from measurements import normalize_items
 from notes import normalize_note_items
 from recipe_frontmatter import render_recipe_markdown
 
-
 # ---------------------------------------------------------------------------
 # Helpers (mirror of app/main.py so the Actions workflow needs no FastAPI)
 # ---------------------------------------------------------------------------
 
 def slugify(text: str) -> str:
-    text = text.lower()
+    text = (text or "").lower()
     text = re.sub(r"[^\w\s-]", "", text)
     text = re.sub(r"[-\s]+", "-", text).strip("-")
-    return text
+    return text or "imported-recipe"
+
+
+def _ensure_str_list(value):
+    if value is None:
+        return []
+    if isinstance(value, str):
+        return [value]
+    try:
+        return [str(v) for v in value]
+    except TypeError:
+        return [str(value)]
 
 
 def format_ingredients(ingredients) -> list:
-    if isinstance(ingredients, str):
-        ingredients = ingredients.split("\n")
-    elif not isinstance(ingredients, list):
-        ingredients = []
-    return normalize_items([str(i).strip() for i in ingredients if str(i).strip()])
+    items = _ensure_str_list(ingredients)
+    return normalize_items([str(i).strip() for i in items if str(i).strip()])
 
 
 def format_instructions(instructions) -> list:
-    if isinstance(instructions, str):
-        instructions = instructions.split("\n")
-    elif not isinstance(instructions, list):
-        instructions = []
+    items = _ensure_str_list(instructions)
     cleaned = []
-    for step in instructions:
+    for step in items:
         step = str(step).strip()
         if not step:
             continue
         step = re.sub(r"<[^>]+>", "", step)
-        step = re.sub(r"^(\d+[\.\)]\s+|-\s+|\*\s+)", "", step)
+        step = re.sub(r"^(\d+[\.]\s+|-\s+|\*\s+)", "", step)
         if step:
             cleaned.append(step)
     return normalize_note_items(normalize_items(cleaned))
@@ -90,6 +94,7 @@ def clean_text(text) -> str:
 def derive_times(data: dict) -> None:
     """Fill the missing member of prep + cook = total when possible."""
     from time_utils import derive_times as _derive_times
+
     data.update(_derive_times(data))
 
 
@@ -130,28 +135,39 @@ def extract_first_paragraph(html: str) -> str:
 
 def shorten_description(text, limit: int = 400) -> str:
     """Trim an over-long fallback description at a sentence/word boundary."""
-    text = clean_text(text)
+    text = clean_text(text or "")
     if len(text) <= limit:
         return text
     head = text[:limit]
     cut = max(head.rfind(". "), head.rfind("! "), head.rfind("? "))
     if cut > limit // 2:
         return head[: cut + 1]
-    return head.rsplit(" ", 1)[0] + "…"
+    return head.rsplit(" ", 1)[0] + "\u2026"
 
 
 def guess_tags(title: str) -> list:
-    title_lower = title.lower()
+    title_lower = (title or "").lower()
     tag_map = {
-        "vegetarian": ["vegetarian"], "vegan": ["vegan"],
-        "gluten-free": ["gluten-free"], "chicken": ["chicken"],
-        "beef": ["beef"], "pork": ["pork"],
-        "fish": ["fish", "seafood"], "salmon": ["fish", "seafood"],
-        "shrimp": ["seafood"], "pasta": ["pasta"],
-        "soup": ["soup"], "stew": ["stew"], "salad": ["salad"],
-        "dessert": ["dessert"], "cake": ["dessert", "baking"],
-        "cookie": ["dessert", "baking"], "bread": ["bread", "baking"],
-        "pizza": ["pizza"], "taco": ["mexican"], "curry": ["curry"],
+        "vegetarian": ["vegetarian"],
+        "vegan": ["vegan"],
+        "gluten-free": ["gluten-free"],
+        "chicken": ["chicken"],
+        "beef": ["beef"],
+        "pork": ["pork"],
+        "fish": ["fish", "seafood"],
+        "salmon": ["fish", "seafood"],
+        "shrimp": ["seafood"],
+        "pasta": ["pasta"],
+        "soup": ["soup"],
+        "stew": ["stew"],
+        "salad": ["salad"],
+        "dessert": ["dessert"],
+        "cake": ["dessert", "baking"],
+        "cookie": ["dessert", "baking"],
+        "bread": ["bread", "baking"],
+        "pizza": ["pizza"],
+        "taco": ["mexican"],
+        "curry": ["curry"],
     }
     tags: set = set()
     for keyword, tag_list in tag_map.items():
@@ -188,6 +204,15 @@ def download_image(image_url: str, source_url: str, save_path: Path) -> bool:
         return False
 
 
+def _safe_scraper_call(scraper, method_name):
+    """Call a scraper method and return (value, ok)."""
+    try:
+        val = getattr(scraper, method_name)()
+        return val, True
+    except Exception:
+        return None, False
+
+
 def fetch_recipe(url: str) -> dict:
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -196,58 +221,65 @@ def fetch_recipe(url: str) -> dict:
     }
     response = requests.get(url, headers=headers, timeout=30)
     response.raise_for_status()
-    scraper = scrape_html(response.text, url, supported_only=False)
+    html = response.text
+
+    scraper = scrape_html(html, url, supported_only=False)
+
+    title, _ = _safe_scraper_call(scraper, "title")
+    ingredients, _ = _safe_scraper_call(scraper, "ingredients")
+    instructions, _ = _safe_scraper_call(scraper, "instructions")
+    image_url, _ = _safe_scraper_call(scraper, "image")
+
     data: dict = {
-        "title": scraper.title(),
-        "ingredients": scraper.ingredients(),
-        "instructions": scraper.instructions(),
-        "image_url": "",
+        "title": title or "Untitled Recipe",
+        "ingredients": ingredients or [],
+        "instructions": instructions or "",
+        "image_url": image_url or "",
     }
+
     for method_name, key_name in [
-        ("yields", "yield"), ("total_time", "total_time"),
-        ("prep_time", "prep_time"), ("cook_time", "cook_time"),
+        ("yields", "yield"),
+        ("total_time", "total_time"),
+        ("prep_time", "prep_time"),
+        ("cook_time", "cook_time"),
     ]:
-        try:
-            val = getattr(scraper, method_name)()
-            if val:
-                data[key_name] = str(val)
-        except Exception:
-            pass
-    try:
-        data["image_url"] = scraper.image()
-    except Exception:
-        pass
+        val, ok = _safe_scraper_call(scraper, method_name)
+        if ok and val:
+            data[key_name] = str(val)
+
     # Description: prefer the first intro paragraph (the "what/why" blurb),
     # falling back to the structured description when no paragraph is found.
-    description = extract_first_paragraph(response.text)
+    description = extract_first_paragraph(html)
     if not description:
-        try:
-            description = shorten_description(str(scraper.description()))
-        except Exception:
-            description = ""
+        desc_val, ok = _safe_scraper_call(scraper, "description")
+        if ok and desc_val:
+            description = shorten_description(str(desc_val))
     data["description"] = description
+
     derive_times(data)
     return data
 
 
 def build_markdown(data: dict, image_ref: str, user_tags: list,
                    original_url: str) -> str:
-    auto_tags = guess_tags(data["title"])
+    auto_tags = guess_tags(data.get("title"))
     all_tags = sorted(list(set(auto_tags + (user_tags or []))))
     from datetime import date
+
     fm = {
         "date_added": date.today(),
         "layout": "recipe",
         "title": data.get("title", "Untitled Recipe"),
-        "image": image_ref,
+        "image": image_ref or "",
         "original_url": original_url,
         "tags": all_tags,
-        "ingredients": format_ingredients(data.get("ingredients", [])),
-        "directions": format_instructions(data.get("instructions", [])),
+        "ingredients": format_ingredients(data.get("ingredients")),
+        "directions": format_instructions(data.get("instructions")),
     }
     for key in ["description", "yield", "prep_time", "cook_time", "total_time"]:
-        if key in data and data[key]:
-            fm[key] = data[key]
+        val = data.get(key)
+        if val:
+            fm[key] = val
     return render_recipe_markdown(fm)
 
 
@@ -255,7 +287,7 @@ def build_markdown(data: dict, image_ref: str, user_tags: list,
 # CLI entry point
 # ---------------------------------------------------------------------------
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape a recipe URL and write markdown")
     parser.add_argument("--url", required=True)
     parser.add_argument("--tags", default="")
@@ -263,21 +295,26 @@ def main():
 
     user_tags = [t.strip() for t in args.tags.split() if t.strip()]
 
-    print(f"Fetching recipe from {args.url}…")
+    print(f"Fetching recipe from {args.url}\u2026")
     try:
         data = fetch_recipe(args.url)
     except Exception as e:
         print(f"ERROR: Failed to fetch recipe: {e}", file=sys.stderr)
         sys.exit(1)
 
-    print(f"Scraped: {data['title']}")
-    slug = slugify(data["title"])
+    title = data.get("title")
+    if not title:
+        title = "Untitled Recipe"
+    print(f"Scraped: {title}")
+    slug = slugify(title)
     filename = f"{slug}.md"
 
     images_dir = REPO_ROOT / "recipe_images"
+    images_dir.mkdir(parents=True, exist_ok=True)
+
+    image_ref = ""
     image_filename = f"{slug}.jpg"
     image_save_path = images_dir / image_filename
-    image_ref = image_filename
 
     if data.get("image_url"):
         downloaded = download_image(data["image_url"], args.url, image_save_path)
@@ -287,16 +324,17 @@ def main():
                 new_name = f"{slug}{actual_ext}"
                 image_save_path.rename(images_dir / new_name)
                 image_ref = new_name
+            else:
+                image_ref = image_filename
             print(f"Image saved: {image_ref}")
         else:
-            image_ref = ""
             if image_save_path.exists():
-                image_save_path.unlink()
-            print("Image download failed — recipe will have no image")
+                image_save_path.unlink(missing_ok=True)
+            print("Image download failed \u2014 recipe will have no image")
 
     md_content = build_markdown(data, image_ref, user_tags, original_url=args.url)
     recipes_dir = REPO_ROOT / "_recipes"
-    recipes_dir.mkdir(exist_ok=True)
+    recipes_dir.mkdir(parents=True, exist_ok=True)
     out_path = recipes_dir / filename
     out_path.write_text(md_content, encoding="utf-8")
     print(f"Written: _recipes/{filename}")
